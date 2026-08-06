@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Provenance — Art & Luxury Market Intelligence</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  :root{
+    --paper:#E8E2D3;
+    --paper-light:#F1EDE2;
+    --ink:#1A1A16;
+    --ink-soft:#4A473E;
+    --navy:#16233B;
+    --gold:#A67C3D;
+    --burgundy:#6E1F2E;
+    --sage:#3C4A3E;
+    --line:#C9C2AE;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter',sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* Ticker */
+  .ticker-wrap{
+    background:var(--navy);
+    overflow:hidden;
+    white-space:nowrap;
+    border-bottom:1px solid var(--gold);
+  }
+  .ticker{
+    display:inline-block;
+    padding:9px 0;
+    animation:scroll 42s linear infinite;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12.5px;
+    letter-spacing:0.02em;
+    color:var(--paper-light);
+  }
+  .ticker span{margin-right:48px;}
+  .ticker b{color:var(--gold); font-weight:500;}
+  @keyframes scroll{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  /* Masthead */
+  .masthead{
+    max-width:1240px;
+    margin:0 auto;
+    padding:38px 32px 22px;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    border-bottom:2px solid var(--ink);
+  }
+  .masthead h1{
+    font-family:'Fraunces',serif;
+    font-size:46px;
+    font-weight:600;
+    margin:0;
+    letter-spacing:-0.01em;
+  }
+  .masthead .sub{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    margin-top:6px;
+  }
+  .masthead .date{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    text-align:right;
+  }
+  .masthead .date b{display:block; color:var(--ink); font-size:13px; margin-bottom:3px;}
+
+  /* Filter tabs */
+  .tabs{
+    max-width:1240px;
+    margin:0 auto;
+    padding:18px 32px 0;
+    display:flex;
+    gap:6px;
+    flex-wrap:wrap;
+  }
+  .tab{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11.5px;
+    text-transform:uppercase;
+    letter-spacing:0.04em;
+    padding:7px 14px;
+    border:1px solid var(--ink);
+    background:transparent;
+    color:var(--ink);
+    cursor:pointer;
+    transition:background .15s, color .15s;
+  }
+  .tab:hover{background:var(--ink); color:var(--paper);}
+  .tab.active{background:var(--ink); color:var(--paper-light);}
+
+  /* Grid */
+  .grid{
+    max-width:1240px;
+    margin:0 auto;
+    padding:26px 32px 60px;
+    display:grid;
+    grid-template-columns:220px 1fr 260px;
+    gap:34px;
+  }
+  @media (max-width:980px){
+    .grid{grid-template-columns:1fr; }
+  }
+
+  h2.panel-title{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    color:var(--ink-soft);
+    margin:0 0 14px;
+    padding-bottom:8px;
+    border-bottom:1px solid var(--line);
+  }
+
+  /* Watchlist */
+  .watch-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:11px 0;
+    border-bottom:1px solid var(--line);
+    cursor:default;
+  }
+  .watch-row:hover{background:var(--paper-light);}
+  .watch-name{font-size:13px; font-weight:500;}
+  .watch-meta{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink-soft);}
+  .watch-delta{font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:500;}
+  .up{color:var(--sage);}
+  .down{color:var(--burgundy);}
+  svg.spark{display:block; margin-top:3px;}
+
+  /* Feed / lot cards */
+  .lot{
+    border:1px solid var(--ink);
+    background:var(--paper-light);
+    padding:20px 22px;
+    margin-bottom:18px;
+    position:relative;
+  }
+  .lot-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    margin-bottom:8px;
+  }
+  .lot-number{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    color:var(--gold);
+    letter-spacing:0.05em;
+  }
+  .lot-tag{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+    padding:3px 8px;
+    border:1px solid var(--ink-soft);
+    color:var(--ink-soft);
+  }
+  .lot h3{
+    font-family:'Fraunces',serif;
+    font-size:21px;
+    font-weight:500;
+    margin:0 0 8px;
+    line-height:1.25;
+  }
+  .lot p{
+    font-size:14px;
+    line-height:1.55;
+    color:var(--ink-soft);
+    margin:0 0 10px;
+  }
+  .lot-foot{
+    display:flex;
+    justify-content:space-between;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10.5px;
+    color:var(--ink-soft);
+    border-top:1px solid var(--line);
+    padding-top:9px;
+  }
+  .lot-entities span{
+    display:inline-block;
+    margin-right:8px;
+    color:var(--navy);
+  }
+
+  /* Signal panel */
+  .cloud{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:26px;}
+  .cloud-item{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    padding:5px 10px;
+    background:var(--paper-light);
+    border:1px solid var(--line);
+  }
+  .digest{
+    background:var(--navy);
+    color:var(--paper-light);
+    padding:18px 18px 20px;
+    font-size:13px;
+    line-height:1.6;
+  }
+  .digest .digest-label{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:0.08em;
+    color:var(--gold);
+    margin-bottom:9px;
+    display:block;
+  }
+
+  .hidden{display:none !important;}
+
+  .note{
+    max-width:1240px;
+    margin:0 auto;
+    padding:0 32px 40px;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    color:var(--ink-soft);
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <div class="ticker" id="ticker"></div>
+</div>
+
+<div class="masthead">
+  <div>
+    <h1>Provenance</h1>
+    <div class="sub">Art &amp; Luxury Market Intelligence — Daily</div>
+  </div>
+  <div class="date"><b>Monday, August 3 2026</b>18 new items since yesterday, 06:00</div>
+</div>
+
+<div class="tabs" id="tabs">
+  <button class="tab active" data-cat="all">All</button>
+  <button class="tab" data-cat="Auction Results">Auction Results</button>
+  <button class="tab" data-cat="Market Trends">Market Trends</button>
+  <button class="tab" data-cat="Luxury Brands">Luxury Brands</button>
+  <button class="tab" data-cat="Galleries & Institutions">Galleries &amp; Institutions</button>
+  <button class="tab" data-cat="Art News">Art News</button>
+</div>
+
+<div class="grid">
+
+  <!-- WATCHLIST -->
+  <div>
+    <h2 class="panel-title">Watchlist</h2>
+    <div id="watchlist"></div>
+  </div>
+
+  <!-- FEED -->
+  <div id="feed"></div>
+
+  <!-- SIGNAL -->
+  <div>
+    <h2 class="panel-title">Signal</h2>
+    <div class="cloud" id="cloud"></div>
+    <div class="digest">
+      <span class="digest-label">Week in brief</span>
+      Contemporary evening sales are outperforming estimates while post-war material softens — buyers are concentrating on a narrower list of blue-chip names. Watch for continued consolidation among mid-tier galleries and a fresh wave of brand-house exhibition spend ahead of the autumn calendar.
+    </div>
+  </div>
+
+</div>
+
+<div class="note">Prototype view — populated with sample data to test the layout. Swap in the live Inoreader feed whenever you're ready.</div>
+
+<script>
+const sampleArticles = [
+  {cat:"Auction Results", src:"Artnet News", time:"07:12", headline:"Post-war lot doubles estimate at evening sale", summary:"A single-owner post-war painting cleared well past its high estimate, with three phone bidders driving a seven-minute chase before hammer.", entities:["Christie's","Post-War"]},
+  {cat:"Market Trends", src:"The Art Newspaper", time:"06:48", headline:"Contemporary segment holds steady as broader market cools", summary:"Auction house data shows contemporary evening sales outperforming the wider market for a third consecutive season, even as overall consignment volume declines.", entities:["Sotheby's","Market Data"]},
+  {cat:"Luxury Brands", src:"WWD", time:"06:20", headline:"Conglomerate reports softer watch and jewelry division", summary:"Quarterly results point to a slowdown in hard luxury demand in Asia, partly offset by resilient fashion and leather goods performance.", entities:["LVMH","Watches & Jewelry"]},
+  {cat:"Galleries & Institutions", src:"Artforum", time:"05:55", headline:"Blue-chip gallery opens fourth outpost", summary:"The expansion adds a project space aimed at emerging and mid-career artists, continuing a run of physical growth against a cautious sales backdrop.", entities:["Gagosian"]},
+  {cat:"Art News", src:"Apollo Magazine", time:"05:30", headline:"Museum retrospective renews market interest in overlooked painter", summary:"A major institutional survey has coincided with a string of gallery resales, with dealers reporting a waiting list forming for the artist's smaller works.", entities:["Museums"]},
+  {cat:"Art News", src:"The Art Newspaper", time:"02:40", headline:"Longtime dealer steps back from namesake gallery", summary:"The founder is handing day-to-day operations to two long-serving directors, part of a broader generational shift underway among mid-size dealerships.", entities:["Dealers"]},
+  {cat:"Market Trends", src:"Bloomberg", time:"05:10", headline:"Private sales share of total auction house revenue keeps climbing", summary:"Houses continue to lean on private sales to smooth volatility in the public saleroom, a trend now several years running.", entities:["Christie's","Sotheby's"]},
+  {cat:"Auction Results", src:"Artnet News", time:"04:45", headline:"Design department sees record participation", summary:"A strong turnout for 20th-century design lots suggests continued crossover interest from collectors outside the traditional design-collecting base.", entities:["Phillips","Design"]},
+  {cat:"Luxury Brands", src:"Vogue Business", time:"04:20", headline:"Kering names new creative director for flagship house", summary:"The appointment is read as a signal of strategic reset following several quarters of underperformance relative to sector peers.", entities:["Kering"]},
+  {cat:"Galleries & Institutions", src:"The Art Newspaper", time:"03:55", headline:"Regional fair reports record dealer applications", summary:"Organizers say demand for booths outpaced available space for the first time since before the pandemic, citing renewed regional collector interest.", entities:["Art Basel"]},
+  {cat:"Market Trends", src:"Artnet News", time:"03:15", headline:"NFT-adjacent digital works quietly reappear at evening sales", summary:"A handful of houses have reintroduced digital and generative works into curated evening sessions, framed this time as part of broader mixed-media lots.", entities:["Digital Art"]},
+];
+
+const sampleWatchlist = [
+  {name:"Sotheby's", meta:"Auction House", delta:"+4.2%", dir:"up", spark:[3,5,4,6,7,6,8]},
+  {name:"Christie's", meta:"Auction House", delta:"+1.8%", dir:"up", spark:[5,5,6,5,6,7,7]},
+  {name:"LVMH", meta:"Conglomerate", delta:"-2.1%", dir:"down", spark:[7,6,6,5,5,4,4]},
+  {name:"Gagosian", meta:"Gallery / Dealer", delta:"+0.6%", dir:"up", spark:[4,4,5,5,4,5,5]},
+  {name:"Art Basel", meta:"Fair", delta:"+6.4%", dir:"up", spark:[2,3,3,4,5,6,8]},
+  {name:"Kering", meta:"Conglomerate", delta:"-3.5%", dir:"down", spark:[6,6,5,5,4,3,3]},
+  {name:"David Zwirner", meta:"Dealer / Gallery", delta:"+2.4%", dir:"up", spark:[3,3,4,4,5,5,6]},
+  {name:"Jeff Koons", meta:"Artist", delta:"+1.1%", dir:"up", spark:[4,4,4,5,5,5,6]},
+];
+
+const cloudTerms = ["blue-chip consolidation","private sales share","hard luxury slowdown","regional fair demand","digital/generative revival","post-war softening"];
+
+function sparkline(points){
+  const w=90,h=22,max=Math.max(...points),min=Math.min(...points);
+  const step=w/(points.length-1);
+  const pts=points.map((p,i)=>`${i*step},${h-((p-min)/(max-min||1))*h}`).join(" ");
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}"><polyline fill="none" stroke="currentColor" stroke-width="1.6" points="${pts}"/></svg>`;
+}
+
+let articles = sampleArticles;
+let watchlist = sampleWatchlist;
+
+function renderTicker(){
+  document.getElementById('ticker').innerHTML = articles.concat(articles).map(a=>`<span><b>${a.time}</b> ${a.headline} — ${a.src}</span>`).join("");
+}
+
+function renderWatchlist(){
+  document.getElementById('watchlist').innerHTML = watchlist.map(w=>`
+    <div class="watch-row">
+      <div>
+        <div class="watch-name">${w.name}</div>
+        <div class="watch-meta">${w.meta}</div>
+      </div>
+      <div style="text-align:right;">
+        <div class="watch-delta ${w.dir}">${w.delta}</div>
+        <div class="${w.dir}">${sparkline(w.spark)}</div>
+      </div>
+    </div>
+  `).join("");
+}
+
+document.getElementById('cloud').innerHTML = cloudTerms.map(t=>`<div class="cloud-item">${t}</div>`).join("");
+
+function renderFeed(filter){
+  const feed = document.getElementById('feed');
+  feed.innerHTML = `<h2 class="panel-title">Curated Feed</h2>` + articles
+    .filter(a=>filter==='all' || a.cat===filter)
+    .map((a,i)=>`
+      <div class="lot">
+        <div class="lot-top">
+          <span class="lot-number">LOT ${String(i+1).padStart(3,'0')}</span>
+          <span class="lot-tag">${a.cat}</span>
+        </div>
+        <h3>${a.headline}</h3>
+        <p>${a.summary}</p>
+        <div class="lot-foot">
+          <div class="lot-entities">${a.entities.map(e=>`<span>#${e.replace(/\s+/g,'')}</span>`).join('')}</div>
+          <div>${a.src} · ${a.time}</div>
+        </div>
+      </div>
+    `).join("");
+}
+
+document.querySelectorAll('.tab').forEach(tab=>{
+  tab.addEventListener('click', ()=>{
+    document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+    tab.classList.add('active');
+    renderFeed(tab.dataset.cat);
+  });
+});
+
+// Try to load live data (produced by the ingestion script). Falls back to
+// the sample data above so this file always renders something on its own.
+async function loadData(){
+  try{
+    const [aRes, wRes] = await Promise.all([
+      fetch('data/articles.json'),
+      fetch('data/watchlist.json')
+    ]);
+    if(aRes.ok){ const a = await aRes.json(); if(Array.isArray(a) && a.length) articles = a; }
+    if(wRes.ok){ const w = await wRes.json(); if(Array.isArray(w) && w.length) watchlist = w; }
+  }catch(e){
+    // no data/ files yet (e.g. previewing standalone) — sample data stands in
+  }
+  renderTicker();
+  renderWatchlist();
+  renderFeed('all');
+}
+loadData();
+</script>
+
+</body>
+</html>

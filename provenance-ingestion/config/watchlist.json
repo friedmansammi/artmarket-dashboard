@@ -1,0 +1,13 @@
+{
+  "_comment": "Entities to track. 'type' should be one of: Auction House, Conglomerate, Gallery / Dealer, Fair, Artist, Dealer / Gallery. Add or remove freely — the ingestion script matches these names (case-insensitive substring match) against extracted entities in each article.",
+  "entities": [
+    { "name": "Sotheby's", "type": "Auction House" },
+    { "name": "Christie's", "type": "Auction House" },
+    { "name": "Phillips", "type": "Auction House" },
+    { "name": "LVMH", "type": "Conglomerate" },
+    { "name": "Kering", "type": "Conglomerate" },
+    { "name": "Gagosian", "type": "Gallery / Dealer" },
+    { "name": "David Zwirner", "type": "Dealer / Gallery" },
+    { "name": "Art Basel", "type": "Fair" }
+  ]
+}

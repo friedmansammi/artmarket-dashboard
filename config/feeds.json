@@ -1,0 +1,10 @@
+{
+  "_comment": "One entry per Inoreader folder. Get the feed_url from: Inoreader > open the folder > folder settings (••• menu) > 'Generate feed' / 'Folder RSS'. suggested_category is just a hint passed to the model — it will still re-categorize based on the actual content.",
+  "feeds": [
+    { "name": "Auction Houses", "feed_url": "REPLACE_WITH_INOREADER_FOLDER_FEED_URL", "suggested_category": "Auction Results" },
+    { "name": "Market Data & Reports", "feed_url": "REPLACE_WITH_INOREADER_FOLDER_FEED_URL", "suggested_category": "Market Trends" },
+    { "name": "Luxury Conglomerates", "feed_url": "REPLACE_WITH_INOREADER_FOLDER_FEED_URL", "suggested_category": "Luxury Brands" },
+    { "name": "Galleries & Institutions", "feed_url": "REPLACE_WITH_INOREADER_FOLDER_FEED_URL", "suggested_category": "Galleries & Institutions" },
+    { "name": "General Art News", "feed_url": "REPLACE_WITH_INOREADER_FOLDER_FEED_URL", "suggested_category": "Art News" }
+  ]
+}
