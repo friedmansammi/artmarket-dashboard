@@ -22,8 +22,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run ingestion
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python ingest.py
 
       - name: Commit updated data
