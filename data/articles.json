@@ -1,5 +1,51 @@
 [
   {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "08-19 19:17",
+    "headline": "Fakes Proliferate as South Asian Art Market Booms, Dealers Warn",
+    "summary": "As mentioned, South Asian modern art exceeded $100 million in auction sales in 2025, capping several years of increasingly muscular results. For South Asian art, the timing is particularly awkward. © 2026 Art Media, LLC.",
+    "entities": [
+      "Sotheby's",
+      "Christie's"
+    ],
+    "link": "https://www.artnews.com/art-news/market/south-asian-modern-art-fakes-forgeries-market-1234795249/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "08-19 19:17",
+    "headline": "Christie’s and Sotheby’s Are Duking It Out to Secure Eccentric Collector Herbert Lust’s $60 M. Art Holdings",
+    "summary": "The auction house has spent years cultivating Lust and his collection. Then Lust read Sartre. © 2026 Art Media, LLC.",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://www.artnews.com/art-news/market/christies-sothebys-battle-herbert-lust-collection-1234795281/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "08-19 19:17",
+    "headline": "Bruce Museum Names New Chief Curator, Yusaku Maezawa’s Art-Filled $350 M. Yacht, and More: Industry Moves for August 19, 2026",
+    "summary": "Williams survey at Los Angeles County Museum of Art. The World's Premier Art Magazine since 1913. © 2026 Art Media, LLC.",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://www.artnews.com/art-news/market/bruce-museum-chief-curator-yusaku-maezawa-yacht-industry-moves-1234795285/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-19 19:19",
+    "headline": "Fakes Proliferate as South Asian Art Market Booms, Dealers Warn",
+    "summary": "As mentioned, South Asian modern art exceeded $100 million in auction sales in 2025, capping several years of increasingly muscular results. For South Asian art, the timing is particularly awkward. © 2026 Art Media, LLC.",
+    "entities": [
+      "Sotheby's",
+      "Christie's"
+    ],
+    "link": "https://www.artnews.com/art-news/market/south-asian-modern-art-fakes-forgeries-market-1234795249/"
+  },
+  {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "08-19 05:01",
