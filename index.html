@@ -390,9 +390,14 @@ async function loadData(){
   }catch(e){
     // no data/ files yet (e.g. previewing standalone) — sample data stands in
   }
-  renderTicker();
+    renderTicker();
   renderWatchlist();
   renderFeed('all');
+  const dateStr = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  document.getElementById('live-date').innerHTML = `<b>${dateStr}</b>${articles.length} items tracked`;
+  document.getElementById('live-note').textContent = articles === sampleArticles
+    ? "Prototype view — populated with sample data to test the layout."
+    : "";
 }
 loadData();
 </script>
