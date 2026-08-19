@@ -357,16 +357,16 @@ function renderFeed(filter){
   feed.innerHTML = `<h2 class="panel-title">Curated Feed</h2>` + articles
     .filter(a=>filter==='all' || a.cat===filter)
     .map((a,i)=>`
-      <div class="lot">
+            <div class="lot">
         <div class="lot-top">
           <span class="lot-number">LOT ${String(i+1).padStart(3,'0')}</span>
           <span class="lot-tag">${a.cat}</span>
         </div>
-        <h3>${a.headline}</h3>
+        <h3>${a.link ? `<a href="${a.link}" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">${a.headline}</a>` : a.headline}</h3>
         <p>${a.summary}</p>
         <div class="lot-foot">
           <div class="lot-entities">${a.entities.map(e=>`<span>#${e.replace(/\s+/g,'')}</span>`).join('')}</div>
-          <div>${a.src} · ${a.time}</div>
+          <div>${a.link ? `<a href="${a.link}" target="_blank" rel="noopener" style="color:inherit;">Read full article →</a> · ` : ''}${a.src} · ${a.time}</div>
         </div>
       </div>
     `).join("");
