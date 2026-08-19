@@ -176,6 +176,18 @@
     border:1px solid var(--ink-soft);
     color:var(--ink-soft);
   }
+    .star-btn{
+    background:none;
+    border:none;
+    cursor:pointer;
+    font-size:20px;
+    line-height:1;
+    color:var(--ink-soft);
+    padding:0 2px;
+    transition:color .15s, transform .1s;
+  }
+  .star-btn:hover{ transform:scale(1.15); }
+  .star-btn.starred{ color:var(--gold); }
   .lot h3{
     font-family:'Fraunces',serif;
     font-size:21px;
@@ -263,6 +275,7 @@
   <button class="tab" data-cat="Luxury Brands">Luxury Brands</button>
   <button class="tab" data-cat="Galleries & Institutions">Galleries &amp; Institutions</button>
   <button class="tab" data-cat="Art News">Art News</button>
+  <button class="tab" data-cat="saved">★ Saved</button>
 </div>
 
 <div class="grid">
@@ -352,15 +365,37 @@ function renderWatchlist(){
 
 document.getElementById('cloud').innerHTML = cloudTerms.map(t=>`<div class="cloud-item">${t}</div>`).join("");
 
+let savedIds = (() => {
+  try { return JSON.parse(localStorage.getItem('provenance_saved') || '[]'); }
+  catch(e) { return []; }
+})();
+function getArticleId(a){ return a.link || (a.headline + '|' + a.time); }
+function isSaved(id){ return savedIds.includes(id); }
+function toggleSaved(id){
+  const idx = savedIds.indexOf(id);
+  if(idx === -1) savedIds.push(id); else savedIds.splice(idx, 1);
+  localStorage.setItem('provenance_saved', JSON.stringify(savedIds));
+}
+
 function renderFeed(filter){
   const feed = document.getElementById('feed');
-  feed.innerHTML = `<h2 class="panel-title">Curated Feed</h2>` + articles
-    .filter(a=>filter==='all' || a.cat===filter)
-    .map((a,i)=>`
-            <div class="lot">
+  const list = articles.filter(a => {
+    if (filter === 'all') return true;
+    if (filter === 'saved') return isSaved(getArticleId(a));
+    return a.cat === filter;
+  });
+
+  feed.innerHTML = `<h2 class="panel-title">Curated Feed</h2>` + list.map((a, i) => {
+    const id = getArticleId(a);
+    const starred = isSaved(id);
+    return `
+      <div class="lot">
         <div class="lot-top">
           <span class="lot-number">LOT ${String(i+1).padStart(3,'0')}</span>
-          <span class="lot-tag">${a.cat}</span>
+          <div style="display:flex; align-items:center; gap:10px;">
+            <span class="lot-tag">${a.cat}</span>
+            <button class="star-btn ${starred ? 'starred' : ''}" data-id="${id.replace(/"/g,'&quot;')}" title="Save for later">${starred ? '★' : '☆'}</button>
+          </div>
         </div>
         <h3>${a.link ? `<a href="${a.link}" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">${a.headline}</a>` : a.headline}</h3>
         <p>${a.summary}</p>
@@ -369,7 +404,18 @@ function renderFeed(filter){
           <div>${a.link ? `<a href="${a.link}" target="_blank" rel="noopener" style="color:inherit;">Read full article →</a> · ` : ''}${a.src} · ${a.time}</div>
         </div>
       </div>
-    `).join("");
+    `;
+  }).join("") + (filter === 'saved' && list.length === 0
+    ? `<p style="color:var(--ink-soft); font-family:'IBM Plex Mono',monospace; font-size:12px;">No saved articles yet — click the star on any article to save it here.</p>`
+    : "");
+
+  feed.querySelectorAll('.star-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      toggleSaved(btn.dataset.id);
+      renderFeed(document.querySelector('.tab.active').dataset.cat);
+    });
+  });
+}
 }
 
 document.querySelectorAll('.tab').forEach(tab=>{
