@@ -1,10 +1,10 @@
 {
   "_comment": "One entry per Inoreader folder. Get the feed_url from: Inoreader > open the folder > folder settings (••• menu) > 'Generate feed' / 'Folder RSS'. suggested_category is just a hint passed to the model — it will still re-categorize based on the actual content.",
   "feeds": [
-    { "name": "Auction Houses", "feed_url": , "suggested_category": "Auction Results" },
-    { "name": "Museums", , "suggested_category": "Market Trends" },
-    { "name": "Luxury Conglomerates", "feed_url": , "suggested_category": "Luxury Brands" },
-    { "name": "Galleries & Institutions", "feed_url": , "suggested_category": "Galleries & Institutions" },
+    { "name": "Auction Houses", "feed_url": "https://www.inoreader.com/stream/user/1003742561/tag/Auction%20Houses", "suggested_category": "Auction Results" },
+    { "name": "Museums", "feed_url": "https://www.inoreader.com/stream/user/1003742561/tag/Museums", "suggested_category": "Market Trends" },
+    { "name": "Luxury Conglomerates", "feed_url": "https://www.inoreader.com/stream/user/1003742561/tag/Luxury", "suggested_category": "Luxury Brands" },
+    { "name": "Galleries & Institutions", "feed_url": "https://www.inoreader.com/stream/user/1003742561/tag/Galleries%20%26%20Artists", "suggested_category": "Galleries & Institutions" },
     { "name": "General Art News", "feed_url": "https://www.inoreader.com/stream/user/1003742561/tag/Fine%20Art%20News", "suggested_category": "Art News" }
   ]
 }
