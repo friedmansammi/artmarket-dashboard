@@ -95,11 +95,24 @@ def clean_html(raw):
     return BeautifulSoup(raw or "", "html.parser").get_text(" ", strip=True)
 
 
+BOILERPLATE_MARKERS = [
+    "cookie", "newsletter", "privacy policy", "we use vendors",
+    "accept all", "manage your privacy", "third-party partners",
+    "terms of service", "sign up", "subscribe",
+]
+
 def fetch_full_text(url, fallback):
     try:
         resp = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
         soup = BeautifulSoup(resp.text, "html.parser")
-        paragraphs = [p.get_text(" ", strip=True) for p in soup.find_all("p")]
+        paragraphs = []
+        for p in soup.find_all("p"):
+            text = p.get_text(" ", strip=True)
+            if len(text) < 40:
+                continue
+            if any(marker in text.lower() for marker in BOILERPLATE_MARKERS):
+                continue
+            paragraphs.append(text)
         text = " ".join(paragraphs)
         return text[:8000] if len(text) > 200 else fallback
     except Exception:
