@@ -5,6 +5,6 @@
     { "name": "Museums", , "suggested_category": "Market Trends" },
     { "name": "Luxury Conglomerates", "feed_url": , "suggested_category": "Luxury Brands" },
     { "name": "Galleries & Institutions", "feed_url": , "suggested_category": "Galleries & Institutions" },
-    { "name": "General Art News", "feed_url": , "suggested_category": "Art News" }
+    { "name": "General Art News", "feed_url": "https://www.inoreader.com/stream/user/1003742561/tag/Fine%20Art%20News", "suggested_category": "Art News" }
   ]
 }
