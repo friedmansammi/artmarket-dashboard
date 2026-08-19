@@ -329,7 +329,10 @@ let articles = sampleArticles;
 let watchlist = sampleWatchlist;
 
 function renderTicker(){
-  document.getElementById('ticker').innerHTML = articles.concat(articles).map(a=>`<span><b>${a.time}</b> ${a.headline} — ${a.src}</span>`).join("");
+  const el = document.getElementById('ticker');
+  el.innerHTML = articles.concat(articles).map(a=>`<span><b>${a.time}</b> ${a.headline} — ${a.src}</span>`).join("");
+  const pxPerSecond = 60;
+  el.style.animationDuration = Math.max(20, el.scrollWidth / pxPerSecond) + 's';
 }
 
 function renderWatchlist(){
