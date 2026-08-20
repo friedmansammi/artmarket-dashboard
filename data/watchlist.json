@@ -2,19 +2,21 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      7
+      7,
+      0
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      6
+      6,
+      0
     ]
   },
   {
@@ -23,6 +25,7 @@
     "delta": "+0.0%",
     "dir": "up",
     "spark": [
+      0,
       0
     ]
   },
@@ -32,6 +35,7 @@
     "delta": "+0.0%",
     "dir": "up",
     "spark": [
+      0,
       0
     ]
   },
@@ -41,16 +45,18 @@
     "delta": "+0.0%",
     "dir": "up",
     "spark": [
+      0,
       0
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      5
+      5,
+      0
     ]
   },
   {
@@ -59,16 +65,18 @@
     "delta": "+0.0%",
     "dir": "up",
     "spark": [
+      0,
       0
     ]
   },
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-75.0%",
+    "dir": "down",
     "spark": [
-      4
+      4,
+      1
     ]
   }
 ]
