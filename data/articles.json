@@ -1,5 +1,61 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "08-22 10:30",
+    "headline": "Ryoji Ikeda - data.gram [nº11] at Art Basel’s Zero 10 - Ad-hoc-news.de",
+    "summary": "Ryoji Ikeda - data.gram [nº11] at Art Basel’s Zero 10 Ad-hoc-news.de",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGUyM3hYWGE2eG5CSWxyUUo3SzhrOWlPLXgzdEx4YXN3MFRrMnFmMTZXNURibzZfc3hETmxZc2xKbGUwb2hOak80Q0JPYmdRU0NlcDh4aVdCZjFyMzNPYWZ3Y01ULWRuT2FnTHB6WUZUU3BmSlZoV0ctV3lXdUhjclZDY3cxbzFkcUJKVHRQWThnUVJ3c1pvWF9WUy1QV3VRSy1TZzY3X20?oc=5"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-22 10:19",
+    "headline": "How to Wear a Handkerchief According to the Street Style Set",
+    "summary": "Below, our favorite handkerchief looks as captured on the street. Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/street-style-handkerchief-trend"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-22 10:19",
+    "headline": "On Her 31st Birthday, Look Back at 31 of Dua Lipa’s Best Fashion Moments",
+    "summary": "In custom Prada at the Critics Choice Awards. Wearing custom Chanel at the 2025 Met Gala. In Chanel at the Chanel spring 2026 couture show.",
+    "entities": [],
+    "link": "https://www.vogue.com/slideshow/dua-lipa-best-fashion-moments"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-22 10:19",
+    "headline": "The Best Azelaic Acid Products Tackle Breakouts, Dark Spots, and Redness All at Once",
+    "summary": "What percentage of azelaic acid is best? What products should you not pair with azelaic acid? For added comfort, try combining azelaic acid with hydrating and soothing ingredients.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/best-azelaic-acid-products"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-22 10:19",
+    "headline": "Where Meghan Markle and Prince Harry Could—or Should—Live in the UK",
+    "summary": "Bruton is a magnet for the fashion set, meaning Meghan would feel right at home. The VIP neighbours: The aforementioned fashion-y group. Closest airport: Bristol Airport is a mere 22 miles away.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/where-meghan-and-harry-could-or-should-live-in-the-uk"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-22 10:49",
+    "headline": "On Her 31st Birthday, See Dua Lipa’s Beauty Evolution in 20 Photos",
+    "summary": "In June, Lipa married actor Callum Turner in Sicily , wearing custom Chanel, no less. Dua Lipa debuted her cherry cola tresses at the 2024 Grammy Awards. Dua wore the chicest hair bow and brick red blush to attend Chanel’s spring 2025 couture show.",
+    "entities": [],
+    "link": "https://www.vogue.com/slideshow/dua-lipa-beauty-evolution"
+  },
+  {
     "cat": "Luxury Brands",
     "src": "Luxury via friedmansammi on Inoreader",
     "time": "08-22 09:38",
@@ -1784,59 +1840,5 @@
     "summary": "Fake Mothership account promotes bogus S$139 Rolex watches Mothership",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRGZFbG1ZUHB5clpFYjA0U1g1N3ppV3d6c0VLcnZKeENWTzJ0ZHNqU3R5TU1jSUxQUldlSXp5MW9YaDl0d1Nadk1PdWhITnJxUGUySmVqOHRQOE05WThoY1BBYlpZZFE?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 10:11",
-    "headline": "Drake’s Luxury Watch Collection Is As Incredible As His Music - AugustMan Singapore",
-    "summary": "Drake’s Luxury Watch Collection Is As Incredible As His Music AugustMan Singapore",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2IwRE8tM3daZFlBbHVtTEtsTm93eEYxd2pKM0d0Z1FZY1dQUE1kdlR0STJKcjhBOTAtRDRUaW9zLXRkeEJWV3J3U3RIZFNNeTYyc1dORkR6UkJpeWZrcmZSWTIxNnl4cVRQLVVKOWF1Y0ZmRUR2T1BKTFV5blVJcklhdl9NbjUyNjVWZ0ZjV1VuNUZ6SnJNaGdkaXJWbU3SAaQBQVVfeXFMUDVDM1ppZERrOEJwOGhiLWZzUVhGR3V1dzFOYU1UTzlKV253bHJERm5GeXhxeFBia1FwNHpqcG1hRVVzemNVZzNud1d2X0FZS3lQdnNCSXBzUVBreVE3T0VHSWN3VWU3RjM3T0tVRFRUaTYzUWhUWXl5Nk1vUGctYkJyaTVRbF9DUEMwNzZLamhZTm93cmQ1VlNMQ2EyN1hSczlqaDE?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 10:18",
-    "headline": "Aperitivo Hour: A Sunny Saturday Apéro with Cat Chen",
-    "summary": "The one glass of wine to one glass of water ratio is so real.” “I always use ivory votive candles in clear glass. My house is always filled with flowers, usually from the farmers market. I always do these the day before: arrange flowers, iron the tablecloth, set out wine glasses.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/aperitivo-hour-cat-chen"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 10:18",
-    "headline": "70 Glorious Kim Cattrall Looks, In Honor of Her 70th Birthday",
-    "summary": "Many of her winning fashion moments, of course, have also stemmed from her years promoting Sex and the City . Below, scroll on for 70 glorious Cattrall looks, in honor of her 70th birthday. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/slideshow/kim-cattrall-best-red-carpet-looks"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 10:20",
-    "headline": "To see it is to want it.",
-    "summary": "",
-    "entities": [],
-    "link": "https://www.youtube.com/shorts/vLXCUawtVRQ"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 10:30",
-    "headline": "Beyond the Runway: The Luxury Watches Fashion’s Top Creative Directors Swear By - Prestige Online - Singapore",
-    "summary": "Beyond the Runway: The Luxury Watches Fashion’s Top Creative Directors Swear By Prestige Online - Singapore",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDU5X2dSaW5oUDhjU2Q2bzZqV01URjRXOEtIb3BSYTZfd09xUFI3bE56TnhpYmozSXRhcnQ5YVlVYlR4em9fYWZEUUJEV2MzVFdXYzdjTjBSOGs2VlpoX3laWlltb21sRHhBRW5rcUhaV0RoR1pzYUdySFV4VWhSOTY2dy04X1k1ZjV3SXJ1aVZvWGl1WlBuTnNDVllUeGFpM3ZseFJRVdIBrAFBVV95cUxQVDJva21TY1dLbUtLYld0cERpT002c1ppWjZCZkNQVDAzWENDbHhFOXdWTG1icE5fQmJGUTd4b0dUc0g2RnotQkF1UngzMWVMeEhlRklEV3hCaFhwNlZLeDNhbFRlLXhVRC1WY3NQYVZJSTB3S05zVlpiREZackktZy1tZ2w5RFV1d0ZhbUpVWVlpYXZEMDR1d2pJelkyZ2ZQS1VjVGUzRWxkU25W?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 10:48",
-    "headline": "I, Too, Would Like to Vacation With the Lipas",
-    "summary": "Dua and Callum on honeymoon back in June. Dua Lipa’s 30th birthday celebrations in Ibiza, last year. Dua Lipa with then husband-to-be Callum Turner.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/dua-lipa-family-birthday-vacation-ibiza-formentera"
   }
 ]
