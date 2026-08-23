@@ -1,6 +1,51 @@
 [
   {
     "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-23 10:30",
+    "headline": "The 7 Best Airbnbs in Morocco Include Stately Riads",
+    "summary": "Welcome to the Moroccan riad. Amenities : Kitchen, washer, dryer, AC, heating, outdoor dining area, pool, breakfast, on-street parking If the medina streets outside feel chaotic, Riad Yaz is the antidote. Amenities : Kitchen, washer, AC, heating, cot Vogue ’s Vacation Shop Is Open!",
+    "entities": [],
+    "link": "https://www.vogue.com/article/airbnbs-in-morocco"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-23 10:30",
+    "headline": "From Sophia Loren to Monica Bellucci, 20 Times Italian Bombshells Ruled the Venice Film Festival",
+    "summary": "Italian starlet Leonora Ruffo poses for photographers at the 14th Venice Film Festival. Italian stalwart Elsa Martinelli in a one-shouldered showstopper at a party during the 17th Venice Film Festival. A young Warren Beatty with Claudia Cardinale, dressed in a white fur cape and dramatic earrings, at a party during the 26th Venice Film Festival.",
+    "entities": [],
+    "link": "https://www.vogue.com/slideshow/20-times-italian-bombshells-ruled-the-venice-film-festival"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-23 10:44",
+    "headline": "Vinod Prabhakar thanks Sonal Monteiro for bringing him on board Rolex - Cinema Express",
+    "summary": "Vinod Prabhakar thanks Sonal Monteiro for bringing him on board Rolex Cinema Express",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWU45Rm56cXNodVZWd3Y2T25nOGEtZ3RnXzctSFlOSzQ4VlVGVVZnZmQ2bDNTSk5OeTNzZ2pxclFwT3RVbjRqUnVxd2F2eEJMdjZjWWdDYmdXQnNraGZGZ19kQkNqME0ycFlvd0JGdWJUSWdYb04yNTN4OXFXSGc3cHJkdkFQQmtYSzJMX29CdDI4VEVienRLWTlHQUY5V1JzMjBNbF9SM3F5N3oyYUoxNW1oNXBfX0pZU00wU0ZqYlRhZ9IBzwFBVV95cUxNZ3d5bGtOa1NwaEw3VVk5ZG9tZ3ZsaDd6ZGphMnZ1ZTNQcnNhWUdJNTlFR1p6UmZSS3dsRmFoZVBfMjFVc1R4REdiTDZqX0d1T3VPdF9kallDQjVlQ3c4QUxXQTFWMWF5WFBrMUNGdG1qelZnQ3N2Uk5ZZFhGOGtJdnZKYU5aTDlUSzNrOXhXUDZmdVpfR0o4QS1yZWNGLWc1TEpHMVQtOXlyNnRXSzRhNkN1Uk01OEstU1NWaGNZWEE4amZBRUtkU1k2cFVtaGc?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-23 10:52",
+    "headline": "Europe’s luxury giants discern green shoots in China - Jing Daily",
+    "summary": "Europe’s luxury giants discern green shoots in China Jing Daily",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmNZS2hZeFZTeDRLSXFCWlE0LWd5ZWtUMWdTenBPX3ZJZy1wc3JISFMzOEVZalpKSWRVNEpHMWVRVW1EcFNMbU5veHlfYWpycUdNUWY5OUI5WDltY0gxWkNSWjBKLXZzNTFjd1pjS015bXVtVlVwTDhFSWJOaHI0Zy11U0dnejA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-23 10:32",
+    "headline": "Soaring prices: What's selling at auction and what's not - NZ Herald",
+    "summary": "Soaring prices: What's selling at auction and what's not NZ Herald",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkZDT0s2dWs5bklUSXp4QVRWeExpM0dCRnJ2Qk5SUTdTNFU4dkxja2dPc3MxQmtJQmY1Z0dIOUNLX3lUb1RvTk5vRmI1WXdBUU1uRVRtNlBpZWpFZUt4NVN2YXhlVFllY1Jpa1hiRkFGTk9TSjdJVDc0NGg4c2tBd3dpcDBFWThzZlBNM2ttUE1KdWRfSkRHZ2ZQdFpEOG9YbjlhYWxkMFdvSFRfV014UDlrUEp4NHFGNGZCOW9hZU0xanJOVThyRDNZQk05c2kwWGc?oc=5"
+  },
+  {
+    "cat": "Auction Results",
     "src": "Auction Houses via friedmansammi on Inoreader",
     "time": "08-23 09:32",
     "headline": "Record-breaking Wotton Auction Rooms looks ahead to another ‘very special’ sale - Stroud Times",
@@ -1799,50 +1844,5 @@
     "summary": "The Parthenon frieze was designed to be viewed as a cinematic sequence that only comes to life as you walk by, not as a static work of art La Brújula Verde",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORDRfVGVXaXg3SEZCWWo2aHFRbW1oWHFQUE1lV2RYR0lQZWlGZVgwdTdTakxzVEtuTEtRWkk1a21VRV9tV0VDWDJIV1RZblY4VUlJTzR2dmtOZTdMdkNWOHFQQjNMdlBOaVNod3RrblVOOGI4cFBTcEdnMFRSR1NHaWgxUzdWWTR2RmNkczRpZHpRTXBHbXRWUHlPZ3BVT3NPTHpWdFJib0U3dGtjRXktb3dQQXF4Y0NYM3FGUm9BVENhQ2lCME5ZblZrRkxCVmxUWkw5SXlJU2RMa2NiRFVNNGJOQlBZU1dXeHFnVmR6TlNqTzdPY1hfdjZqNE1ybmZlbi1sUW13Z0taUEtt?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "08-21 14:47",
-    "headline": "Bruce Nauman and the biennial and fair presence in 2026 - Ad-hoc-news.de",
-    "summary": "Bruce Nauman and the biennial and fair presence in 2026 Ad-hoc-news.de",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3A0a3Z5YkFHTlQyckZsTjVYa0RwSTd6c3BiSndBLVhVajl3ZDF6NEZqUkZwQ0RFWTh0TmVKXy1pc0dmaTNiS2pVR3ZNSzRweDNpSmROZ3pzc0ZFaUdzcDVuSkFhcWlHMkRGTUFhbGRVcjJjTnNHY2c5SWcwUTU0Sk90aUswbzA5X3NHbXZsdjVzQTlsZFBiNG43d01BcFdjTGVXcFk5aXlpVmtuci13cA?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 14:30",
-    "headline": "'There Was Hardly a Dry Eye on Board' - Report and Photos from the Richard Mille Cup 2026 - Classic Boat Magazine",
-    "summary": "'There Was Hardly a Dry Eye on Board' - Report and Photos from the Richard Mille Cup 2026 Classic Boat Magazine",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdlJwWkh6WF91MkVaVTQ0d3NFbkFUSnpvNnZqUndLbTk2anBtckZCUkJSSkJNUVZHb3lVZnRFQWlZaVFFdVgwMXJmLUZickE0RGlva21uc0U3S0pWMTBNbXQ5TWczd19td0NjRWV4TTJjNW8?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 14:30",
-    "headline": "Richard Mille’s Technical Revolution: The Innovations That Changed Watchmaking - Outlook Luxe",
-    "summary": "Richard Mille’s Technical Revolution: The Innovations That Changed Watchmaking Outlook Luxe",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlJUdmQ1VksxZklGRF9XbEIxUDJuTC1Nc0Z3Ym5TdmQ1R0dfVkg1Tmg0SFJMTDZ2RFd4RDFCMVNEXzhjY0NGdktyODJPNERFOVNxT05yR1JvVV9hX25ZUFVITUdnVzhacnJDaGRBMTBYX3NLcWV0a1RJYjdGM0lJWjluWVZFX3BWb0NCWTdlOTVoMHVGV3ByTEF0aEhQSlJIWWtsQk5ybWFhTXpMVng4aVk4dmNCbXAzU3RmNHJFWVF1NUYzY0Rtbk1ZNlh4amN0X3JIVmswQ2NUQdIB2gFBVV95cUxQWlJUdmQ1VksxZklGRF9XbEIxUDJuTC1Nc0Z3Ym5TdmQ1R0dfVkg1Tmg0SFJMTDZ2RFd4RDFCMVNEXzhjY0NGdktyODJPNERFOVNxT05yR1JvVV9hX25ZUFVITUdnVzhacnJDaGRBMTBYX3NLcWV0a1RJYjdGM0lJWjluWVZFX3BWb0NCWTdlOTVoMHVGV3ByTEF0aEhQSlJIWWtsQk5ybWFhTXpMVng4aVk4dmNCbXAzU3RmNHJFWVF1NUYzY0Rtbk1ZNlh4amN0X3JIVmswQ2NUQQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 14:47",
-    "headline": "Lords of the Rings: Menswear Designers Are Going All-In on This Frisky, Statement-Making Earring",
-    "summary": "Vuitton’s Pharrell Williams, meanwhile, sent out models sporting dangling silver bands daintily engraved with the brand’s LV monogram. “I am drawn to ornamentation for sure, and hoops feel quite classic,” says Julian Louie, of Aubero . As Louie put it: “I feel naked without them!” © 2026 Condé Nast.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/hoop-earrings-mens-trend"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-21 14:58",
-    "headline": "A Luxury Skincare Line, Made for Younger Faces",
-    "summary": "La Prairie’s new Swiss Pristine collection, aimed at entry-level shoppers, is a big bet on how aspirational products can be.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/articles/beauty/la-prairie-swiss-pristine-young-luxury-beauty-consumers/"
   }
 ]
