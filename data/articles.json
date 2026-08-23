@@ -1,5 +1,34 @@
 [
   {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-23 11:24",
+    "headline": "Courtside Precision: 7 High-Performance Watches Built for the US Open - WatchTime",
+    "summary": "Courtside Precision: 7 High-Performance Watches Built for the US Open WatchTime",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUZyaXFualZ2eDJaWmdnOFhWR19ZQzZQdmNjc3NBYTR3TDFOZElqVldaVkpJaG5CaFhYbDlIVW9BREZoeDV5U0ZTbE4tU29WOWVJbC1NWmRmOXplUzhxcHplNTFOQURJZnZqNThvTHlTbW90azRlRHlZUTJtT1QzZUg0U0U4VFR0Z1d3MA?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-23 11:52",
+    "headline": "Nikita Kering - Niwache (House Remix) - YouTube",
+    "summary": "Nikita Kering - Niwache (House Remix) YouTube",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zQms1RTAxN0F6UUc4ZXVDTldqTXJ3b2xleERxTHJudG1JUkhTUmkwbHEzZVBMX0MyUVNVc2w2azJJbVZUcW9KYmVFdFlvUWp2aC03ZUlrZElUM3Vs?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-23 11:33",
+    "headline": "Record average for Huntersvlei Sussex stud bulls - African Farming",
+    "summary": "Record average for Huntersvlei Sussex stud bulls African Farming",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM3VYVUFISFFZb2tTZm5HZ3AwZkNISFdua1c0MU9zV3AtZVhzOWNnRElsNFVOZG85LWl4SmV1dXhNWjB5c3BrVUE5WHh5RHdZOVlIaGVjZzdwaHp4TzFkaGctaC0wNmZVYi1uNEFyWHMzS2l5U1kzWk5pdG1jTmN2bmoxRVlTb2xtNWRVcm8xVWU0MzkxUmc?oc=5"
+  },
+  {
     "cat": "Auction Results",
     "src": "Luxury via friedmansammi on Inoreader",
     "time": "08-23 10:30",
@@ -1817,32 +1846,5 @@
     "summary": "15 Important Cars from the 2026 Gooding Christie’s Pebble Beach Auction Hagerty",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2E0QnJZaUV0MlY0MDJ6WHJ1VTdzeXhndTFhczJVZmpGRWQwaC1GRnBLTWdHSDRZSURyWGFpbDJTdDN6SE1qM0Q3SHp5RE9nazNaWTMyWDFJZHpDNHhwNTB6ckl0S3lRSlpIdlM5SERXTXduMm04eGNaclBpNng1YnlFTzNPb1VHVm9MOGZnNGg1UXVnellHa255bnlkRG55RDVxTHppN2UyMXZTSEl0NnpDSWlYQQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "08-21 17:10",
-    "headline": "Mahatma Gandhi's manuscript sells for ₹16.2 crore at auction, sets record - Check details | India News - Hindustan Times",
-    "summary": "Mahatma Gandhi's manuscript sells for ₹16.2 crore at auction, sets record - Check details | India News Hindustan Times",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQmQ5cTY0dVhoWkhIZ0dDQkhJTjYyOFhybk5VR3RPM0hBYV9wYms2bUY5OGg3VUdTZVBRQTViV1dzRGc0ZC1iNXJoRTFyZTlaNjU3VWlaaGs4Z016eF80MTVIc3dPZ19OSHNVaUUtdHNYUW5RR1V2NHpvT3hpYmg3SE9ZQVNURXF1NGVzYjMzbnFLVWNQN3k5RTZheWt5YV9IY3RZb3RITEhEZERUU1h1VEFfMmtOTmJmRUo2ZTlfWVBiY1FzREpZbzJncURCTDNQS19pbW9WYkJqUW9PQ05meDduNHVxVS1sQk9KeUZHdWVUUjNzOEFhak5yc1ZiZXNlOEFVYzdXVkhYQdIBjwJBVV95cUxQU0M4WGVVc2x1NnRGMUVzc3A4M24tMWFvV01UTWJlVzJwdFQyTDVMb1gwUWd0b19WZm9YQ0kyM3duU05TeFQ1WmFXbkJTenZUS09GNHdmRzNHTlVKeW5kYl9CbTl5TUc1YkhaV1hXdFUxOWREZ2NhRFJ4amJOa2JBS3NhU20tMEFsM1o2QW9ZN205OE1DeDZfRDJ3eG83ZkJQTXFkUDFtQXlXLUtjYkJ6djB4eUQzOHQ1eXhuZ1M4bjY0VUFkTkpjX05BU2ZOYlhnM212dWJuZ0ZWd1ZERlduSWxEUmk3MGZpdzU5aXVQQV9ZUlpXSXk0bldZWjJBbnVzQ3hQUGcxb3F3SklZRWNR?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "08-21 17:29",
-    "headline": "Edward Bluemel transforms into Agatha Christie’s Hercule Poirot for new series - Richmond & Twickenham Times",
-    "summary": "Edward Bluemel transforms into Agatha Christie’s Hercule Poirot for new series Richmond & Twickenham Times",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXBNQWZLUXlONW5naUFjVDkyZ0Q0WnZOVG5yemZBVmVFNnQ1TGJLdmxMNlBsdDBSUXZXSnVEVGNGRTVhRThHR0g4T1ljREhmVmJ2ZWRoeThYLWdDS1pSdUVDTU1Bc2Y5RlJEUkphRFhkSzluR3QzOUVKNHlUdVIzOERSNVJtcFdQSWhzRTZGZEx4Z2lPbXRMY2w1VVh0ZW84d3BKSVpzVy1RSDRVQkg2WllHNE5DOTdJWURjR01TblVSNFAxOXV3X2o1Y3c4a2R3Y1dxNWVjMA?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "08-21 14:21",
-    "headline": "The Parthenon frieze was designed to be viewed as a cinematic sequence that only comes to life as you walk by, not as a static work of art - La Brújula Verde",
-    "summary": "The Parthenon frieze was designed to be viewed as a cinematic sequence that only comes to life as you walk by, not as a static work of art La Brújula Verde",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORDRfVGVXaXg3SEZCWWo2aHFRbW1oWHFQUE1lV2RYR0lQZWlGZVgwdTdTakxzVEtuTEtRWkk1a21VRV9tV0VDWDJIV1RZblY4VUlJTzR2dmtOZTdMdkNWOHFQQjNMdlBOaVNod3RrblVOOGI4cFBTcEdnMFRSR1NHaWgxUzdWWTR2RmNkczRpZHpRTXBHbXRWUHlPZ3BVT3NPTHpWdFJib0U3dGtjRXktb3dQQXF4Y0NYM3FGUm9BVENhQ2lCME5ZblZrRkxCVmxUWkw5SXlJU2RMa2NiRFVNNGJOQlBZU1dXeHFnVmR6TlNqTzdPY1hfdjZqNE1ybmZlbi1sUW13Z0taUEtt?oc=5"
   }
 ]
