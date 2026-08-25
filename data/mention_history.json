@@ -40,11 +40,12 @@
   },
   "2026-08-25": {
     "LVMH": 1,
-    "Sotheby's": 2,
-    "Christie's": 5,
+    "Sotheby's": 3,
+    "Christie's": 6,
     "Kering": 5,
     "Phillips": 1,
-    "Gagosian": 2,
-    "Art Basel": 2
+    "Gagosian": 3,
+    "Art Basel": 2,
+    "David Zwirner": 1
   }
 }
