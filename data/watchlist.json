@@ -2,33 +2,31 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-85.7%",
+    "delta": "-75.0%",
     "dir": "down",
     "spark": [
-      7,
-      1,
       8,
       1,
       1,
       2,
       3,
-      1
+      1,
+      2
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-33.3%",
+    "delta": "-75.0%",
     "dir": "down",
     "spark": [
-      6,
-      2,
       4,
       2,
       1,
       3,
       6,
-      4
+      4,
+      1
     ]
   },
   {
@@ -40,9 +38,8 @@
       0,
       0,
       0,
-      0,
-      0,
       2,
+      1,
       1,
       1
     ]
@@ -50,81 +47,76 @@
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "+100.0%",
+    "delta": "+0.0%",
     "dir": "up",
     "spark": [
-      0,
-      3,
       0,
       0,
       0,
       0,
       1,
-      3
+      3,
+      0
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      0,
-      3,
       2,
       4,
       2,
       8,
       5,
-      2
+      2,
+      0
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "-80.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
-      5,
-      1,
       0,
       0,
       0,
       0,
       3,
-      1
-    ]
-  },
-  {
-    "name": "David Zwirner",
-    "meta": "Dealer / Gallery",
-    "delta": "+0.0%",
-    "dir": "up",
-    "spark": [
-      0,
-      1,
-      0,
-      0,
-      0,
-      0,
       1,
       0
     ]
   },
   {
+    "name": "David Zwirner",
+    "meta": "Dealer / Gallery",
+    "delta": "+100.0%",
+    "dir": "up",
+    "spark": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-75.0%",
+    "delta": "-100.0%",
     "dir": "down",
     "spark": [
-      4,
-      3,
       2,
       2,
       0,
       3,
       2,
-      1
+      1,
+      0
     ]
   }
 ]
