@@ -1,5 +1,23 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "08-29 04:19",
+    "headline": "Rugged Americana’s age of innocence",
+    "summary": "The homoerotic meets the nostalgic in Bruce Bellas’s mid-century photographs of rodeo cowboys",
+    "entities": [],
+    "link": "https://www.ft.com/content/6075123e-42f3-4231-ac29-56dc7b1f0443?syn-25a6b1a6=1"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-29 04:37",
+    "headline": "Singapore to sell luxury homes seized in record money laundering case - The Business Times",
+    "summary": "Singapore to sell luxury homes seized in record money laundering case The Business Times",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVVp3RVhZNktSeWVJd1gtNnhlQ0ZjdEx3aUtjS2tyYWQ0R09UMFpPWHg1cHFpYTJKZXJFUnFnd3NRbWJtOVFHX3VBQ052WVIwNEVEWjR6M0h5T3ZEakYxSlVwYWRIZ2F1Ny1QbnhnSnRXWWNmUk9kR0RVd3E5WWR4WEVPaHN3MWdFTzcwYzY3akNwRzB3WldZd1BnTVM3LXAzS1hLUVpqZkZWQQ?oc=5"
+  },
+  {
     "cat": "Luxury Brands",
     "src": "Luxury via friedmansammi on Inoreader",
     "time": "08-29 03:37",
@@ -1821,25 +1839,5 @@
     "summary": "Rolex Bans Drones From Flying Over Assembly Plant Assembly Magazine",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRC1UUEtNSmE1cmtZLXVlaFJpLWRoMzhoUnJqZGNzOXBLd3dRUjhyTWJrNGFIRWRMWjE1WDViVXVBZnFVNnlfdHpRcFdyMzRfLVdtOGhCNFRfdHlRUXJzTjNIai1FU1owcEl1M3EySEQwTjl0WDlKbktmb0FXeXpqZzlzRHNwLVU2ZHZxWWdOUm54Tk9RTmp3QQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-26 12:03",
-    "headline": "Business News: Middle East War Forces The Escapement To Cancel Abu Dhabi Event And Move To Las Vegas",
-    "summary": "military conflict with Iran, the watch event organizer shifted the November event to Las Vegas in February 2027. Ticket holders for the Abu Dhabi event will receive an automatic refund from the arena, organizers said. However, most of the other brands originally slated for the Abu Dhabi event are expected in Las Vegas, Hajra said.",
-    "entities": [
-      "LVMH"
-    ],
-    "link": "https://www.hodinkee.com/articles/middle-east-war-forces-the-escapement-to-cancel-abu-dhabi-event-and-move-to-las-vegas"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-26 12:06",
-    "headline": "India Investigates Fragrance Giants Over Price Collusion, Document Shows",
-    "summary": "Global fragrance makers Givaudan, ​Firmenich and International Flavors & Fragrances face a second antitrust investigation by Indian authorities, ‌according to a regulatory document seen by Reuters.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/beauty/givaudan-firmenich-iff-india-collusion-investigation/"
   }
 ]
