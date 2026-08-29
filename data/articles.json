@@ -1,5 +1,52 @@
 [
   {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-29 02:07",
+    "headline": "Why AI Websites All Look the Same and How to Build Something Different",
+    "summary": "But somewhere between typing your \"build me a portfolio website\" prompt and watching the interface come to life, a huge number of us end up with something that looks suspiciously like everyone else's website. That distinction matters because the goal of good design is not simply to make something look good. The same principle applies to AI website design.",
+    "entities": [],
+    "link": "https://dev.to/gdg/why-ai-websites-all-look-the-same-and-how-to-build-something-different-1gan"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-29 06:39",
+    "headline": "Kering stock trades cautiously as luxury group awaits next earnings update - Ad-hoc-news.de",
+    "summary": "Kering stock trades cautiously as luxury group awaits next earnings update Ad-hoc-news.de",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMEFEdkdjaXR5MFpXOUNObFJsWlVWb0RNZTNHWnNDckZQYXBMaGY0cmJHRGhOYkNQTUlOVEhROWtlM2lkeEhNVW1ZTkUtLVAtbWtOVGV0ZmY4YUNWQ1ZhNlJzTERBN2tJUGY2a0I5UGVHT2I2SHpJMUxzS2VNcjdUYlIzeWhiaEl2bUh0Wm1YUDNCV2tQVWs1eXJCTlRhclp2WXhnQnNWUUF0R2VrYVBUdG1WV2gzV2MxRUpHd2Q3Ri1ycUgtYUFIX2pDMEM1SkV2Nmlr?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-29 07:16",
+    "headline": "How to Tell a Fake Rolex From a Real One, According to a Watch Expert - Gear Patrol",
+    "summary": "How to Tell a Fake Rolex From a Real One, According to a Watch Expert Gear Patrol",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfN2lkR2V1bXo0b3ZGMW1qdXFmQmI0RXAxbUU0cU9RT3ZSVlV4Sm4zYURxMVNZVWhhdlhaYmJORGFXc1AtZjhJY3RyYXRtTGFKY1VoQVFyUzVVSHlwN0xybFFfci1HcGpJWnc?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-29 06:28",
+    "headline": "Melbourne Sotheby’s International Realty bolsters Bayside team with new trio - realestatebusiness.com.au",
+    "summary": "Melbourne Sotheby’s International Realty bolsters Bayside team with new trio realestatebusiness.com.au",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUlI5aHlQNDBCRllrQzB2YVJ6clJ1UEwzRVJCcHZnd3R4U0FyQ1FaSXJYSUpqdm5PS2NkTmpoN0VjeDRpR3RlcUFDczhUclBScG1LdlFRRXNYQVJ6bGo3ZWpndVdzNHpPWi1Ydzg1N28xbW9Bd1ZabEl4VjRBODJJV0o4SFNlek9td3ItWk9VQmVxNzhFV0lzSVFOM3hGUjdlWVNyQmxJSHp2RGE5YlQzZ3JETVcwY0E4ZHBvR1F0dTVIRGNU?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-29 06:37",
+    "headline": "The 10 Most Expensive Cars Ever Sold at Auction - Yahoo Autos",
+    "summary": "The 10 Most Expensive Cars Ever Sold at Auction Yahoo Autos",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFRpSXBzck56bTRKekQzbEo5ellMT2ZuVjJnWTNMZzcwaFF4TnRMc3F0Z2ZTdXlIVlNNZUlheWc4ekF4WEhDWnF5YUFvYXpiVGVhdEdMZ29ORzFiNTI1ZVFGT2pYb2s4YTk0MFpDTThsWVp2dkdPZDN2WWlqN2NXSzAtSklvb3FXN1N2ZTRjTW9aeEZrMDB3VWk2dHRiZw?oc=5"
+  },
+  {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "08-29 04:19",
@@ -1790,54 +1837,5 @@
     "summary": "TRIEZE Returns for Frieze Week with an Artist-Led Alternative FAD Magazine",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtQkxsSTFrcUJoXzNTSDRQTzQ4UEdHUkw1WFV1cTN6OUt6d005dG9NUnQ1UUVrX2I0NGg1dk93djlVN3pabktKZTB0Ymt4NGxNYzA2RElnSmhlNXpWLW81QktlWnliOGlfck9kSzFKTjZKdXdLcXFjQ19n?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "08-26 12:42",
-    "headline": "A £20 M. Mondrian Painting is the Highlight of Christie’s Frieze Week Evening Sale in October",
-    "summary": "The work is coming to auction for the first time and is estimated to fetch between £20 million to £30 million ($27.26 million to $40.89 million). Composition III (1920) arrives at auction by way of a private collector. © 2026 Art Media, LLC.",
-    "entities": [
-      "Sotheby's",
-      "Christie's",
-      "Gagosian"
-    ],
-    "link": "https://www.artnews.com/art-news/market/mondrian-painting-auction-christies-frieze-week-1234795778/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "08-26 13:13",
-    "headline": "National Museum of Ireland Employee Charged with Possession of Military-Grade Explosive, Artist Gao Zhen Receives Three-Year Prison Sentence, The Venice Film Festival Defends Inclusion of Russian-born Filmmaker, and More: Morning Links for August 26, 2026",
-    "summary": "[ Edinburgh News ] STATE OF THE ART. Britain’s stately homes are increasingly turning to contemporary art to attract new visitors and generate income, The Art Newspaper wrote. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/morning-links-august-26-2026-1234795783/"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-26 11:28",
-    "headline": "London’s Fast Approaching Fall Won’t Keep Millie Bobby Brown Out of Her Capris",
-    "summary": "Jon wore the typical dad uniform: a black bomber, black t-shirt, and tapered blue jeans. Capri pants are very much within the Millie Bobby Brown Bongiovi style lexicon; a versatile cropped style where one can style both vintage-y and modern minimalist. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/article/millie-bobby-brown-capri-pants-london"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-26 11:53",
-    "headline": "@Jelitics That’s the fakest rolex i’ve seen bezel is off, box is off, oyster is off 🤣 - t.co",
-    "summary": "@Jelitics That’s the fakest rolex i’ve seen bezel is off, box is off, oyster is off 🤣 t.co",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1sWlItdmtPZUF2cjIzQWtQZE5hUDlMS2R3alpLazRYNXlEY01ReVA3azlKd1EwRkJSQ1FV?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-26 11:53",
-    "headline": "Rolex Bans Drones From Flying Over Assembly Plant - Assembly Magazine",
-    "summary": "Rolex Bans Drones From Flying Over Assembly Plant Assembly Magazine",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRC1UUEtNSmE1cmtZLXVlaFJpLWRoMzhoUnJqZGNzOXBLd3dRUjhyTWJrNGFIRWRMWjE1WDViVXVBZnFVNnlfdHpRcFdyMzRfLVdtOGhCNFRfdHlRUXJzTjNIai1FU1owcEl1M3EySEQwTjl0WDlKbktmb0FXeXpqZzlzRHNwLVU2ZHZxWWdOUm54Tk9RTmp3QQ?oc=5"
   }
 ]
