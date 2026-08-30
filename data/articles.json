@@ -1,5 +1,23 @@
 [
   {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-30 12:01",
+    "headline": "Game, Set, Manicure: The Best Tennis-Themed Nails To Try For The US Open",
+    "summary": "Regular fixtures in the stands include the Katie Holmes, Taylor Swift, and of course, Vogue ’s very own tennis correspondent Anna Wintour. Have a beauty or wellness trend you're curious about? Send Vogue' s senior beauty & wellness editor an email at beauty@vogue.com.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/tennis-themed-nails"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "08-30 11:40",
+    "headline": "Singapore to sell luxury assets from record laundering case - The Edge Malaysia",
+    "summary": "Singapore to sell luxury assets from record laundering case The Edge Malaysia",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DTGlnNjVSRENQb2ZMd1ZEbEdQVzRnODVDVVMwdGZMbHlpYlNYd24wR1ZBOHhnd1JuSkJnRHJodWU5X201NHM3MVNvN1Vkb2JU?oc=5"
+  },
+  {
     "cat": "Luxury Brands",
     "src": "Luxury via friedmansammi on Inoreader",
     "time": "08-30 10:27",
@@ -1814,23 +1832,5 @@
     "summary": "The contemporary label is betting it can use its back-end logistics and wholesale relationships to accelerate Drake’s 15-year-old streetwear label while initiating a broader multi-brand platform for Vince.",
     "entities": [],
     "link": "https://www.businessoffashion.com/news/retail/drake-ovo-vince-authentic-brands-group-acquisition/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 00:03",
-    "headline": "Nike Hires Walmart Veteran Ewing as Chief Commercial Officer",
-    "summary": "Jane Ewing, who was most recently interim chief executive officer for Sam’s Club in China, will join Nike on Sept.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/sports/nike-hires-walmart-veteran-ewing-as-chief-commercial-officer/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 00:03",
-    "headline": "Ulta Beauty Raises 2026 Guidance as Sales Rise 8.9%",
-    "summary": "The beauty retailer’s fiscal second-quarter growth was driven by fragrance, K-beauty and store expansion, said CEO Kecia Steelman.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/beauty/ulta-beauty-raises-2026-guidance-as-sales-rise-89/"
   }
 ]
