@@ -1,5 +1,25 @@
 [
   {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 08:26",
+    "headline": "Yoshio Kubo Tokyo Spring 2027",
+    "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/yoshio-kubo"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 09:00",
+    "headline": "Ib Kamara Exits Off-White",
+    "summary": "The label founded by Virgil Abloh is parting ways with its creative director two years after LVMH sold the brand to Bluestar Alliance. No successor has been named.",
+    "entities": [
+      "LVMH"
+    ],
+    "link": "https://www.businessoffashion.com/articles/luxury/ib-kamara-exits-off-white/"
+  },
+  {
     "cat": "Galleries & Institutions",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "08-31 08:13",
@@ -1808,23 +1828,5 @@
     "summary": "The brand plans to buy back more than €800 million ($932 million) of stock, seeking to bolster investor confidence after a slide in its shares and the exit of an heir of the eyewear maker’s founder from his management roles.",
     "entities": [],
     "link": "https://www.businessoffashion.com/news/news-analysis/essilorluxottica-starts-buyback-to-bolster-stock-after-heir-exit/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 18:08",
-    "headline": "News review: Fatal Rolex heist; Is there more to Albufeira car rampage? & Biometrics return - Portugal Resident",
-    "summary": "News review: Fatal Rolex heist; Is there more to Albufeira car rampage? & Biometrics return Portugal Resident",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeGVxMWJUZjU5UGVmSlFZUnJBSS05S0dtcXVhN3ZlTlhkUkFlaHNEM1FnZ2dBTkZ3TjNFUHZNQlJtVmhna2hlQUxiQ0pqMmFQbVpLWHpHYnVEd3JFeFdiNXBZaEdmMVpveTFaOWV3Mk9OVUFWbnZwOXE1aGlxcy0yTVM1X2RzR0FWUFV4YlVLM2Z2NEdhdWlvR2JjemhVc0J0MUZxVU5iWXcyX2lVU2c2amdjcm1qSDNwQ2ZOYQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 18:54",
-    "headline": "Joe DiMaggio’s ‘legendary’ Patek Philippe watch is up for sale for $1.2M - Page Six",
-    "summary": "Joe DiMaggio’s ‘legendary’ Patek Philippe watch is up for sale for $1.2M Page Six",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQel9zUlNMTzB4eE54ZS1laFd0TEhqUlp0TzFocDhyQmdpSGVvNEpmRmRBXzNnY2k1a0FQLW1rRndWMW5RdXNtaGpvN21SeHBpMXhKTHItMjZfZWdOR3VlMmJIYmozSVFGSTIyVFVlY2ZudXJBcWZUbTRQOGt5dnZnNnN5bzNxMkNnLWZDQ2VJdE1FRjhUMzZ3YVZUdG4?oc=5"
   }
 ]
