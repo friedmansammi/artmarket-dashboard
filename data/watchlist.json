@@ -62,7 +62,7 @@
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
+    "delta": "-75.0%",
     "dir": "down",
     "spark": [
       8,
@@ -71,7 +71,7 @@
       0,
       3,
       1,
-      0
+      2
     ]
   },
   {
