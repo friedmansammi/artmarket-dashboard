@@ -1,5 +1,23 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "08-31 05:13",
+    "headline": "During Frieze Seoul, art finds a home in the city's historic hanok - Korea JoongAng Daily",
+    "summary": "During Frieze Seoul, art finds a home in the city's historic hanok Korea JoongAng Daily",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLUVuZ1F0TVVDOFZzM1VQd3dtNE82WjBqNVpjWlM2TVFMUUhjckZBUHI1Z1p2UlA5SmtpMEVISTdrVjdMZUg2eHJJTXpodmhWV19zQVNaWmRGMV9KdVpESkNXbzRLN291cUFZSnV4SjE1MDgzbHhIZk1KdXpDUDl6Ykhsby04RXg1YVk0SC10akpKRHdacjQyZVU1Q0dVbDFWVEFGNmpWUjBEUXFPSllTbXVwSGlvOEFDcGc?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 05:16",
+    "headline": "Marzee",
+    "summary": "In that gap, Marie-José van den Hout established an autonomous territory. Once inside the gallery, Cummins takes us on a tour, opening the drawers alongside van den Hout. While others saw Nijmegen as a distant periphery, van den Hout saw a center.",
+    "entities": [],
+    "link": "https://artjewelryforum.org/reviews/marzee-book_gallerynatl-netherlands_auth-jimena-rios_authnatl_argentina_8-31-2026/"
+  },
+  {
     "cat": "Luxury Brands",
     "src": "Luxury via friedmansammi on Inoreader",
     "time": "08-31 03:20",
@@ -1808,23 +1826,5 @@
     "summary": "What’s the best shampoo for frizzy hair? “Natural hair texture, especially in curly or wavy hair, can also contribute to frizz,” he adds. “Using the right hair care products and avoiding over washing can help manage frizz effectively.” Can shampoo actually prevent hair frizz?",
     "entities": [],
     "link": "https://www.vogue.com/article/shampoo-for-frizzy-hair"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 21:03",
-    "headline": "Caution: Marketing Roadblocks Ahead",
-    "summary": "This week, Meta agreed to pay up to $17 billion and implement significant changes to Facebook and Instagram to resolve claims that its platforms endangered children, with big implications for the social media industry and the marketers who depend on it.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/briefings/marketing-pr/caution-marketing-roadblocks-ahead/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 21:09",
-    "headline": "Feds say couple bought Rolex watches, gambled $1.1M of surrogacy agency money - SFGATE",
-    "summary": "Feds say couple bought Rolex watches, gambled $1.1M of surrogacy agency money SFGATE",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXVTelpWNDlLZlAwV0JOZGIxeVpYTWs2WjNNcl9pRHNPNUNrNmQ1VnQ5VlNTbUVQUGU2cEozTFcwS1lzeGRmaENnTW1tV1Z3U1czMVJ0N0RVcl91c1V0enZlZ2c3Zm5ZeXZOT2ExS0IxeE5FVHlYWnVMNGVUNTNHMmx0dw?oc=5"
   }
 ]
