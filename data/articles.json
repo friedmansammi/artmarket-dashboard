@@ -2,6 +2,35 @@
   {
     "cat": "Luxury Brands",
     "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 09:23",
+    "headline": "Rolex and the US Open celebrate the dramatic climax of the Grand Slam season in New York - senatus.net",
+    "summary": "Rolex and the US Open celebrate the dramatic climax of the Grand Slam season in New York senatus.net",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ER08zX3lFTXljN3g0TzZpaVlZMXlESGVjTnYtaHdfMVVhZjhzbkdDdkZ3TzZKbkhBMTYwTWJkVG1KT050TzBlc0RVcno5a3VQbl9tV3Fta2dJZDFQd19sa0c0RFduOWRPYmRtODRsaGk0UzRDZDJ2NC1JendidUE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 09:54",
+    "headline": "Ib Kamara Departs Off-White",
+    "summary": "Four years after succeeding founder Virgil Abloh as the creative lead at Off-White, Ib Kamara has departed the brand. He was appointed creative director in 2024, the same year LVMH sold Off-White to Bluestar Alliance on what would have been Abloh’s 44th birthday. Ib Kamara backstage at the Off-White FW24 show.",
+    "entities": [
+      "LVMH"
+    ],
+    "link": "https://www.vogue.com/article/ib-kamara-departs-off-white"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Museums via friedmansammi on Inoreader",
+    "time": "08-31 10:05",
+    "headline": "L'oeuvre disparue de Jean-Auguste-Dominique Ingres",
+    "summary": "e 29 août 1780 naît Jean-Auguste-Dominique Ingres à Montauban. L’occasion de revenir sur un mystère encore non résolu : l’étrange cas d’une œuvre disparue qui devait répondre à la célèbre « Grande Odalisque », actuellement exposée au musée du Louvre, salle 702, aile Denon, niveau 1.",
+    "entities": [],
+    "link": "https://www.youtube.com/shorts/VSQ2nViPVWI"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
     "time": "08-31 08:26",
     "headline": "Yoshio Kubo Tokyo Spring 2027",
     "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
@@ -1801,32 +1830,5 @@
     "summary": "",
     "entities": [],
     "link": "https://www.youtube.com/shorts/WDaX4hoq3s4"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 17:37",
-    "headline": "A conversation with Sidi Larbi Cherkaoui at Café Mademoiselle.",
-    "summary": "Choreographer Sidi Larbi Cherkaoui talks about the magic of an electrifying dance, driven by both the freedom and synergy of the dancers.",
-    "entities": [],
-    "link": "https://www.youtube.com/watch?v=kReefdDEDWM"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 18:02",
-    "headline": "Exploring Jordan Brand’s Philosophy on the Air Jordan 41",
-    "summary": "Jordan Brand will soon release the Air Jordan 41 — the latest model in Michael Jordan’s OG signature shoe line. Jason Mayden, Jordan Brand’s vice president of visioneering and chief of design, took some time to chat with The Business of Fashion about the upcoming release, his philosophy around it and why the brand continues to drop a new Air Jordan shoe every year.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/briefings/sports/exploring-jordan-brands-philosophy-on-the-air-jordan-41/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 18:02",
-    "headline": "EssilorLuxottica Starts Buyback to Bolster Stock After Heir Exit",
-    "summary": "The brand plans to buy back more than €800 million ($932 million) of stock, seeking to bolster investor confidence after a slide in its shares and the exit of an heir of the eyewear maker’s founder from his management roles.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/news-analysis/essilorluxottica-starts-buyback-to-bolster-stock-after-heir-exit/"
   }
 ]
