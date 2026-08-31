@@ -1,5 +1,23 @@
 [
   {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 05:59",
+    "headline": "Controversy Won’t Stop Brands From Doubling Down on the WNBA",
+    "summary": "The league is set to announce a new partnership with Brooklyn-based demi-fine jewellery brand Catbird, its first official jewellery partner, proving that despite recent controversies, the WNBA remains an attractive partner for fashion.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/sports/controversy-wont-stop-brands-from-doubling-down-on-the-wnba/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "08-31 05:59",
+    "headline": "How AI’s Nouveau Riche Are Spending on Beauty",
+    "summary": "Silicon Valley is minting new multi-millionaires — and billionaires — at a rapid rate, as tech firms like SpaceX, OpenAI and Anthropic target huge IPOs. Fashion, travel and wellness are benefitting, but not all beauty companies can capitalise on the boom.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/beauty/how-ais-nouveau-riche-are-spending-on-beauty/"
+  },
+  {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "08-31 05:13",
@@ -1808,23 +1826,5 @@
     "summary": "Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member —the ultimate resource for fashion and beauty industry professionals. Never miss a story: Add Vogue.com to your preferred sources in Google.",
     "entities": [],
     "link": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-spa-weekend"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 20:26",
-    "headline": "The Best NARS Products Have Serious Staying Power",
-    "summary": "For me, NARS is tied to some of my earliest memories of makeup. Nars’s (the founder, not the brand) experience behind the camera offers some insight into the brand’s enduring approach to makeup. As it relates to makeup, we selected the best based on the following characteristics: formula, texture, and wear time.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/best-nars-makeup"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "08-28 20:57",
-    "headline": "8 Best Shampoos for Frizzy Hair, According to Hair Stylists and Vogue Editors",
-    "summary": "What’s the best shampoo for frizzy hair? “Natural hair texture, especially in curly or wavy hair, can also contribute to frizz,” he adds. “Using the right hair care products and avoiding over washing can help manage frizz effectively.” Can shampoo actually prevent hair frizz?",
-    "entities": [],
-    "link": "https://www.vogue.com/article/shampoo-for-frizzy-hair"
   }
 ]
