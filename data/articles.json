@@ -1,5 +1,124 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-02 14:34",
+    "headline": "Eleanor Antin - Frieze",
+    "summary": "Eleanor Antin Frieze",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MYkltNEdmU3cxNHdRYnVSaDdSSGdCX2NhWERzbTlqblgyRm0xcHVMeWZhUWRfdTFPeUpWTGxDdDBOYWpVdVZRTGtQZnNwZHRuYzE5eUkyWQ?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-02 14:36",
+    "headline": "David Nolan Gallery Moves from Upper East Side to Bigger Space in Tribeca",
+    "summary": "Executive Editor, ARTnews & Art in America Striking a defiant tone at a time when the future of the gallery ecosystem remains unknown, David Nolan announced a move for his namesake gallery from New York’s Upper East Side to a bigger space in Tribeca. Related Articles One Work: Dorothea Rockburne's \"Interchange\" Rebeccah Blum, Well-Regarded Berlin-Based Independent Curator, Is Dead “There is rarely a perfect time to expand or open a new gallery, and taking risks is part of what running a gallery…",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/david-nolan-gallery-moves-tribeca-1234796664/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-02 14:59",
+    "headline": "Gateway Drag: Tim Curry’s Illicit Gifts to Queer Children",
+    "summary": "Curry became a charismatic patron saint to queer kids struggling to articulate how and why they didn’t fit in. Curry will be memorialized for his iconic Frank-N-Furter, which made him a beloved queer sex symbol for the rest of his life. In that wasteland, Curry was an antidote.",
+    "entities": [],
+    "link": "https://www.artforum.com/columns/tim-curry-gateway-drag-1234758586/"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 14:26",
+    "headline": "“Sweat-jetting” Is the Hottest New Travel Trend",
+    "summary": "For runners, marathons have become a different way to experience a new country. So, I started Global Padel Adventures ,” says founder Nick Wade. Padel players use Global Padel Adventures group and private padel-focused trips as a way to visit new places.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/sweatjetting-travel-trend"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 14:26",
+    "headline": "Kendall Jenner Hits Venice—With a Styling Trick Borrowed From Boyfriend Jacob Elordi",
+    "summary": "Jenner is one such star who embraced the chic airport look today. Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member!",
+    "entities": [],
+    "link": "https://www.vogue.com/article/kendall-jenner-venice-travel-style-bag"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 14:59",
+    "headline": "The Business of Watches Podcast: Armin Strom Co-Founders And Top Executives Serge Michel and Claude Greisler",
+    "summary": "No matter where your adventures take you across the globe, rest assured, your watches and jewelry remain safeguarded. No matter where your adventures take you across the globe, rest assured, your watches and jewelry remain safeguarded. No matter where your adventures take you across the globe, rest assured, your watches and jewelry remain safeguarded.",
+    "entities": [],
+    "link": "https://www.hodinkee.com/articles/armin-strom-co-founders-and-top-executives-serge-michel-and-claude-greisler"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 15:08",
+    "headline": "Topicals Appoints New CEO From Fenty Beauty",
+    "summary": "Founder Olamide Olowe has stepped down from her chief executive role as Sukiana Chancy joins the company.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/news/beauty/topicals-ceo-fenty-beauty/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 15:08",
+    "headline": "What Sephora’s TikTok Shop Launch Means for Beauty",
+    "summary": "The debut of the retailer’s new TikTok Shop storefront, which offers limited-edition exclusive products released each month, changes the rules of beauty retail.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/beauty/what-sephoras-tiktok-shop-launch-means-for-beauty/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 15:08",
+    "headline": "Is Fashion Stuck In Its Simulation Era?",
+    "summary": "A garment’s image has become more important than the garment itself, commentator Eugene Rabkin argues in a new book. While technology helped create this situation, it could also be part of the solution.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/briefings/technology/is-fashion-stuck-in-its-simulation-era/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 15:21",
+    "headline": "Richard Mille Watch Price A Group Of People Standing Around Each Other - krepsiniozinios",
+    "summary": "Richard Mille Watch Price A Group Of People Standing Around Each Other krepsiniozinios",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5cGF4eVg2cTh5Mzllc2d0ajhBUlFMVU5iNmNUam1aQUI4bFMyWHdhVkRVUnJYTEhmNXRNcDBJX2ZsYks1WXEzbDZTMEl1bE0zN25PbjduMldOS1dFT3d0TUJTQmdiQnRISXR4X3R3?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-02 14:44",
+    "headline": "Old Cars Weekly - October 1, 2026",
+    "summary": "For the collectible automobile enthusiast, Old Cars Weekly is your #1 source for restoration advice, classifieds, historical features, antique car prices, show calendars and more. Contains news on collector cars, restoration tips, auction results, and car shows. Also contains thoroughly researched price checks, so you know what vehicle values are on the rise Old Cars Weekly - October 1, 2026 English | 96 pages | True PDF | 48.9 MB Download: UPLOADY – RAPiDGATOR Old Cars Weekly - October 1, 2026…",
+    "entities": [],
+    "link": "https://rlsbb.to/old-cars-weekly-october-1-2026/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-02 15:09",
+    "headline": "Charles Wright Academy’s Spirit Auction Sets a New Record - southsoundmag.com",
+    "summary": "Charles Wright Academy’s Spirit Auction Sets a New Record southsoundmag.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQ1Zhc0d3TEZoaXBtTEpnbGpiTGpnNjZTQ3VmcUw5Y0taUFlpNlVfZGNSOS1tamN1U1RGQmhQeDhVdnVmVVFYRnFwdjVtYVdqaEVlNWlIaWxNRlZzMWdxYmJXbnRYWFB1TXNyX25FbnpJSjl4TXNTcVFnZ3Q4Sy1kZmhaeHRjdFVQRlNteUw1QzhlM2pFbmlsb2piVTRORHRILVhKcWdYZW51RGtfNnRNMUh5ekhud29hTEJOOFJRNXd3OHE5X1pJeDl6WkFpcnhkZ0R5Y05NR3VTZEsxelIxWk81bw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-02 15:09",
+    "headline": "Christie's Reimagines Its New York Home to Create Ultimate Auction House and Visitor Experience in Rockefeller Center - Christie's - Press center",
+    "summary": "Christie's Reimagines Its New York Home to Create Ultimate Auction House and Visitor Experience in Rockefeller Center Christie's - Press center",
+    "entities": [
+      "Christie's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNektITXBvRUJpTkFHSkpKQnhvVklmVmJFY3A5UldkYVpkeTJrcnlmYjhhQlUtclRwdEJwX3hVRHlGdEZ0RjM0QWhRTTVQNEZSU1Qzd3U4WjhQSjU1UUxJZVRKa1NPcVVIc3kyMWNic3c1NGlPYUNnSWFWUHpEZVhqaVl6aTdqX2RydnJOSmhQMU5BT2QzSDhEQ2RpT3V2a3NLXzFSUnBVZlE1TFZXR1ItTVRuQ3VNMHRCUlEwMDFPQWJwaXlQajBiTXIyS1g0TExaZHV4LW42Q1FMZkpYRFE?oc=5"
+  },
+  {
     "cat": "Galleries & Institutions",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "09-02 13:37",
@@ -1746,126 +1865,5 @@
     "summary": "The 12 Best BritBox Shows & Movies To Watch This September Brit + Co",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uczNUNElHZHlDZVp0OWFRQWg4ZUFpOFZlLWx2S0RNSDhCWDNrWlBlTl9URlZQcE1xNWUzandHcHViWkV5ZDlsajFQYWtNWksyVnAxRTRSNllBVl9B?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-01 15:10",
-    "headline": "Mapplethorpe Foundation Reportedly Denied Use of Roy M. Cohn Photo for Biography",
-    "summary": "The Mapplethorpe Foundation denied an author’s request to use a Robert Mapplethorpe photo of Roy M. Related Guggenheim Launches Photography Fellowship with Gift from Robert Mapplethorpe Foundation Gladstone Gallery to Represent Estate of Robert Mapplethorpe Mapplethorpe snapped the picture to accompany Steven M.L. The Mapplethorpe Foundation eventually gifted the photo to LACMA and the J.",
-    "entities": [],
-    "link": "https://www.artforum.com/news/mapplethorpe-foundation-denied-use-of-roy-cohn-photo-1234758545/"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 14:40",
-    "headline": "Amal Clooney Kicks Off Venice Film Festival With a Skirt Suit",
-    "summary": "Last year, for one, there was the unforgettable magenta gown ( vintage Jean-Louis Scherrer ) that Amal wore to George’s Jay Kelly premiere. Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/article/amal-clooney-venice-film-festival-skirt-suit"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 15:05",
-    "headline": "What’s Driving Saudi Arabia’s Beauty Transformation",
-    "summary": "The country has emerged as the GCC region’s largest cosmetics market as societal change spurs sales and homegrown brands.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/articles/beauty/whats-driving-saudi-arabias-beauty-transformation/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 15:05",
-    "headline": "Worldview | Buenos Aires Fashion Week Holds Firm Despite Manufacturing Woes",
-    "summary": "This week’s round-up of global markets fashion business news also features India’s cash-for-gold boom, Brazilian denim giant Vicunha and Cettire’s turbulent year in Australia.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/articles/global-markets/worldview-buenos-aires-fashion-week-holds-firm-despite-manufacturing-woes/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 15:05",
-    "headline": "Fashion Capitalises on a More Exclusive US Open",
-    "summary": "With ticket prices soaring, attending the US Open is becoming a status symbol. Consumers may be angry about it, but fashion sees an opportunity.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/briefings/sports/fashion-capitalises-on-a-more-exclusive-us-open/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 15:10",
-    "headline": "A Witchy Guide on What to Do for Salem’s 400th Anniversary",
-    "summary": "A museum visit in Salem is a must, and the Salem Witch Museum is a particular highlight for the way it takes accountability for Salem’s complicated history and connection to the witch hunts. “For practicing witches like myself, we also have the Salem Witch Fest in August . Hobbs are the true hidden gems in Salem,” she says.",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://www.vogue.com/article/witch-guide-to-salem"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 15:37",
-    "headline": "Introducing: Czapek's New Quai des Bergues And Place Vendôme Complicité",
-    "summary": "Its first collection, called \"Quai des Bergues,\" celebrated the first boutique; another collection celebrated that boutique in France. The Place Vendôme Complicité Glacier Blue is limited to 10 numbered pieces and retails for $144,200. Brand: Czapek Model: Quai des Bergues \"Midnight in Geneva\" and Place Vendôme Complicité – Glacier Blue Reference Number: Diameter: 40.5mm (QdB); 41.8mm (PVC) Thickness: 11.9mm (QdB); 14.8mm (PVC) Lug-to-Lug: 47.67mm (QdB); 48.22mm (PVC) Case Material: Stainless…",
-    "entities": [
-      "Phillips"
-    ],
-    "link": "https://www.hodinkee.com/articles/introducing-czapek-gwd-2026"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 14:34",
-    "headline": "Mystery Shows: Cozy Mysteries, Detective Shows, & Murder Mysteries - PBS",
-    "summary": "Mystery Shows: Cozy Mysteries, Detective Shows, & Murder Mysteries PBS",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1GRHR4ZlBkNzBuTmR5bGZqNERkcFRqbEwxcW4tNHpsbGhRRjhvVVF4a0J5RTl6MlV3cEhuTVFRYktqMHowQkFiRHE4NmQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 14:34",
-    "headline": "Zinedine Zidane's first ever wristwatch to be auctioned in Geneva on 9 November 2026 in support of ELA International - press.christies.com",
-    "summary": "Zinedine Zidane's first ever wristwatch to be auctioned in Geneva on 9 November 2026 in support of ELA International press.christies.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kSVFEb1hURWFteU1SdktkZHJxS19aR3hIZ0tScTFZeG5mcUVtSGpLVm03NWlPLXl1ZEljdjNWZXl3bkdLRTRiNWZyZ0YxUQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 15:03",
-    "headline": "Memento Exclusives F1 helmet raises record £151,000 for charity - allthingsbusiness.co.uk",
-    "summary": "Memento Exclusives F1 helmet raises record £151,000 for charity allthingsbusiness.co.uk",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0xkWnNwdFV4eGlWMTJSVHlYMzZ3M3lWRWZZWDFqaXRmWHA5MVJLd1c0ZlI4bWJoM1prSVlxR01RbHZ6LXRlMTk5OUI1STFrZEpoYkZXSkJDdmJMSVV2eURodEp2LVllR2hWRU5RYzZ2WklUZ1hBRDZBRzY3X0MwakJZWXZYWG9PWm1F?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 15:03",
-    "headline": "Restituted Kandinsky Heads To Christie’s Carrying $30 Million Estimate - Artlyst",
-    "summary": "Restituted Kandinsky Heads To Christie’s Carrying $30 Million Estimate Artlyst",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMEVienpjY1ljcTkyUDlMYWdxaTlHNUpfSXRQR1U0VXBPbTdmQ0Z4WTlHSTQ1Tm1sZ0V2UXM5UUQ3YUFOaUNqdXlvLTVYSzA3V1QyOC1MQThaeVhscWVvYmlwLWVFakRKVWllVHdFNkdpQzlXVnh1a1hUeTljWHAyUWtGNEF4UFFQQkVMdEhZS1JSMUk?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 15:03",
-    "headline": "9 Important Cars from the 2026 Mecum Monterey Auction - Hagerty",
-    "summary": "9 Important Cars from the 2026 Mecum Monterey Auction Hagerty",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTTNXaUQ2YmNTNWlvUFlnU2pqVG82bzdFdXFRQS15WWc5QUh5bmZfS1ExR1JzV1FhY2xhaWdUUVAxcEhYMmtYX1hEMm1SUTVySkVhM25rWEVYc2E1RlZ6aTJrd3RJSm5GTldYUVpCTlpYa1NpZm9kaElXOUpBdWNtbEd0eGRqWFNHdlV5ck8yc2MwOWREZE1MN2FTMmt0Zjg?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 15:03",
-    "headline": "Rare Curaçao Gold Coin Sells for Record $390,400 at U.S. Auction - Curaçao Chronicle",
-    "summary": "Rare Curaçao Gold Coin Sells for Record $390,400 at U.S. Auction Curaçao Chronicle",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTdkWFhBT0tMb1JsQ1VqLTdiSzhRNF9nVElCRm0yNW5ObVZmZVZsOF9NMDFYTUczRVpIUWdrZEtiZDk3b3JfRHE4RU1nXzhva2hWZDNOdlltRkYtbzJrX0ZtQkZfQnpER2daSEgwTTYwSkhscDFiVlNlcmhMaWxscGw1SDNxVzlKZGcza003Qk5DelVkaktSS1pHZWg1QUUzWmNvekxCTQ?oc=5"
   }
 ]
