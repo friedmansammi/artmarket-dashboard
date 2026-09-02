@@ -1,5 +1,23 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-02 04:18",
+    "headline": "Poet Arch Hades: ‘I don’t have to share a space with another human being’",
+    "summary": "In the Channel Islands, the painter and sculptor is free to mix two favourite aesthetics — Snow White’s cottage and Cologne Cathedral — with no one to judge",
+    "entities": [],
+    "link": "https://www.ft.com/content/e99bf461-e2e1-44bf-9b18-c5d20e9b5f7c"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-02 04:18",
+    "headline": "The modern face of the debutante ball",
+    "summary": "African American communities have developed their own cotillion traditions",
+    "entities": [],
+    "link": "https://www.ft.com/content/b5e0d1b3-6f17-4250-a73f-ffcbe54709a6"
+  },
+  {
     "cat": "Luxury Brands",
     "src": "Luxury via friedmansammi on Inoreader",
     "time": "09-02 03:04",
@@ -1867,23 +1885,5 @@
     "summary": "Diptyque wants in on the luxury bodycare boom . Les Rituels de Soin is Diptyque’s first full bodycare collection. Body oil is one of Diptyque’s bestsellers.",
     "entities": [],
     "link": "https://www.vogue.com/article/why-diptyque-is-making-a-bigger-bet-on-bodycare"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 04:46",
-    "headline": "What Dyson’s First Toothbrush Says About Oral Care’s Beauty Era",
-    "summary": "Oral care is already big business. Oral-care brands are taking a similar approach to tools consumers use every day. For now, premium oral care remains on the fringes of dedicated beauty and wellness retail.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/what-dysons-first-toothbrush-says-about-oral-cares-beauty-era"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 04:46",
-    "headline": "The Marketer’s Guide to Choosing the Right Influencer",
-    "summary": "Campaign, creator, community — brands that can align these three segments will thrive. “What works for a high-volume consumer brand won’t work for a brand built on discretion or subcultural capital,” says Sara McAlpine, co-founder of brand strategy studio Bikini. Brands need to approach talent choices with a campaign-by-campaign approach to ensure the right messaging reaches the right audience.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/the-marketers-guide-to-choosing-the-right-influencer"
   }
 ]
