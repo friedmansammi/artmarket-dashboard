@@ -47,7 +47,7 @@
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "+0.0%",
+    "delta": "+33.3%",
     "dir": "up",
     "spark": [
       3,
@@ -56,13 +56,13 @@
       0,
       2,
       3,
-      3
+      4
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+50.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       2,
@@ -71,7 +71,7 @@
       1,
       3,
       24,
-      3
+      4
     ]
   },
   {
