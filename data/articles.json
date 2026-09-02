@@ -1,5 +1,32 @@
 [
   {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-02 02:09",
+    "headline": "What Vogue Editors Shopped This Month, From Leather Jackets to Vintage-Inspired Denim",
+    "summary": "This included my go-to hair serum by Rōz.” — Andrea Zendejas, commerce market editor “Simple black dresses are my uniform for easy summer dressing, and I couldn’t resist adding a couple of new styles to my wardrobe, from Araks and Cou Cou.” — Minty Mellon, commerce market editor “With New York Fashion Week around the corner, I needed to refresh my wardrobe with a few new pieces. Fashion is about sacrifice, and apparently mine is adequate laptop coverage.” — Sache Taylor, director, special…",
+    "entities": [],
+    "link": "https://www.vogue.com/article/what-vogue-editors-purchased"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-02 01:23",
+    "headline": "Julia Hope Christie Obituary (2026) - Jeffersonville, IN - Scott Funeral Home - Legacy obituary",
+    "summary": "Julia Hope Christie Obituary (2026) - Jeffersonville, IN - Scott Funeral Home Legacy obituary",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjdBWHUtMnAtdFpUYkxVaWw3M1F1MWVmeVVTelpDa1lsM3BVOFFnZHJGS091eGxJZlF0VWZGRzJrNHBHQ3pvTUtyMWJZaW1kMEgxN0JqYURUQnd6ZlpCbHFSd3JYWXBUc0xTNE9NZEdLVFM1RklucDhwLXZFalBEWFdFQQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-02 02:06",
+    "headline": "Amazon rigged $20bn worth of ads, US FTC lawsuit alleges - BBC",
+    "summary": "Amazon rigged $20bn worth of ads, US FTC lawsuit alleges BBC",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54T2t6a25MaHZ6YU83S19hNGhjWmpmMnNmcGl2SXZrTnJTZUdjU002a09LZXd0djZPdXJ3aHp3b28wNG00dUcwakZLdnA3UzVjY2wtdmJsRVBUUQ?oc=5"
+  },
+  {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "09-02 00:44",
@@ -1860,34 +1887,5 @@
       "Kering"
     ],
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWRXb3RKSVVMWFJ5UWVjSEtNY2JzODUzV1dsNTJMV1hMcTdZbHo3WWF5TG9vWlZkLVR5NG5wVnhPVzRWVUUzNGkzZlYxb0x5MEtiQndFU1RqZnhQNlZBLXhxaTZIYWZYMEZYaFpSWTFRVk1sMV9GVExCamFLZk1BYjJiQ2xJeWc2SjkzOXRlTlBPRVptUVplMXUtWWl4T2MwLWpYWG9UOXJXcUt2RTRNX2p4MW0xbWZmaU5aLVRoUWl0dHRQS3FWZkJCRzI?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 05:16",
-    "headline": "The First AllSaints Collection by Aaron Esh Drops Today",
-    "summary": "The first AllSaints collection by Aaron Esh is dropping internationally today. AllSaints was really prevalent in British culture on the high street then. A leather strapless dress from the new collection.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/the-first-allsaints-collection-by-aaron-esh-drops-today"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-01 05:16",
-    "headline": "Can Aaron Esh Make AllSaints Cool Again?",
-    "summary": "The question is, can Esh make AllSaints cool again? Across the globe, current brand sentiment toward AllSaints varies, a company representative shared. The hope for AllSaints is that Esh’s intuition will reinvigorate the brand.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/can-aaron-esh-make-allsaints-cool-again"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-01 04:39",
-    "headline": "Agatha Christie's Unknown Murder Mystery Deserves an Adaptation 82 Years Later - AOL.com",
-    "summary": "Agatha Christie's Unknown Murder Mystery Deserves an Adaptation 82 Years Later AOL.com",
-    "entities": [
-      "Christie's"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZW43elBmNzdGOVkxU0R1RUE1OHZrdTFsY185VWdFNWJNcFdZc0lkLUlDdGRlX25QSUJjNnlQWU1iTVltN1FvSTdsa2VVdmdYWEdiVWdBQWVHWjFHSElyUnQyNzRvVFFlSzRSYVBJTWNDR3dUM1ZfQjRDOWNGdEpUN2VJUnM3SGZxMF9n?oc=5"
   }
 ]
