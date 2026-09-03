@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-100.0%",
+    "delta": "-80.0%",
     "dir": "down",
     "spark": [
       5,
@@ -11,7 +11,7 @@
       1,
       0,
       4,
-      0
+      1
     ]
   },
   {
@@ -32,8 +32,8 @@
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       1,
       0,
@@ -41,7 +41,7 @@
       4,
       4,
       2,
-      0
+      1
     ]
   },
   {
@@ -77,7 +77,7 @@
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -86,7 +86,7 @@
       0,
       2,
       2,
-      0
+      1
     ]
   },
   {
