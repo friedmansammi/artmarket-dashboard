@@ -50,7 +50,7 @@
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -60,7 +60,7 @@
       6,
       2,
       3,
-      0
+      1
     ]
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -108,7 +108,7 @@
       2,
       0,
       0,
-      0
+      1
     ]
   },
   {
