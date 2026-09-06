@@ -1,5 +1,41 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-05 23:06",
+    "headline": "Celina Powell Hit With Permanent Ban From Hard Rock Stadium - HotNewHipHop",
+    "summary": "Celina Powell Hit With Permanent Ban From Hard Rock Stadium HotNewHipHop",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83RkNxU3JpUmhxY0ZGcXp3cHR1ZmhodTlmVkJ2Wk13eFJvYldrTnhaS3RzUklVYlR1ZVRNQjJjOTN0WFZHbWpBc0k0d09sQ0hIcFVOZFZhYVE3VVBvS3BfNW02U0lvTC1EWDItRTR5eTR5OFVJeFVGb3dSVks?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-05 23:51",
+    "headline": "Consciously Coupled: Owen Thiele and Jared Ellner on Working Side by Side and Being Gemini-for-Scorpio",
+    "summary": "Vogue : What has life looked like for you two lately? Jared Ellner: Everything’s been good! Thiele: Actually, I’ve learned a different kind of patience from Jared.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/consciously-coupled-owen-thiele-and-jared-ellner"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-05 23:31",
+    "headline": "Christie Brinkley shares how she keeps her three adult children coming home - Fox News",
+    "summary": "Christie Brinkley shares how she keeps her three adult children coming home Fox News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTjQ3SVUyNGhhdmZyVmNaaGswbW53T1NPWlRTdTdzeHlLQ0pRSVFYdEFWVzRWZkp4SzhMY09CX0o2TUVaeW5YWk1MVHhKTDE0TDFxak1Ubk55VjFVdHVkU2YtNEZTRktENy1WWjZFYkNYZmZVb1AxZXRxYmFVT2tsTWptQ2tianU1M0xnNnZfX05kaVRPbDhFU05FOGw1UWhRQ2p0cUZnWV9lTzF6cTBtQk1LUdIBuAFBVV95cUxOOHRiVlFyNDAweUJtajhmX2FOY0Z2dzh1RjNlYWRPY2ZTTTBObTZzYS1faE9HQlhKWl8zWlNMVWczamFMejRLdjMxNHpZUzR1OHRnM1E3LThsV3NFdUtHaUlKcnoxU1MyV0ZHWlpjdWRMVTBRYkxXQmoyc2ZpVEF0TTh3ZGtQUjctYnZuUnRQSC1HMzU5YVYxOGotVmZYM2lfaHpRRm9kN0pUamctNUNjdTZRSWlLYXZ3?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-06 00:02",
+    "headline": "Gold-Plated 1953 Elegante One-Off Sportscar Is the Most Expensive Cadillac Ever, at $1.275 Million",
+    "summary": "Photo: Kruse Auctions The interior execution perfectly maintains the standard of the golden exterior. Tragically, Harry Birdsall passed away at age 49 in 1960. Photo: Hemmings The damaged classic car finally returned to the Birdsall family when Dick Birdsall acquired the battered remains.",
+    "entities": [],
+    "link": "https://www.autoevolution.com/news/gold-plated-1953-elegante-one-off-sportscar-is-the-most-expensive-cadillac-ever-at-1275-million-275158.html"
+  },
+  {
     "cat": "Galleries & Institutions",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "09-05 21:39",
@@ -1809,41 +1845,5 @@
     "summary": "As tweens pack skin barrier creams alongside their pencil cases, retail giants are turning late summer into a major revenue driver for the personal care category.",
     "entities": [],
     "link": "https://www.businessoffashion.com/articles/beauty/back-to-school-beauty-2026-medicube-cerave-la-roche-posay/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-04 12:36",
-    "headline": "The Birkin has a new rival and this one is way more affordable - India Today",
-    "summary": "The Birkin has a new rival and this one is way more affordable India Today",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObnJrNlAtYnVWNTZIcUdxbmpjOUs2RFFjRDNPemNtWXRxNXhlQ1RENmRQU2lScWJIaGhWY195cGtoSUl4UDBkQ3c0cEV0MU52SkVsU1doMzRHMDd6RlZmMTRoYVBseWpHM2lGa2RYYzByZklJdFpNTHRaODdFS1ZjVk9GbjdFUmFHTm5KNUlmb3VDMGV4SFowZU45UV8wOUpJajV3MjNJdGlYZ2VQeW00d29jeV93WWxEUjBFc0ZpMNIBxAFBVV95cUxOMnNQbWR5VUhhd3RhcEJOZldPUTI3SEZ4bEtDd0JSZ1pzd1F5RWxydUNTQlIxdlBHS2NMR2NxdU5aS2xBbTNoejlyTkVFMXNBbFhGZlBURkdQOXJwWXVzdkRmMTI2ckxvMEpJVlVPOFl0TjMzbGlCdER4S0dsdlFLZE5iek1EYkRoVWNtR0pnWW5HU09RZ1dFdjRKUEkxbG1nQ282dnk4TS1CQlBfNXBmalp6Uk4xSFd2U2lwNjE1MnE4VURU?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-04 12:48",
-    "headline": "Businessman who ran over Rolex gang thief convicted of defrauding celebrity doctor of €1.2 million - portugalresident.com",
-    "summary": "Businessman who ran over Rolex gang thief convicted of defrauding celebrity doctor of €1.2 million portugalresident.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOU0xVWR6cTRUMF96UGxLcjk2QU5EcUZfZXRoWEFxNzVPX2U2eXdjLW5YR1lfcEhLaWZ0MUd3NDVmWjYzV0tObkIyejBwR3VsQ09oR3M4MDBWM0c3bzVycldmV1Yzb2RhS2ZKQ2RaU2tJcEx6QVRuZXVGcWxMWUNHMllLVElwNElsV24zUnR0YXlocm1ERW9QV0xPTlV1N3djbUVKZFhTVklQYkRrTGVDT2ozTHdraGRJQmplRVhGZFNvYmVOblBYOWY2YWY?oc=5"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-04 13:12",
-    "headline": "Spots! Sparkles! Amal Clooney’s Venice Film Festival Fashion Is Party-Ready",
-    "summary": "Amal Clooney is at the height of her fashion powers in the summer: Pucci sets, vintage Versace mini-dresses, gala-ready Galliano gowns. Fringe, prints, color upon color: Clooney keeps things fun without compromising on polish. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/article/amal-clooney-venice-film-festival-fashion"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-04 13:12",
-    "headline": "How to Behave at the US Open",
-    "summary": "But here’s another of the other complaints about this year’s Open: The din in Arthur Ashe Stadium is out of control. Arthur Ashe Stadium in 1997—less loud, but loud nonetheless. his mom , to the Open for the first time, while Eliza Wastcoat delivered a host of inside tips on getting the most out of the Open—one of them being, skip the Honey Deuce for the Frozen Honey Deuce, served at only one location onsite.) What many of those shaking a proverbial stick at the “influencer problem” are really…",
-    "entities": [],
-    "link": "https://www.vogue.com/article/how-to-behave-at-the-us-open"
   }
 ]
