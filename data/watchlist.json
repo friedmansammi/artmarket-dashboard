@@ -18,8 +18,8 @@
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-33.3%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       3,
       10,
@@ -28,7 +28,7 @@
       5,
       1,
       0,
-      2
+      3
     ]
   },
   {
