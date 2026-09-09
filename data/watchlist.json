@@ -114,7 +114,7 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-66.7%",
+    "delta": "-33.3%",
     "dir": "down",
     "spark": [
       3,
@@ -124,7 +124,7 @@
       0,
       0,
       1,
-      1
+      2
     ]
   }
 ]
