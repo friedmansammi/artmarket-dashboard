@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+33.3%",
+    "delta": "+50.0%",
     "dir": "up",
     "spark": [
       6,
@@ -12,7 +12,7 @@
       5,
       3,
       8,
-      8
+      9
     ]
   },
   {
@@ -66,7 +66,7 @@
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+136.4%",
+    "delta": "+200.0%",
     "dir": "up",
     "spark": [
       11,
@@ -76,7 +76,7 @@
       6,
       4,
       3,
-      26
+      33
     ]
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -108,7 +108,7 @@
       0,
       0,
       1,
-      0
+      1
     ]
   },
   {
