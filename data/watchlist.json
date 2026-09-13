@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-100.0%",
+    "delta": "-66.7%",
     "dir": "down",
     "spark": [
       3,
@@ -12,7 +12,7 @@
       8,
       9,
       1,
-      0
+      1
     ]
   },
   {
