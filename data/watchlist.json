@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-66.7%",
+    "delta": "-33.3%",
     "dir": "down",
     "spark": [
       3,
@@ -12,7 +12,7 @@
       8,
       9,
       1,
-      1
+      2
     ]
   },
   {
@@ -66,8 +66,8 @@
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       2,
       7,
@@ -76,7 +76,7 @@
       3,
       37,
       14,
-      0
+      2
     ]
   },
   {
