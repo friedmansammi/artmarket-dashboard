@@ -2,97 +2,97 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+160.0%",
-    "dir": "up",
+    "delta": "-33.3%",
+    "dir": "down",
     "spark": [
-      5,
       3,
       8,
       9,
       1,
       2,
       3,
-      13
+      13,
+      2
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      11,
       9,
       10,
       4,
       2,
       1,
       9,
-      11
+      11,
+      0
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      3,
       2,
       0,
       0,
       0,
       0,
       1,
-      3
+      3,
+      0
     ]
   },
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "+200.0%",
-    "dir": "up",
+    "delta": "-66.7%",
+    "dir": "down",
     "spark": [
-      1,
       3,
       3,
       1,
       1,
       0,
       0,
-      3
+      3,
+      1
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+16.7%",
-    "dir": "up",
+    "delta": "-50.0%",
+    "dir": "down",
     "spark": [
-      6,
       4,
       3,
       37,
       14,
       2,
       7,
-      7
+      7,
+      2
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+50.0%",
+    "delta": "+0.0%",
     "dir": "up",
     "spark": [
-      2,
       0,
       0,
       0,
       0,
       0,
       0,
-      3
+      3,
+      0
     ]
   },
   {
@@ -102,9 +102,9 @@
     "dir": "up",
     "spark": [
       0,
-      0,
       1,
       2,
+      0,
       0,
       0,
       0,
@@ -114,17 +114,17 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+600.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      1,
       3,
       1,
       1,
       0,
       0,
       7,
-      7
+      7,
+      0
     ]
   }
 ]
