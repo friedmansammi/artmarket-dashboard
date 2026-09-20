@@ -34,7 +34,7 @@
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -44,7 +44,7 @@
       0,
       3,
       0,
-      0
+      1
     ]
   },
   {
