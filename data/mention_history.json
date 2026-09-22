@@ -58,10 +58,12 @@
     "Art Basel": 7
   },
   "2026-09-22": {
-    "Kering": 3,
+    "Kering": 5,
     "Art Basel": 11,
-    "LVMH": 2,
-    "Sotheby's": 5,
-    "Christie's": 6
+    "LVMH": 3,
+    "Sotheby's": 6,
+    "Christie's": 12,
+    "Phillips": 1,
+    "Gagosian": 2
   }
 }
