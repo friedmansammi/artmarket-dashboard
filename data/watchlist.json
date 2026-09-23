@@ -18,7 +18,7 @@
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-91.7%",
+    "delta": "-83.3%",
     "dir": "down",
     "spark": [
       12,
@@ -28,7 +28,7 @@
       4,
       4,
       12,
-      1
+      2
     ]
   },
   {
@@ -82,7 +82,7 @@
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -92,13 +92,13 @@
       0,
       0,
       2,
-      0
+      1
     ]
   },
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -108,7 +108,7 @@
       0,
       2,
       0,
-      0
+      1
     ]
   },
   {
