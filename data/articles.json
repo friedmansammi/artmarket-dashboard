@@ -1,5 +1,159 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-24 23:17",
+    "headline": "Art Basel 2026: a temporary installation free to view at the Jardin de la Nouvelle-France - Sortir à Paris",
+    "summary": "Art Basel 2026: a temporary installation free to view at the Jardin de la Nouvelle-France Sortir à Paris",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSDhaQVdwUWNTM1VvN1VBazE2bXJNTXFuNHRsQ29hbmtud3VEdFVwZTRzbUZ1aVJkS0NkS2JldTJYMGx2Y3BadzgydUhXdnA0cC1uZzUwTWJyOTRnS2sxcFhZeC1FZVUtUG9UbDkzY0JhVnR5UTRya3c0VDNMX1NraWhUNHM1TVFNNGVuMGlGUVZjQ1R2U01jWUZEaWtlUXNqa25reWZmQl9MbWZnc0JvM0JoZ181MVhwbWRFcG1TVnhZak9hU0JtZDNoQlFLd3FSb2luY2ljeWgzalNaNVAwVWpNYUJjc3RRcmNDY1pLd3dxa2I1dmd6WDg1TVdQSUI5UTloNHhFb3FzM1JuYmc?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-24 23:38",
+    "headline": "Jonathan Abbott to Lead Museum of Contemporary Art, Los Angeles",
+    "summary": "The Museum of Contemporary Art, Los Angeles , has named Jonathan Abbott as its new director and CEO. Abbott arrives to the institution from public media company GBH, the country’s largest producer of multiplatform content for PBS and partner to NPR and PRX (Public Radio Exchange), where he spent fifteen years as director. Abbott started in his new role today.",
+    "entities": [],
+    "link": "https://www.artforum.com/news/jonathan-abbott-to-lead-moca-los-angeles-1234759736/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "09-24 23:41",
+    "headline": "Cezanne in Paris, Taryn Simon in New York, Magritte in London",
+    "summary": "In New York, the Guggenheim has just opened Taryn Simon’s latest project, called Father Country I Do Love You. Cezanne and Us, Grand Palais, Paris, until 17 January 2027. Taryn Simon: Father Country I Do Love You, Guggenheim, New York, until 14 March 2027 This Is Still Not a Pipe: The Afterlife of Magritte, Gagosian, Grosvenor Hill, London, until 12 December.",
+    "entities": [
+      "Gagosian"
+    ],
+    "link": "https://shows.acast.com/the-week-in-art-by-the-art-newspaper/episodes/cezanne-in-paris-taryn-simon-in-new-york-magritte-in-london"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 22:36",
+    "headline": "How to Wear Purple and Red: 6 Chic Outfit Ideas to Try This Fall",
+    "summary": "Throughout New York Fashion Week, the verdict was clear: the fashion crowd can’t stop wearing royal purple and cherry red. Wearing purple and red doesn’t have to scream loud. Start with J.Crew’s cherry-red button-up, then tie Auralee’s purple crewneck around your shoulders or at the waist.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/red-and-purple-color-trend"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 22:52",
+    "headline": "Woman Arrested After Stealing Tinder Date’s $37K Rolex and Escaping in an Uber Paid for by Victim - Us Weekly",
+    "summary": "Woman Arrested After Stealing Tinder Date’s $37K Rolex and Escaping in an Uber Paid for by Victim Us Weekly",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjJZRmdYNmRRTldHYVBXQkhHVUVOVFFYVWg2SVBJeVZfcGRiamxudk81Q01tLUdpZVZHX2lYNDUzb1I1WG53ajVKemphdjJqZDhid2dWLXMwS2x4R0tUNk5DcnJHdlFDYTVlekJhMXNOeVFZdE9BNndrQVN0cEp1WXZSNXRBbzl3WEk4WjNqeGVTYkI1T01JTU83Q3o?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 23:06",
+    "headline": "Emporio Armani Spring 2027 Ready-to-Wear",
+    "summary": "This postscript of an Emporio Armani collection—the last to be overseen by Leo Dell’Orco and Silvana Armani before Dario Vitale assumes the deconstructed mantle next season—was presented in a chic chromatic sweep. That sweep ran from white to black, via shades of green, gray and greige. These were two peaked-lapel suits in light, white, crushed fabric.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/emporio-armani"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 23:18",
+    "headline": "Gucci’s New ‘Made in China’ Sneaker Breaks With Italian Tradition",
+    "summary": "Gucci said the manufacturing decision reflected particular technical needs. Some industry-watchers argue it could undermine the brand's high-end image.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/news/luxury/guccis-new-made-in-china-sneaker-breaks-with-italian-tradition/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 23:18",
+    "headline": "Milan Day Three: Reality Bites Back",
+    "summary": "Marni toughened up, Max Mara leaned into pragmatism and Cavalli mined its past glory on a day when clothes, not spectacle, reclaimed the fashion week conversation, Angelo Flaccavento writes.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/reviews/fashion-week/milan-marni-max-mara-cavalli-emporio-armani-spring-summer-2027/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 23:36",
+    "headline": "Brioni Spring 2027 Ready-to-Wear",
+    "summary": "The brand is not defining its identity through clothes designed simply to project authority. While women can build a Brioni wardrobe that reflects their own style and sensibility, the brand’s sartorial heritage remains unmistakable, whether expressed through a more relaxed, everyday or evening wardrobe. At Brioni, they understand the importance of details.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/brioni"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-24 23:55",
+    "headline": "Top 3 Best Websites for Rolex Super Clone Watches (2026 Replica Watches Guide) - muddyrivernews.com",
+    "summary": "Top 3 Best Websites for Rolex Super Clone Watches (2026 Replica Watches Guide) muddyrivernews.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMndWMWw2Q3lMRXFteDlQN09sY3BoV29wWm4xM28tWnBiNEdmanpzeGxBYUtEQjI1RWN6aFhfQlBQTkY1T3A5bmxtUS0yWV80MlpVQWI4el92NG1xSzdvQ3ItVGJ0aE1qcDF2dUNWdjJHN3JXd0FLT2NoSU9WaXdmblU2NEVmeWRBMnRlazZtWm01LS14U1ZMQk9CWk14bG9Kd2VILXZVSWZJUUZxZ3lmU0x0cHk2SEZ6N05MSUQ1bUgwSVg4VFNWcGpBdFZReW9jRVRB?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-25 00:58",
+    "headline": "Kering bets on China with Icicle stake and De Sarno hire - Dealroom",
+    "summary": "Kering bets on China with Icicle stake and De Sarno hire Dealroom",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMVNwRFFaVU5yUTZNekYxVm9WYWJlSWRhMUs1YUxiMFU0eEN6XzRIMHZvOUhtSl8wSk9FcnZJaTJKNGZ3VVRjQUFPNnM1RWdKTnA0RFR0VjZ1ekFpUGF2RGNEQkxkM0laOTNyekkydHlkcE9BUWJfT1M5em1iSFZqSTFxWktfRGY1V3otMmFTYjJrQlhV?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-25 00:58",
+    "headline": "About Those Pierpaolo Rumors… - puck.news",
+    "summary": "About Those Pierpaolo Rumors… puck.news",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3Y2MnQtTzl3VS01S0lEYjB0UW9mZE44RktzS2g2bGtTdUEwaHlWdWVWUS1xVnMwQjF3T0hTYWdXdUp5anBWUlhLXy1SS0djTEIteDBqcjQ2azNQNEZHTFRxMHFzQ19GM2ozTmhMQW9CQWt1ZFdISDh0U1lZaXp0cQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "09-25 00:58",
+    "headline": "Peter Millar Has Come A Long W ay in 25 Y ears - PressReader",
+    "summary": "Peter Millar Has Come A Long W ay in 25 Y ears PressReader",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzNlZOWkFwSnlFRExUaW5WTGxDOWxnem5YS3UyZF90SDhLeGlkX0c3aDFDNUZiMjVjd0ludG5SVTVvMldPYlNTcDhVSmstaGNTUHpIOGxYdnNldzRpU3dUeG5qcnNPVVVEQUJLdUpfbUxhaW1BZXFBaGp3c0xxaGM?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-24 23:24",
+    "headline": "Summit Sotheby's International Realty to showcase homes across Utah in global fall open house event - TownLift Park City",
+    "summary": "Summit Sotheby's International Realty to showcase homes across Utah in global fall open house event TownLift Park City",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUW9TUnp3ZFZjXzM5RXV6ekZ5NGktLW16OV9pellCcVoxNHF4a3NfSDVlOER3cmVwTlVyM3l1RHd6MU5tOWJTWFl0Yjl5bzJCSnZ3eTZQdEIxUEphSzZBNkxBcTVIZ1JZel9ZTWFzOTJVY1c4c09XeFpmTU9FbG9iSF9SZDlfNko0cGtaZk1IOXYzWHZkWGdCQ21jUXcwdFVLdVVVTmxBeXBtN3NWaHZ3WXMwVEk2SEtyQTZaV3NyalFjZkNoUXRz?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-24 23:24",
+    "headline": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates - theartnewspaper.com",
+    "summary": "Was this Pissarro painting—sold at Sotheby's in 2024—looted by Nazis? A Paris court deliberates theartnewspaper.com",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkZqVXM3NWhMeXR4V3FaNFMwQWhXRjVzeHJmWFE3UjRZVGc5RGRaM21EWlBxd1RzT1B5UE1wdFJpSlR5MzNuSHE2eFBDdEYwZ3k4RW9RTHF4Q1YyU01rMlR1dTJvR2V4Z21hNjhTX3ZybU1DMkJOWWhIRUNEYVZFUGJzdjhyT1BXTzBYTm5Sc1NNRGloMkdXaU9DNV9uRlVrejRoWW9vTGtfZ1VsQTNRU21fcUdkNDNQLUN4ZXNFTFk4MWxIYS13MUgxWGpvWXc?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "09-25 00:03",
+    "headline": "Impressive Results at Bonhams 19th Century & British Impressionist Art Sale in London",
+    "summary": "Ivan Konstantinovich Aivazovsky (1817-1900) An ... One of the highlights of the sale was Sir Alfred James Munnings, PRA, RWS (1878-1959), Portrait of Waldorf Astor, 2nd Viscount Astor on Bill's Simondale II , which sold for £190,900. Munnings' portrait of Waldorf Astor is a remarkable picture that has remained within the Astor family by direct descent.",
+    "entities": [],
+    "link": "https://www.bonhams.com/press_release/41684/"
+  },
+  {
     "cat": "Galleries & Institutions",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "09-24 19:31",
@@ -1706,158 +1860,5 @@
       "Kering"
     ],
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRXJwQm9pUjlJZEl4QVlrSGs3aDQ5S285VmFlMXd0WDdDWEVmeXpIa1p2clFGc2M5M2FzZUdRSkRldDlCdkdiWG0zMFF0R3lralFiTEhNUnpxYUV2eVV4QUVnZXFyQ2JkTC05YXpDN1lrRDNGVW9yMHdqN1VMbDdISEJGWEUyZ01JX0poWVhINmtwc0tySnNFYUhrQUtTaGdYYmgwZlAwQTdEQQ?oc=5"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-23 21:50",
-    "headline": "The Best Fall Jackets 2026 to Shop, From Little Jackets to Suede Blazers",
-    "summary": "Carryovers from last fall include the shrunken lady jacket and the suede bomber. Equally on point: Ashlyn’s cocoon-sleeve jacket, Almada’s collarless silhouette, and Proenza Schouler’s contrast-collar style. Suede jackets are nothing new for fall, but this season’s array feels sleeker than ever.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/fall-jackets"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-23 22:50",
-    "headline": "Happy Birthday, Bruce Springsteen! 15 Incredible Vintage Photos of the Star",
-    "summary": "Swarmed by fans in Red Bank, New Jersey. Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member —the ultimate resource for fashion and beauty industry professionals.",
-    "entities": [
-      "Phillips"
-    ],
-    "link": "https://www.vogue.com/slideshow/vintage-photos-of-bruce-springsteen"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "09-23 23:17",
-    "headline": "Milan Day Two: The Dialogue Between Designer and Brand",
-    "summary": "Simone Bellotti brought a whisper of sedition to Jil Sander, while Maria Grazia Chiuri negotiated between Fendi’s vocabulary and her own.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/reviews/fashion-week/milan-fashion-week-jil-sander-fendi-etro-missoni/"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Museums via friedmansammi on Inoreader",
-    "time": "09-23 22:00",
-    "headline": "The back of this Picasso painting tells a story",
-    "summary": "The back of this Picasso painting tells a story",
-    "entities": [],
-    "link": "https://www.youtube.com/shorts/KtzoUIyA8OA"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Museums via friedmansammi on Inoreader",
-    "time": "09-23 22:28",
-    "headline": "Museum of Modern Art Acquires the Works of Ben Wigfall, A Pioneering Black Artist Who Went Unrecognized for Over 60 Years - Morningstar",
-    "summary": "Museum of Modern Art Acquires the Works of Ben Wigfall, A Pioneering Black Artist Who Went Unrecognized for Over 60 Years Morningstar",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeUFhc0lsVEk0TEtxa1RvMjE5VTJtQWF2c2RnVHNLNHpCMWZtempxdTNTT1FPYUlKMnNYTmJCRWtkM1RQT0FDRmNBS0R3anNVSWlOakp2TE14R05BUVI4bVNMQ1JnbTVOaDRtQUcyNTVtdWc2LU9ncXZ2eTNvdjlNQ0piUXN6WGRjYlpfZ1oyU0RCalZDc1VneElPSXptUEdqdVZQNUx1YzVsRzE2OFJlVHhZOXJlYlFnUjRpTXNBRnFHU3RoWlRSZzlIVlpyNGNUTnZZNU9PWjNLTGs0ZnliT29HZ1gteUNSTzRRakZjZlV5LXdlcHltd2JROU5aTGhJeG4zTGdR?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-23 20:32",
-    "headline": "Soccer legend Thierry Henry asks $25M for his eye-catching all-glass NYC penthouse - New York Post",
-    "summary": "Soccer legend Thierry Henry asks $25M for his eye-catching all-glass NYC penthouse New York Post",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZkh1el9NRW1Ndk9hcmdVNHo1VFBuSnNyV2lmZDhhek5HcmE3UzJWVEVSSmFlWGJDT1dOdXFDbU8yS3dxVGVtcUlhd1N4aW9VNmllZmNIT3JfNE9wdTZmbXVkQ01oa0U5TmJ2dWF4V29FUVhaTzd4Qm9tdllVMUhwOGxHTzRUUFEzZ2RBbXFYTFpxOXRzQXc?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "09-23 20:45",
-    "headline": "Chris Christie Teases A Third Presidential Run In 2028 - nz.news.yahoo.com",
-    "summary": "Chris Christie Teases A Third Presidential Run In 2028 nz.news.yahoo.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjNwb2tNdDlWU21KVEUwR3IwbGlXdHNFdktsXzBBLTRtTGpnd1FoeVc5QVlrMWdHNW9aVFZPcERjOGJ0cmgtXzJSQnNzY05JZjRIWURmaVBLZ2QtVmRWcWJTWTBYVFd5RmRmSS1hT1lDcGhZNFdmbklvY1BiWTNXd3lGOVQzOWJX?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 17:09",
-    "headline": "Amateur Archaeologist With a Metal Detector Finds 934 Roman Silver Coins in a Field in Western Germany",
-    "summary": "The coins date to the time of the Roman emperor Hadrian. “At that time, an ordinary soldier in the legion earned 300 denarii a year,” Rahel Otte, a research associate at the archaeological office, explained. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/amateur-archaeologist-roman-silver-coins-west-german-field-1234799112/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 17:33",
-    "headline": "Art Institute of Chicago Returns Metzinger Painting to Family of Jewish Collector",
-    "summary": "The Art Institute of Chicago has announced that it will return Jean Metzinger ’s painting Woman with a Fan (1913) to the family of Jewish art collector Emanuel Lewenstein. Jacques Schuhmacher, the Art Institute’s Executive Director, Provenance Research, said in a statement . “Our collaboration and shared research with Mondex was crucial to returning this painting to the Lewenstein heirs.” Emanuel Lewenstein, was the son of Dutch industrialist Adolph Lewenstein, the founder of A.",
-    "entities": [],
-    "link": "https://www.artforum.com/columns/aic-returns-metzinger-painting-to-family-of-collector-1234759579/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 17:50",
-    "headline": "Art Basel 2026 : Robert Indiana installs a Love Wall on Place Clémenceau in Paris - Sortir à Paris",
-    "summary": "Art Basel 2026 : Robert Indiana installs a Love Wall on Place Clémenceau in Paris Sortir à Paris",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQSFpidEtXU2dFUnlWNGhKR25rVVdCRkl5ei02aVZCeHRPbXpKOVczODN2Xy1hXzgyWXZXM28zaDBraGRzX0RpT2RzM1pnWm5wT1lTRE8wNW9XUVN4dHdLdUJJZ2tibmxua0V5cTBkcERZWXJ5SDFvVWhuMElVa0hicy04R3NWUmRNakJEalBrS3NDSjRCZ0hXa2xOdGl4U1lNNUpnV3lhekZUWWtrejgwcGpuVXF4QVVVUWRPbTI3MUlVVk1PelIwVkJaOXhwdkNwbEpQWDRGV0ZLODhad1F4bjBublJlVXJtN3cyS0xJbndqYTBCYXFseg?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 18:08",
-    "headline": "Art in America Celebrates Fall “Icons” Issue with Talk Featuring William T. Williams and Nari Ward",
-    "summary": "Executive Editor, ARTnews & Art in America To mark the publication of Art in America ’s fall “Icons” issue, the editors convened a panel discussion pairing William T. Williams, the subject of a profile in the magazine, with fellow artist Nari Ward, who studied with him at Brooklyn College. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-in-america/columns/icons-issue-launch-talk-william-t-williams-1234799139/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 18:37",
-    "headline": "El Museo del Barrio Apologizes for Renting Space to Event that Aired 9/11 Conspiracy Theories",
-    "summary": "New York’s El Museo del Barrio said this week that it regretted renting space to a group that organized an event at which 9/11 conspiracy theories were freely aired. Temkin Promoted to Senior Curator According to the New York Times , the event pushed false narratives about 9/11, including ones that were centered around the notion that the Twin Towers did not fall because of a terrorist attack. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/el-museo-del-barrio-apologizes-9-11-event-1234799186/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 18:37",
-    "headline": "How Collectors Jon and Kim Shirley Stepped In to Restore the Senate Building’s Famed Calder",
-    "summary": "The Calder Foundation, run by Calder’s grandson Alexander S.C. “Calder was not a political artist,” Shirley said. © 2026 Art Media, LLC.",
-    "entities": [
-      "Christie's"
-    ],
-    "link": "https://www.artnews.com/art-news/market/alexander-calder-senate-hart-building-restoration-shirley-1234799100/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 18:37",
-    "headline": "Sotheby’s to Sell a $37 M. Cache of Works Once Owned by Armand Hammer, National Gallery of Art Names New Head of Art of Americas Department, and More: Industry Moves for September 23, 2026",
-    "summary": "museum in November as senior curator of American art and head of the art of the Americas. Among their buyers have been the Metropolitan Museum of Art in New York, the Museum of Latin American Art of Buenos Aires, the Bowdoin College Museum of Art in Maine, and the Toledo Museum of Art in Ohio, which acquired Lake Titicaca (1935) in May. © 2026 Art Media, LLC.",
-    "entities": [
-      "Christie's",
-      "Phillips"
-    ],
-    "link": "https://www.artnews.com/art-news/market/sothebys-armand-hammer-auction-industry-moves-september-23-2026-1234799166/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 19:33",
-    "headline": "Jeffreen M.H. Ash Steps Down from Leadership of Threewalls",
-    "summary": "Ash will depart from her role as executive director of the Chicago cultural nonprofit Threewalls on September 30. “Jeffreen did not simply grow Threewalls. Brunson, former executive of the Philadelphia-based nonprofit First Person Arts, will serve as interim director while the board conducts a search for Threewalls’ next executive director.",
-    "entities": [],
-    "link": "https://www.artforum.com/news/jeffreen-m-h-ash-steps-down-from-leadership-threewalls-1234759590/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "09-23 19:43",
-    "headline": "Frieze Owner Ari Emanuel Criticizes Macklemore Over Pro-Palestinian Comments - Hyperallergic",
-    "summary": "Frieze Owner Ari Emanuel Criticizes Macklemore Over Pro-Palestinian Comments Hyperallergic",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXMtc1N1VGdoYzNvUHBGWllqZ2tkZS1nYUhmTEtaZU5RYXc2UDJKN09WVFNNTnl6OENEZjd1WkI2OUJ4WVJRVl9aSmhBcGM3eTNiWFg1dmE3YXAxWFU2TUE5RGw3dXI2MEJVNlEzTEJwRjN5clRRdTN5My1oMnA2ZUVOV0Rhc0cxT0twaHlBcjNhOVlxakVqejZkcFZkZFctSjhPT1Zn?oc=5"
   }
 ]
