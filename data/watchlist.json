@@ -18,7 +18,7 @@
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-50.0%",
+    "delta": "-25.0%",
     "dir": "down",
     "spark": [
       4,
@@ -28,7 +28,7 @@
       9,
       2,
       1,
-      2
+      3
     ]
   },
   {
@@ -66,8 +66,8 @@
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       2,
       1,
@@ -76,7 +76,7 @@
       5,
       4,
       0,
-      0
+      2
     ]
   },
   {
