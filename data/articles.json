@@ -1,5 +1,272 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-04 10:11",
+    "headline": "Digital Art Moves Beyond the Screen as Art Basel, Art Blocks and 0xfff Explore New Creative Frontiers - Tekedia",
+    "summary": "Digital Art Moves Beyond the Screen as Art Basel, Art Blocks and 0xfff Explore New Creative Frontiers Tekedia",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLW5RRnFKQ1BnUmFPVm5NbmsyRDBEVFVhOWh6V2N4cVJXaERiTFVPQkJtclZtMUVjR2NSZzh1V1JKV1NZSklwT01QWWFyR1IySl8tU0JKTE5BNjlUb29NV0hqZ3ZjWmNFMDdOZklSaUlWcGVrYWtDYzRXMWJmMzRRS2lXVlZtUXN3NFVzckl6Y0FrMC1WRXc3ZHI4WjhqTUpMYlRtU05wQkJSY3BSTVpVaGZQdlFpRi0zaURHeG5tbGVTa1E?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Galleries & Artists via friedmansammi on Inoreader",
+    "time": "10-04 12:25",
+    "headline": "Meet the artists | Sonia Gomes",
+    "summary": "For Sonia Gomes, making is inseparable from living. In this episode of 'Meet the Artists', the Brazilian artist reflects on the materials, memories, and gestures that shape her work, from the fabrics and fragments that fill her studio to the personal histories embedded in every form. Watch the full film: https://bit.ly/46HD8Nq",
+    "entities": [],
+    "link": "https://www.youtube.com/shorts/1TQeQkfoBDw"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 11:50",
+    "headline": "Kering stock falls 3.22 percent as Gucci recovery slows - AD HOC NEWS",
+    "summary": "Kering stock falls 3.22 percent as Gucci recovery slows AD HOC NEWS",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUVkb3E1dnNyTlFhMGl0LXFWdEttbnBSSjNnUmJQbzJzb2xwT3JzLWhMUnVnSEdoSGtOOUpibG9lRUlyOTVNOWtfcHVEWVRRSHBqZmJQUDhiWmJoMzU4YVVUYlhHYzkxbkNvblF2WmdFdFhvbHFsd01waldySE5GN003ck5XODRaMUZlaEJWd3hIQ2t2QnlmdkFTeVJnR2dWTHNqQjJ6ZEVHTjhQeEFmalcybDNJQTVTSlE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 12:01",
+    "headline": "On ‘SNL,’ Taylor Swift and Dakota Johnson Prove Bestie Style Doesn’t Have to Mean Matchy-Matchy",
+    "summary": "Cue Swift, whom Johnson introduced as her “literal therapist.” Swift quickly clarified the arrangement: Johnson simply turns up at her house once a week and eventually has to be driven home by her security. Following the goodnight moment, Swift appeared again to present Johnson with a cake to mark her 37th birthday. Become a Vogue Business Member!",
+    "entities": [],
+    "link": "https://www.vogue.com/article/taylor-swift-and-dakota-johnson-saturday-night-live"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 12:01",
+    "headline": "Miu Miu Spring 2027 Ready-to-Wear",
+    "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/miu-miu"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 12:27",
+    "headline": "Chun-Hsin Tseng vs Nicolas Mejia - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round - tennismajors.com",
+    "summary": "Chun-Hsin Tseng vs Nicolas Mejia - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round tennismajors.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTQwa29JUlU0X1Y2bXZsUXVvak0xZjlhS2xWSmFfTFIyVUsyQld5ZGdyeFBmaWNZTmc1MUc3bUpwaEs5TWJuZkJwMnhVdTZ5SjRRWEhiWTdKS0gtbjBHRld1SzlveEJhSzJYVE9aRDJBNGJJQ05Yel9fR1R4Q3kyb0lXaU1yNVdzZlhUeW5MSWtIdkdvMzVReFBTQkk?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 12:27",
+    "headline": "Michael Zheng vs Federico Agustin Gomez - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round - tennismajors.com",
+    "summary": "Michael Zheng vs Federico Agustin Gomez - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round tennismajors.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHBxMTl2NHZKZUlDcUcwOWRCMkJvSGJwSEtvc1Z4SnVjRzRzUWpqc240R2ZBLWNsSGdzWXFwQVVGdDI4S2R4WUlubk81dlVOY3JVX0hEUHliSVdDdkFud2xNTGpkMXRCVXBPTDlOUmZLTXpoLUxFdkdRMmlmZ0xicVhreTFJYmQ3Z0FNSklZYzJlSFFaajMxcGlnSTJILTV0NFdoQk9n?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 12:38",
+    "headline": "20 New Watches You Missed from Seiko, Casio, Patek and More - Gear Patrol",
+    "summary": "20 New Watches You Missed from Seiko, Casio, Patek and More Gear Patrol",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5ZWZaNzB4UFdpMG5LN3IyYVpnVHctSWZUam1WZ2pEX0JjY21IaWl4WC1zSzJSOWRNVGdZM0FSRDV6NkI4N0oxWVBsN0tXR05LaFRKLWczRVhlel9HUWliUnkyOWlDdjdLU1NPUFBld25BRE1p?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:00",
+    "headline": "Akris Spring 2027 Ready-to-Wear",
+    "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/akris"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:02",
+    "headline": "HERMÈS SPRING/SUMMER 2027: CAN A ZIP UNZIP A MAISON? - Vanity Teen",
+    "summary": "HERMÈS SPRING/SUMMER 2027: CAN A ZIP UNZIP A MAISON?",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BaEFBUm5TbTdSeWRLR2RLS3ZsS2xQZC00T3Z5UDQwX1lSZE91X2I4M3ZuNDk3b0Y3bFdOWmh3MjdUbF95S0JHcm82M1dXYmxjSzJnaXl2NWY0UGFMT0RCbHhSbzlGWUxDRnowdA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:02",
+    "headline": "Two Hermes handbags confiscated from death row tycoon Truong My Lan up for auction at nearly $156K - VnExpress International",
+    "summary": "Two Hermes handbags confiscated from death row tycoon Truong My Lan up for auction at nearly $156K VnExpress International",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMHI0M1pxV1g1dHo0d1VDRUVRRVYyczVHZlV6aDJtX09wRTNJVk1yLU85MUFIR3M1SHlPNGZsUTk3VXhrT2dtaDMzR3FBcDkwc0Q3UXVIUEhhYmpyTDhLcDBNRWR2SjFUZFVJT1RIMkFFbXFlYUg4YUt3S2NGQ3VrVnVabW5VVnMtU055TUR6aTVEUFlFRVd1My1pdDV3aDZwblNGdU5Lc1UydG95UVBmYmdGbEMyU3FXRjNxUGJXZ2V0NWpFVUUyQVB4eHY0ZmRGcHNwUVZPd0U1N0stdW5TdldiZHJ4akp1OGM1WjFzSQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:27",
+    "headline": "Rolex, starring Komal Kumar and Sonal Monteiro, is now Relax - Cinema Express",
+    "summary": "Rolex, starring Komal Kumar and Sonal Monteiro, is now Relax Cinema Express",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGltVnE0eWt6N0lQc2FYNmZGYm1yWV9RWFVRVklFbGJEMXdSSUM4RWJEVW93T01qMWlOYTdZZHlEMmgxOENQVUFVRmVLMmJWWjEySVFnOE13aU5NQS1MQzV1Ry1SanpES1BiazV5eVFyaFVKbGlKUHpseHR6ZVFsdzZtMVZCV0pYWE4tQmpxYmF1WlJQSW9aZkdYbTRXS0VuRGZOcy1JcVFiWGRXT2p6ZEt0RdIBwAFBVV95cUxPdFJlbGNJLUxOSkprVDVPYk4zTGJ3bGJqTWNzQTRva2lyRFh4SktBZzhmbHQyRVhlZHRPd3ZwVjRrb3hWenUzaWxtQ2IyTTN0Q0xQd1ZXa0d0V2pneHZEOTRrMk9ZN0ZKejRXVUljMTZCamp3X0xMbi1DaWtRWXhqR3ZXamlqX0k2Sjdid1JSeG9FU0pISy1EaHFLcVNsenoxMUFpemlvWDk5X3lxbmdxdHJ5OXY1TFYwOHdkSTNWMnU?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:27",
+    "headline": "Adam Walton vs Rigele Te - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round - tennismajors.com",
+    "summary": "Adam Walton vs Rigele Te - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round tennismajors.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQmZlVDJXQm9wSGZtVDBoZDFTdDd6SWNUalg5U1pYZzRYQm5MYk9ycHVmcVJXZnZXZEt6X0ZFbjcwcURsdmM3MXU2STdtdEtRRmZNQTFuZEEteDBlTFA0TnU1WEExaWdZZzViSlZIa1dRckZ6WU9WZVdFaVRaUFMtRldINklmU0xpUlpES2JuV3FkZw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:27",
+    "headline": "Mattia Bellucci vs Elias Ymer - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round - tennismajors.com",
+    "summary": "Mattia Bellucci vs Elias Ymer - Match ATP - Rolex Shanghai Masters 1970 - qualifying-1st-round tennismajors.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2trSDFodmVVN3hKTTBOSGlkUDZVdVVrX2NZU1RvU0JxQTBXQ0lnNGVCd2tKVFF6aloxTUg1WkJRTVBWT1g0am96dndQZFVxYXhRblhYckhUMElpaWowT2RMc2lBUDUxaXBqQi1aWFVTUHZqQVJPTktXV0tjdUwzQTEyTXlJeWFPb3lVb1haR09oMXZ3QXpSNg?oc=5"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 13:31",
+    "headline": "Reformation X Alexa Chung Is Coming: Here’s Everything You Need To Know",
+    "summary": "And it’s this clear aesthetic vision that is palpable in Chung’s first collaboration with L.A.-based fashion brand Reformation, which drops tomorrow. “I always start with my own wardrobe first; what I feel on a personal level that I’m missing or dreaming about,” Chung says of building the collection. Shop Reformation X Alexa Chung with Vogue a full 24 hours before it drops on reformation.com on October 5th.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/alexa-chung-and-reformation-collaboration-2026"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 14:00",
+    "headline": "Olivia Colman Is Now a Miu Miu Runway Model",
+    "summary": "Olivia Colman walks the spring 2027 Miu Miu show. Also spotted on the runway? Become a Vogue Business Member!",
+    "entities": [],
+    "link": "https://www.vogue.com/article/olivia-colman-miu-miu-spring-2027-paris-fashion-week-model"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 14:01",
+    "headline": "Richard Mille’s next move: Amanda Mille on storytelling, technical ambition and serving women seriously - Monocle",
+    "summary": "Richard Mille’s next move: Amanda Mille on storytelling, technical ambition and serving women seriously Monocle",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FNjZqaDVjNVVYYTFGMVZIcU1aZW1lSm9EeTRHUVRXYktQR215SVFlaF9jeXVKNE1wYVk3MFpVbzRKbUxRWWxFaDBhdVpSb1Babm5jMHBaUi0tdVkzT2JQOTJkRzd0OE5iX0hMNU1TdE44SmpheXJiUjYyOGE2UQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 14:24",
+    "headline": "Hermès women's spring-summer 2027 collection",
+    "summary": "Discover the women's spring-summer 2027 looks. #HermesFemme *** Welcome to the world of Hermès: In 1837, Thierry Hermès opened his workshop making the finest quality harnesses and saddles in the heart of Paris. Today, Hermès is still a family company whose craftspeople make, often by hand and always with love, bags and belts, diaries and dishes, scarves and shoes, perfumes and purses, ties and travelling furniture, as well as gloves, hats, watches, jewellery and clothes.",
+    "entities": [],
+    "link": "https://www.youtube.com/watch?v=YmylhftnVUY"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 14:26",
+    "headline": "Rolex Rings: Can Europe drive its next phase of growth? - The Indian Express",
+    "summary": "Rolex Rings: Can Europe drive its next phase of growth?",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHAxRHdWSzdUWGdTeC1mLTFocENOWGsxak1nMmZVMnY2N0NVYk14MjJYUDRUZUJvaUVZM2Z4VThZemxYeHByWFF0U2NHWVpNSjBNVVRhQUpwR0tfMnljTkJPdGdibGdfLUFubnJ0cmVOWlI4NkRYUGdSZW11anZwNWNLdFFUQ0x3NFVfTU5nT01GMDRDdjlJbHYxQUxMRERvb1BYZmkyam_SAa8BQVVfeXFMUGpQU2l0SkJ3ZEhmU1BYZGlINXpxUXV0VjNDVmhUR2ZOenpFS2Zhb2w2am5mVFVQTnpHRllMc1pjVDc2ZmlBR1V5MUx0YXRvWmtlc08xN2JkUXBPYnhVVWFNUm04MHEwOTFkVDB3QTBVRHU3aHMzWnFxR3JVS2x6YmxqbkZOSTlobDlBb3hNaHliYkhwWGZhMmp5ZkNuZVBzeUxURmpyaGF6Q0tTWnB1aw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 14:31",
+    "headline": "Valentino Spring 2027 Ready-to-Wear",
+    "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/valentino"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 14:35",
+    "headline": "Woman sells fake 'Patek Philippe' watch for Dhs700,000, Dubai court orders her to return money to the buyer - GulfToday",
+    "summary": "Woman sells fake 'Patek Philippe' watch for Dhs700,000, Dubai court orders her to return money to the buyer GulfToday",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaTRuREN0V3NWOUZ1dEtDNi1ROHdld3lsSWhUeVgxVnlOQV9JUHE1eDdnNXp6dnlXUHRBeUVWb3djU3VwZDNIS1llejBlRmFpOTJkT0tVQUZQNXFUdUN6dVA5LTBPeWVPdVI3TGk3Y2NTUVFjNXFBbkpCaldYNjAtU29FOFdERFlNX21WQVFLaTl6bkhvMkMzaWZhZzUwaHg3NUE5NDdmZ0U4VEJkLVhXaFFoaWhqdjctU0I5cklFTVdyMWNtcldIdWkyVW5COUI4clFQV2c1b1JTeUlh?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-04 15:00",
+    "headline": "Mossi Spring 2027 Ready-to-Wear",
+    "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/mossi"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 10:03",
+    "headline": "R6,4 million Ankole heifer sets new record at Ntaba Nyoni auction - Farmer's Weekly SA",
+    "summary": "R6,4 million Ankole heifer sets new record at Ntaba Nyoni auction Farmer's Weekly SA",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0tEbEtRaDJOcS1ZR3FMU0gxRGMxaWZaQ1NycXJ0NXZPcEllUUlWR2cwWkZZdnE0N2FuemtYZlZOZWIzYWFFYmxSaURINUc0c1RLMktERlItUW1pTElBM0wzSzlUZmpsMXZoLUpWYUFFZTVSTnNzVEJBZnFIMmxTWTRNRnY0NHFGN0FHc29ndEh5TGxIWjc5MjJfUjl3QkhjTWVXUUJtQ29CalZlTG9xTjd2bUdzQnBLdHl1Vw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 10:59",
+    "headline": "Christie says Republicans could face ‘shelacking’ in 2026 midterm elections - New Jersey Globe",
+    "summary": "Christie says Republicans could face ‘shelacking’ in 2026 midterm elections New Jersey Globe",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjkyOTJua0lIZzJtblU0TmZVWm5PQ1k1b1NZdkRFbGZ4a3RycHU2dmY2WnM4SmxlY0h1dkczODBVOVBZMEZGcHBfMGVCMVpNMXZSaFVKLWFTVFRkWllyeldGekhXcE1wSFp4RVdRaU1aQkxvVUhCRzRoQWlwejFVdW5lUmZnOVhyRENWSXJKUjEwODlXRWlQRmJ5azZNLVFqbXlkQ2s1Zkw3akkyS3hJ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 12:00",
+    "headline": "Michael Jordan’s Ferrari 550 Maranello Sells for Record $2.7 Million - Road & Track",
+    "summary": "Michael Jordan’s Ferrari 550 Maranello Sells for Record $2.7 Million Road & Track",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMXNPM1Zja095R2FzSHFpUHlISDNSTzVNV1B5Z2dnU3c3SnBLNnV5R21PSkhPY1Z4UTNpY21ld0JoX3pORVF6RlVQVURfbHJIMWhvMGVwNFZxOG8wd1VlN0FmSS1hS3FIVnBubjRib3NZVFNWLTlCSVRGREd1ZDZxVkdDd2FwdEVWc3AtWlhQRERXZG01WXQyaFpHbWNYUkxhbXVHaTRoakpsM2dmMHd4dA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 12:59",
+    "headline": "Lucio Fontana’s *Venezia d’oro* is set to go up for auction for the first time: Christie’s is projecting a price of up to 7.5 million - Finestre sull'Arte",
+    "summary": "Lucio Fontana’s *Venezia d’oro* is set to go up for auction for the first time: Christie’s is projecting a price of up to 7.5 million Finestre sull'Arte",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTXhyZDl6RXplVWQtM2R1MkpzcFZiMFk4ZkJqRm53WDdRZXZpRENwcUVPUmtKX2ZTY2tqOUowejZrbmtNdUVDVUJFX2k0OXdLa3RpR0xuVkl0VXFZZGpTN0UxaS1UWE1MQWlJbXNOVGlEQ1VZb2hvMEFuclhLQ1N3U0N5Qk5Ua1E3cWx6RmFQQUdaNFN3UFR1cUJzWTRVNl9Ddk9vSFpUWnI2YVNqUnVJcnQ5d2w0b0RIYWRCYzF3bW5rLWdtU09KQ25WZjdCNkVRYzBIYXNjZ2JxMUVIdVFfLWVsSmxJOHVkX2VTWVdwenVxbHQta2NYdWpDZmNBdVBSbG5aNw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 13:54",
+    "headline": "Watch Auctions October 2026: Sotheby's, Bonhams, Antiquorum - Haute Time",
+    "summary": "Watch Auctions October 2026: Sotheby's, Bonhams, Antiquorum Haute Time",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeGNoR2t1SXV6Q2plR2FLOWRqcUpwQ0RPNG0wd2g1M1Jsbks4VTdFWUlKb3UtM2UtQkQtYkJ2UVhBbVVGOHZiN2FTTzg1TGdtbzFlaXlZYlhBdXFSN2RWTHZLTjZuekZicTd1SmZHVk1vYjFscjRwRlp2dTZWcEhHaEtiWkxKSGtaclpOVDc5OXF6Zkd1YkFtTFVOY1ZzNGhuSVhaek1IbnZUTzE5cVBkcERFdGk2WVdvbWxESlktbDdxcVIzYWJMZ19tUHNvSW5HWXJteWNfVkowaWYt?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 13:59",
+    "headline": "McLaren Senna Sets Auction Record as Carrera GT Nears Close and Rimac - duPont REGISTRY News",
+    "summary": "McLaren Senna Sets Auction Record as Carrera GT Nears Close and Rimac duPont REGISTRY News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yRmREeF9vUW5ZVzMzTEhiaXZMeXpXaWMzaEozM2hlZVYwb2QyNUZpMkZrU2U3WXkzRG9xdEs1RnlfbDZ6RTZFZXV5TFNOZ3h1RExnQjR4LXBRb0NfLTR2MVNBNkZIZDVKZDluSE5YWnNVdWdUU0x2eUZsOA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-04 14:00",
+    "headline": "A Chris Christie comeback? | Sheneman cartoon - NJ.com",
+    "summary": "A Chris Christie comeback? | Sheneman cartoon NJ.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMTRvN0U3a3lPMk9Pd1kwT0ZuZTZFbEI4R3pVZDVlczBqMnRZWU96THdkTUNKVEhqYUR0V0RvWndxVWVtUzhxbXNXS2Z1dmRETEx1U0Qzd2xiRnlwWnVRcUlPZDA0ZXNIWlB4YU1jQVpZYmNfa3NOZE10dHJHVGdYd2VjejRCWFBaT0E?oc=5"
+  },
+  {
     "cat": "Galleries & Institutions",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "10-04 04:15",
@@ -1560,268 +1827,5 @@
       "Sotheby's"
     ],
     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUjVYaHNBV1JFN2hwbW9UTHRqeWROaGNwV3BReDlITmt4X0lQb2doRXFHNlpweDJBVFRNLTJLMjRHV0ZsTE1ldXd3Sm1DZjgyajFlOG0zYjcxTXpTWVRhaFBHTC02OElpaGlnejJ5cjl4UEdZUTlnRHBDTldBTW5ScUszV01nU19tNnRIX2t2U0pEejNLaVFoWjV6RWt2b2RRTW1mVFpVWXpER0xFVUJXQ1Y0djF2bW5wTEJibHhUcmIwUEhzYmlqT1h2SS0zc3NIY01haE5UNGg0WUZneG5xSFN0OC02b1p6VlJ4eXVnSVJpR1NZY0I4TGl3?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 15:51",
-    "headline": "You Must Change Your Life: Reviewing the Gwangju and Busan Biennales",
-    "summary": "Yet Seoul Art Week unfolded with a curious air of nonchalance. Yet throughout the exhibition, the emphasis is placed more on the everyday and acts of repetition. Through their repeated appearance, these works—or objects—came to resemble elements of exhibition design more than autonomous artworks: wayfinding devices within the exhibition’s spatial logic.",
-    "entities": [],
-    "link": "https://www.artforum.com/columns/on-site-seoul-to-the-16th-gwangju-biennale-luan-shixuan-1234760630/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 16:52",
-    "headline": "Funding Shortages Threaten World Heritage Sites",
-    "summary": "The World Monuments Fund (WMF), an independent organization, has warned that funding constraints, intensifying climate change, and a lack of access to expertise are putting World Heritage Sites at extreme risk. According to the findings, eighty-six percent of nominators cited “funding shortages and economic development” as a primary issue, an increase of 6 percent from last year. At the same time, the need for technical expertise is increasing, yet 35 percent of nominators identified a “severe…",
-    "entities": [],
-    "link": "https://www.artforum.com/news/wmf-funding-shortages-threaten-world-heritage-sites-1234760755/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 17:00",
-    "headline": "Buddhas and Dinosaur Bones Among Dozens of Smuggled Artifacts Repatriated to China",
-    "summary": "The following day, six additional bronze objects were also returned to China by the Manhattan District Attorney’s office, in a separate ceremony in New York. Related Articles Met Museum Repatriates Five Pieces of Looted Cretan Armor to Greece United States Repatriates 58 Cultural Artifacts to China Nine different HSI offices worked with the FBI, the U.S. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/buddhas-dinosaur-bones-smuggled-artifacts-repatriated-china-1234800319/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 17:19",
-    "headline": "Taína H. Cruz Finds Power in the Grotesque - Frieze",
-    "summary": "Cruz Finds Power in the Grotesque Frieze",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xMmlFZktrSlFHLTNyQWVIRDJmZ1hMc3A5NTRIci1IR0xta1pRVm5jWVJyRGxQYTFUNm0xdjdnWjNDX1pYQXR2TGJxdG12Zk9IN3RDd3VzUjZiUFE5dGtTV0tZM1A0Nk5obFE0dzI0M3p5QWg3amlNQg?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 17:54",
-    "headline": "Gertrude Abercrombie Painting Found at Estate Sale Auctions for $1.35 Million",
-    "summary": "The painting “Alderman Merriam’s Shells” (1951) by Gertrude Abercrombie was bought for thirty dollars at a Michigan estate sale in June by a person who wishes to remain anonymous. Abercrombie’s previous auction record was one million, set for Message for Mercy (1950) at Sotheby’s in New York last November. The painting’s authenticity was further corroborated by art historian and Abercrombie expert Susan Weininger, who confirmed that the artist had traded the painting to Dr.",
-    "entities": [],
-    "link": "https://www.artforum.com/news/abercrombie-painting-estate-sale-auctions-for-1-35-million-1234760716/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 17:54",
-    "headline": "9 Swiss Art Museums Receive Federal Funding To Study Objects From Cameroon",
-    "summary": "Nine Swiss museums have been awarded CHF 100,000 (roughly $120,000), to examine more than 6,300 objects from Cameroon held in their collections. These museums include objects from over 320 ethnic and cultural communities throughout Cameroon. The project will be collaborative, not just within the nine museums, but amongst Cameroonian communities.",
-    "entities": [],
-    "link": "https://www.artforum.com/news/swiss-art-museums-receive-funding-objects-from-cameroon-1234760762/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 17:54",
-    "headline": "New York Judge Serves Kavi Gupta A Restraining Order Amid $2 Million Dispute",
-    "summary": "Kavi Gupta, a Chicago art dealer, has been served a temporary restraining order. In May of 2025, a company called Longcraft LLC, gave Kavi Gupta Gallery over $2 million for around 150 artworks, Art News reports. Gupta and his gallery have not filed a response.",
-    "entities": [],
-    "link": "https://www.artforum.com/news/new-york-judge-serves-kavi-gupta-restraining-order-1234760760/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 18:03",
-    "headline": "As New York City Doubles Grants for Individual Artists to $10,000, Cultural Affairs Commissioner Diya Vij Discusses Vision for City Agency",
-    "summary": "New York will increase its direct support to artists, Mayor Zohran Kwame Mamdani and Cultural Affairs commissioner Diya Vij announced today. Related Articles Bryan Joseph Lee Named Deputy Commissioner of New York City Cultural Affairs Curator Diya Vij Picked as New York City's Next Commissioner of Cultural Affairs “Artists are working New Yorkers, and they pay the same rent and the same grocery bills as everyone else in this city,” Mayor Mamdani said in a statement. How have you found taking…",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/new-york-city-artist-grants-increase-diya-vij-interview-1234800342/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 18:35",
-    "headline": "Insufficient Public Funding Identified as Biggest Threat to Global Heritage Sites, New World Monuments Fund Study Finds",
-    "summary": "Preservation Watch List World Monuments Fund Commits $7 M. Lack of technical expertise is the second highest issue plaguing heritage sites at roughly 35 percent, per this year’s nominators. UNESCO has approved an average of $1 million per year in international assistance funds to World Heritage sites, now totaling 1,273, since 1978.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/insufficient-public-funding-is-biggest-threat-to-global-heritage-sites-world-monuments-fund-study-1234800318/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 18:35",
-    "headline": "Lucas Museum Will Erect Permanent Fences Around its Plaza, Undercutting its Rhetoric of Accessibility",
-    "summary": "An expansive public plaza surrounding Los Angeles’s recently opened Lucas Museum of Narrative Art will be permanently fenced off, reports the Los Angeles Times . Both the museum and architect confirmed through spokespeople that “the plaza’s main entryways will remain gated off.” Related Articles Lucas Museum of Narrative Art Faces Lawsuit over Whether It Truly Is a Private Museum at All The Lucas Museum Doesn't Have a Narrative Museum spokesperson Seth Fowler told the Times that the change…",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/lucas-museum-narrative-art-permanent-fences-plaza-1234800338/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 19:06",
-    "headline": "Ingrid Wiener, Viennese Actionist Artist and Collaborator of Valie Export and Dieter Roth, Dies at 83",
-    "summary": "Associate Digital Editor, ARTnews and Art in America Viennese Actionist artist Ingrid Wiener died at the age of 83, just shy of her 84th birthday, Charim Gallery announced in an Instagram post . “We are deeply saddened by the passing of Ingrid Wiener,” Miryam Charim, owner of Charim Gallery, said in a statement. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/ingrid-wiener-viennese-actionism-artist-obituary-1234800325/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 19:06",
-    "headline": "British Museum Refunds Bayeux Tapestry Visitors After Closing Early for Reception Attended by Princess Anne",
-    "summary": "Now, the museum now trying to rectify those missteps. Related Articles Blind Man Sues the British Museum Over Lack of Bayeux Tapestry Audio Tours Greek PM Rejects British Museum Comparison of Parthenon Marbles and Bayeux Tapestry “Unfortunately, delays earlier in the day meant that some visitors were unable to enter at their allotted time. The Bayeux Tapestry has been overwhelmingly popular at the British Museum and earlier this week, a blind man filed a lawsuit against the museum over a lack…",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/british-museum-refunds-bayeux-tapestry-visitors-gala-dinner-1234800328/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 19:27",
-    "headline": "Cyra Levenson to Be Yaddo’s First New President in 26 Years",
-    "summary": "Renowned artist residency program Yaddo in Saratoga Springs, New York, has appointed Cyra Levenson as its new president. Guggenheim Museum in New York, where she is deputy director of learning and engagement . Levenson will begin her new job on November 16.",
-    "entities": [],
-    "link": "https://www.artforum.com/news/cyra-levenson-new-president-of-yaddo-1234760773/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 20:08",
-    "headline": "Swiss Government to Fund Research into Holdings of Cultural Artifacts",
-    "summary": "A further $120,000 will go to a joint project involving nine Swiss museums, including the Museum of Cultures Basel and the Bern Historical Museum. Funding will also go into research into Nazi- looted art , with several art museums investigating works from the Nazi era with unclear provenance. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/swiss-government-funds-provenance-research-swiss-museums-1234800363/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 20:08",
-    "headline": "Guggenheim and Brooklyn Museum Unions Ratify New Contracts, Averting Strikes",
-    "summary": "Unionized staff at four of New York’s prominent cultural institutions—the Brooklyn Museum , Guggenheim Museum, the Jewish Museum, and the American Folk Art Museum, and (AFAM)—have ratified new contracts, UAW Local 2110 announced today. According to UAW Local 2110, the Jewish Museum union also ratified its second contract in September. Local 2110, which represents museum workers across the country, said in a statement that it is currently negotiating new contracts at the Metropolitan Museum of…",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/union-contracts-ratified-guggenheim-brooklyn-museum-1234800301/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 20:10",
-    "headline": "Swiss Government to Fund Research into Holdings of Cultural Artifacts",
-    "summary": "A further $120,000 will go to a joint project involving nine Swiss museums, including the Museum of Cultures Basel and the Bern Historical Museum. Funding will also go into research into Nazi- looted art , with several art museums investigating works from the Nazi era with unclear provenance. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/swiss-government-funds-provenance-research-swiss-museums-1234800363/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-02 20:16",
-    "headline": "Shinsegae Group displays 336 Paul Cox artworks at Frieze Seoul 2026 - Dezeen",
-    "summary": "Shinsegae Group displays 336 Paul Cox artworks at Frieze Seoul 2026 Dezeen",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlJ5MnhzYjQyV1ZfZ2syLVRnTC1MYlJsQXBBeWt4d0tKOXRrV3ZuMldmUVdYX0xyeDZUeTZ6NmxlUTExQTlPNzBHWUlUbXh0WlZFSUdtQU5laEFYVkZsaTg5OVpDRmhuU3VfMW80Z0tUSGtzVkxpRmZyTWxhSjZSNHBGWV83T24zVThJUy10Q1NJMGhINmc?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 16:56",
-    "headline": "Why Does This G-Shock Cost Almost As Much As a Platinum Rolex Daytona? - Two Broke Watch Snobs",
-    "summary": "Why Does This G-Shock Cost Almost As Much As a Platinum Rolex Daytona? Two Broke Watch Snobs",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSXh6OWR6dVZhWTJGLVA5NjhNSXdhVlFHTTdCUEo0ZHZid2d1QUkxNVZvcEMxYXAtLTU1LVZhUndtREd2ZkFzUzJGYnBmZXJ3RS1VYlNoUXM4bjduZ1NlakdFTUNGU2JMTWhz?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 17:08",
-    "headline": "Introducing: Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa",
-    "summary": "Introducing Sinn 103 St Sa Lufthansa For 100 Years Of Lufthansa Introducing The Porsche Design Chronograph 1 Utility – Limited Edition for Hodinkee German airline Lufthansa celebrates 100 years with a special edition watch from Sinn. One thing that's not slim, though, is this watch. 1) Limited Edition: Yes, 100 pieces.",
-    "entities": [],
-    "link": "https://www.hodinkee.com/articles/sinn-103-st-sa-lufthansa-for-100-years-of-lufthansa"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 17:23",
-    "headline": "In Their ‘Much Ado About Nothing,’ Tom Hiddleston and Hayley Atwell Take the Bard to the Dancefloor",
-    "summary": "Hiddleston grabs Atwell’s knees as she whips off her vintage Comme des Garçons hat. Tom Hiddleston wears a Maison Margiela coat, and trousers. “And he never dropped me once!” Atwell says.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/much-ado-about-nothing-broadway-revival"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 17:52",
-    "headline": "Ahead of Celine’s Spring 2027 Show, a Conversation Between @OldCeline and @CurrentCeline",
-    "summary": "Celine is once again, arguably, fashion’s favorite brand. CurrentCeline: I just graduated from fashion school and work in embroidery. OC: It's hard to pick one.",
-    "entities": [
-      "LVMH"
-    ],
-    "link": "https://www.vogue.com/article/its-this-way-of-seeing-ahead-of-celines-spring-2027-show-a-conversation-between-fan-accounts-oldceline-and-currentceline"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 18:01",
-    "headline": "30 milliseconds: Patek Brings Instantaneous Jumping Displays to the Perpetual Calendar Chronograph - WatchTime",
-    "summary": "30 milliseconds: Patek Brings Instantaneous Jumping Displays to the Perpetual Calendar Chronograph WatchTime",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZmhoZWF3a0NaWHBtejZOYXlYdkRaamg3bUxoVzE3OGpHd0NhdUczN2lkeEtUZGFseFpEMjNxMnVicUlzWXNMQmZVWm9jSS1seTRvcjc2T2RHSkxWSGtBVjU0V25LU3hOcUNSbGZVRlNXaFBpMWhndUlnQ0JNS3czbGh2SHRWSUZPUnFtM0xWR2JhVU1ndjNaWDkyZllZRGhNQ2NVc2h5NXBhWEl5OTlFNzhXY2J1N2VhNnhuOGtn?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 18:22",
-    "headline": "Brooke Eby Chronicled Her Own Death Online to Find a Cure",
-    "summary": "Brooke Eby was 33 years old when she was diagnosed with amyotrophic lateral sclerosis (ALS) also known as Lou Gehrig’s disease. She ironically called it the “Relyvrio Challenge” after the ALS Ice Bucket Challenge. My father was already two years into his ALS diagnosis when I discovered Brooke online.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/brooke-eby-als-tribute"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 18:22",
-    "headline": "Giuseppe Di Morabito Spring 2027 Ready-to-Wear",
-    "summary": "“We always think about Odysseus’s journey: he gets shipwrecked, travels for years, loses himself, then comes home transformed,” Di Morabito said, “But we never really think about Penelope. The silhouettes moved between Di Morabito’s familiar body-consciousness and newer propositions. Although Penelope never leaves Ithaca, she hardly stays still.",
-    "entities": [],
-    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/giuseppe-di-morabito"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 18:22",
-    "headline": "Yohji Yamamoto Spring 2027 Ready-to-Wear",
-    "summary": "Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
-    "entities": [],
-    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/yohji-yamamoto"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 18:51",
-    "headline": "20+ Best Gifts for Men Who Have Everything, From Tech to Fashion",
-    "summary": "Whether he’s a sports enthusiast or a homebody, chef of the house or intrepid traveler, the best holiday gifts are right this way. For those looking for additional gift ideas, make sure to shop our curated guides to the best gifts for women , the best gifts for mom , best gifts for dads , and the best gifts for new parents . Some of the best gifts for dad keep him on his A-game.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/gifts-for-men"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 18:51",
-    "headline": "Discover the Best Dresses for Every October Occasion",
-    "summary": "For a mini dress to wear this fall, opt for Khaite's Scarla dress. Call it the ultimate party dress. For a fall dress, look to this mini dress inspired by the '60s.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/dresses"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 19:07",
-    "headline": "Introducing: Hamilton American Classic Cushion Mechanical",
-    "summary": "This week, Hamilton dropped the latest in their series of vintage-inspired watches. Price: $995 for models with a stainless steel case, $1095 for models with a gold PVD stainless steel case. (Live Pics) Introducing Hamilton American Classic Cushion Mechanical Introducing Grand Seiko Elegance SBGW325 'Arabic Blue' Limited Edition Introducing The H.",
-    "entities": [],
-    "link": "https://www.hodinkee.com/articles/hamilton-american-classic-cushion-mechanical"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-02 19:20",
-    "headline": "Jerome Robbins’s Opus Jazz Gets a Miami Makeover",
-    "summary": "Garcia first saw the ballet in 2009, during his first season at New York City Ballet, where he would dance for the next 15 years. When Garcia called about bringing Opus Jazz to Miami, Frohlich was delighted. By September, Opus Jazz was on Broadway.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/miami-city-ballet-opuz-jazz-gapstudio"
   }
 ]
