@@ -1,5 +1,505 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 16:32",
+    "headline": "Endless builds a Notting Hill Frieze at Cris Contini - Art Plugged",
+    "summary": "Endless builds a Notting Hill Frieze at Cris Contini Art Plugged",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR2VSdGZjYWhNLWtWWVdjeERzTHdUeDV1aFVQZmF3akpvbnlxM25oT1d4dk0wQ2hnVWZjSXNnYUtVbGh0a2tTQmtPVVhwSHhzNWlpZnNJbGoxczJJbWlrZUhEdnQwTUFaaEd5eVVyR2JCY042RWN1LXJHRDRZU3c3Ug?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 16:51",
+    "headline": "Art Basel Paris 2026: Where to Eat and What to See - Haute Living",
+    "summary": "Art Basel Paris 2026: Where to Eat and What to See Haute Living",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmxJanJQQUlIQXZXN3pfNzlwbnNjMDI2Y3JHdGJPT1dvR1lxTTd0bjFra3o0QnlHOFNoX2dlWWlpY3hQT2pzYUJEcC1WUFdiY254MTFTRWJJTzZEZzV0cm9icXUwaVlBX0JwNzdiOUN2UC1oblo1a1FxUlM1Z0V1N2MwQXNySVBYUjF2OVNn?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 16:53",
+    "headline": "Julianne Moore’s West Village Home Features Work by Louise Bourgeois, Nan Goldin, and David Armstrong",
+    "summary": "It’s super funky,” said Moore. That’s the magic of New York City,” said Moore. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/julianne-moore-art-collector-louise-bourgeois-nan-goldin-1234801838/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 16:53",
+    "headline": "With an $18 M. Price Tag, 24-Karat ‘Fancy Intense Pink’ Diamond Ring Heads to Auction at Christie’s Geneva",
+    "summary": "Executive Editor, ARTnews & Art in America Christie’s “Magnificent Jewels” sale during Autumn Luxury Week in Geneva will include a storied “Fancy Intense Pink” diamond ring made by Bulgari in the 1950s. in Old and Modern Masters at Christie's “With major Hollywood productions filming at Cinecittà Studios, international stars gathered in the city, creating what became known as ‘Hollywood on the Tiber,’” the release reads, “Bulgari’s boutique at Via Condotti became a social and cultural meeting…",
+    "entities": [
+      "Christie's"
+    ],
+    "link": "https://www.artnews.com/art-news/market/christies-pink-diamond-geneva-1234801852/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 16:53",
+    "headline": "Brussels Gallery Super Dakota to Close After 15 Years",
+    "summary": "The Brussels-based gallery Super Dakota announced that it will close at the end of October. In June, fellow Brussels gallery Dépendance said it would shutter operations after 23 years. © 2026 Art Media, LLC.",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://www.artnews.com/art-news/market/super-dakota-brussels-gallery-closure-1234801862/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 16:53",
+    "headline": "Guadalupe Maravilla to Stage Major Installation at New York’s Cathedral of St. John the Divine This December",
+    "summary": "Creative Time has commissioned artist Guadalupe Maravilla to make a major installation in the Synod Hall of the Cathedral of St. Related Articles In Venice to Install Work for the Biennale, Artist Guadalupe Maravilla Alleges Racial Profiling by Police UK Government Spends Big on Arts Sector, Creative Time Appoints Jean Cooney As Executive Director: Morning Links for January 22, 2026 “Both in the way he approaches his work and moves through the world, Guadalupe Maravilla embodies a commitment to…",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/guadalupe-maravilla-cathedral-of-st-john-the-divine-creative-time-1234801851/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 17:16",
+    "headline": "A New AI Tool Shows Galleries’ Gender Balance",
+    "summary": "Rockefeller designed the tool to advance the mission of “Less Than Half,” an artist network she founded to advocate for the recognition of women artists. According to Art Basel and UBS’ 2025 Global Survey of Collecting, high-net-worth women are more likely to collect women artists. “I want people to notice the very apparent discrepancies and inequalities between men and women artists and the systematic ways in which women artists are kept from succeeding,” Rockefeller said.",
+    "entities": [
+      "Gagosian",
+      "David Zwirner",
+      "Art Basel"
+    ],
+    "link": "https://www.artforum.com/news/new-ai-tool-shows-galleries-gender-balance-1234761151/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 17:51",
+    "headline": "A Winston Churchill Painting Gifted to His Daughter Lands at Christie’s",
+    "summary": "A painting by former British Prime Minister Winston Churchill will be auctioned at Christie’s as part of its Modern British and Irish Art Evening Sale in London on October 21. Churchill gave the painting to his daughter, Lady Mary Soames, who then donated it in 1995 to the Churchill Fellowship. © 2026 Art Media, LLC.",
+    "entities": [
+      "Christie's"
+    ],
+    "link": "https://www.artnews.com/art-news/news/winston-churchill-painting-auction-at-christies-1234801856/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 18:19",
+    "headline": "Mira M. Yang’s Hallucinatory Archive",
+    "summary": "Paris -based artist Mira M. The resulting work comprises two Kodak slide projectors. Choi Seung-hee was quite famous in her day.",
+    "entities": [],
+    "link": "https://www.artforum.com/features/mira-m-yang-kunsthalle-fribourg-1000words-thomas-patier-1234760740/"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 18:38",
+    "headline": "The Andrew Edmunds Collection Is for Sale at Frieze Masters - The New York Times",
+    "summary": "The Andrew Edmunds Collection Is for Sale at Frieze Masters The New York Times",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcTBjRDZrM2ROSVN3NFZPdnQ1WHBrT2M3OG1xcEVLUUJ1el9YSjRUYldkVUpVT3N5SElSYkhhOWpuRk9RakhVbUNyMi12cUFGMUw3VDl6Nk1ZSHZrSlBkSzB0NkZRRGk5Z29IX3dVek1wTDFRVmtVVWVKUUV3Z0pTTXp3N0JXV1hn?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 18:38",
+    "headline": "A 72-year-old Artist Makes Her Debut at Frieze London - The New York Times",
+    "summary": "A 72-year-old Artist Makes Her Debut at Frieze London The New York Times",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWS0tMHdSX2lKNzAwdzVyUl9INEF5UUFaZnR4cURES1VFLXlfMDlqakJRU3BRakxoWGRGYTRIMVBZd1JHWGZ6QjlxYmdxQ19tWXhNR3pJSDVhX3BsUWFFYUwxbU1od1hmTHl1TTM3bm96UnI2NUNsWnVJSy1xY3J4Zlh3?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 18:38",
+    "headline": "Frieze London: Bringing Attention to Art From the Middle East - The New York Times",
+    "summary": "Frieze London: Bringing Attention to Art From the Middle East The New York Times",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHFxRVVWOWZLYXZQYTJKODdXWV9VS0dxaGx1bGpzam01aVZqblpKODFZU3FzT3gyMVhTbTlSRS1vTlg1RHhnLW9kU3JnZkMzZG5pMzJCM0FJbGc3VEplQXYwbUxZTWhzTk14MFdTaHRLZnIyTzBDRmg5VFctRTlaWVpYVGVtdw?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 19:22",
+    "headline": "Santa Fe Invitational Unveils Plans for Inaugural Edition",
+    "summary": "The inaugural iteration of Santa Fe Invitational will take place April 8–11, 2027 at the Santa Fe Convention Center, hosting some forty-five international galleries as well as artists, collectors, and various local and international institutions. The organization bills itself as a new model of international art fair, one that not only offers a marketplace but also creates a cultural “ecosystem” involving the broader Santa Fe community. “The Santa Fe Invitational grows from that same belief in…",
+    "entities": [],
+    "link": "https://www.artforum.com/news/santa-fe-invitational-unveils-plans-inaugural-edition-1234761156/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 19:54",
+    "headline": "Two Renoir Paintings Worth $10.5 M. Recovered After Theft",
+    "summary": "The Renoir Museum is getting back two of its paintings that were taken during a pre-dawn raid . Prior to the robbery, the museum had on view 12 of Renoir’s paintings. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/two-renoir-paintings-worth-millions-recovered-after-theft-1234801903/"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-09 20:52",
+    "headline": "Arlington County Board Files Lawsuit to Stop Construction of Trump’s Triumphal Arch",
+    "summary": "The five-member Arlington County Board filed a lawsuit Thursday in the Eastern District of Virginia, related to the project’s questionable review process. Related Articles After Resignation of Advisory Council, American Institute of Architects Weigh in on Trump's Arch Vietnam Veterans File Restraining Order to Block Progress on Trump's 250-Foot Triumphal Arch The County Board is asking the court to prevent any demolition or construction until a full environmental review is completed. © 2026 Art…",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/arlington-county-board-files-lawsuit-trump-triumphal-arch-1234801896/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 18:10",
+    "headline": "One hundred years of Rolex's Oyster Perpetual - Wallpaper*",
+    "summary": "One hundred years of Rolex's Oyster Perpetual Wallpaper*",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZU50QmxnUnRKdC1WTXRJR1hoYm94bXJKVWttV1c4ZWtSZlp2bW90WTZodUFlamZIcFdteGhaaUQ5WUNGSXQ4dEdBU0FxX2E0SXNOMG1zYXhvZDZZWE1GbWJFeENuYksxdWNzNlprS1dtclhydUJtU182bnlFVjlIMHFDV1hSQQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 18:11",
+    "headline": "15 Retinol-Rich Foods to Stimulate Collagen and Your Immune System",
+    "summary": "Vitamin A is a fat-soluble vitamin (more on that later) that is key for a healthy body. “Retinol, like other retinoids, is a derivative of vitamin A. “Appropriate vitamin A intake helps support healthy skin, hair, and nails,” Dr.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/retinol-rich-foods"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 18:11",
+    "headline": "Hillary Clinton, Huma Abedin, and Katie Couric Helped Argent Celebrate Ten Years of Work Friends",
+    "summary": "If gold stars were granted to dinner parties, one would have been given to Argent’s ten-year anniversary Work Friends dinner. To commemorate the anniversary, Argent just launched its “10 Years, 100 Work Friends” campaign, featuring a composite photo of its clique of friends and muses. Abby Phillip, Kimberly Pirtle Gabriel , Ashley Moubayed Carrie Byalick, Brooke Baldwin, Samina Virk, Ricki Lake Huma Abedin, Ai-jen Poo, Vivian Tu, Sali Christeson, Nikki Ogunnaike, Keri Powers Lindsay Kagawa…",
+    "entities": [],
+    "link": "https://www.vogue.com/slideshow/argent-work-friends-dinner-ten-year-anniversary"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 18:40",
+    "headline": "Richemont stock trades at EUR 183.08 with volume 84.7 percent below average - AD HOC NEWS",
+    "summary": "Richemont stock trades at EUR 183.08 with volume 84.7 percent below average AD HOC NEWS",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcWlITDVlMXd5NFBSbnZ6cDdhOUpQdk9nTFRzVm5hZzJpQ01sTFBPeGhuMnUxdHM5aXl5SW41R21Sc2txSWJiQS1ZRzhQLUI4MHlsV2R4amhvMDB5Tm1aZTMzVGtkVm1rZzFKaVdESGxuX0hXem5qalNRQkhrTzdEZmx2b0Y5NmNDTnhOYlMxTEZGMHZCTUpxZ2QwdjRMUnljQlNsMzVSNHR5TTVzQnNVeTJZUTA5MG5nQkVOdjVWSWhNVmZiOFR4Ymh0YWJmSmhRQ2lQTw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 18:54",
+    "headline": "Anthony Vaccarello Exits Saint Laurent After 10 Years as Creative Director - Style Rave",
+    "summary": "Anthony Vaccarello Exits Saint Laurent After 10 Years as Creative Director Style Rave",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45MDh5QnhKekhtekdyeGZEY19JdktPVEVKbEJabEtnbzlqb0I0eGl2czI2TWYtd2F2OV9VZWlQVVowX2pQLU50MmZWN005bzNsZHpuTHh3ZGNRYnhESVVENXNzVTAzX21WcEtIbUtWMk5BQQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:07",
+    "headline": "Business News: Movado Selling Ebel To F.P. Journe And Chanel In Deal Heralding Comeback Of Once Mighty Swiss Brand",
+    "summary": "Vintage Ebel chronographs. Don Johnson wearing his Ebel in the 1980s. Certain personnel within Movado Group dedicated to the Ebel business will become employees of the new Swiss subsidiary, it said.",
+    "entities": [
+      "Phillips",
+      "LVMH"
+    ],
+    "link": "https://www.hodinkee.com/articles/movado-strikes-deal-to-sell-ebel-to-fp-journe-and-chanel-in-deal-heralding-comeback-of-once-mighty-s"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:08",
+    "headline": "'Pretty Little Liars' Star Keegan Allen Robbed at Gunpoint, Shows Bloody Face - TMZ",
+    "summary": "'Pretty Little Liars' Star Keegan Allen Robbed at Gunpoint, Shows Bloody Face TMZ",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWtTVnVFWXFraGl0eHlKNXlHbDh0cndOU3ZFVUEyUUx6WkhiNDh4cEcyQzYwY1ljTnNGNms5OEJ3RTdRNmQtLTcyeGpZVDg3c3J2M1RLUzZMdFU4VGJhWXlLLVVyMnVBc1VENzRMc0k5X1RRVGp6RDJIb2szMWdySFoxY0dvSF9RU1lsNXZhQUMzbWxZV3ZJNGxWM1FkN2w4Z3hDWmExVG5Ndw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:08",
+    "headline": "Rafael Jodar Wins Over Rolex After a Phenomenal Season - TennisTemple",
+    "summary": "Rafael Jodar Wins Over Rolex After a Phenomenal Season TennisTemple",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPLTZ3cklKVkxnVFBJZ0JWeU04b05KcVMzeW9ISGRTbzVwNzU3QWFsMUFMX2lrZGY0ZEpHVXdnRnFZRDdHOW5tR2hEQjdrRExXTlJScUJ1WlhoLTZ2R0lWYUdXam5Ob3Zia2NGUXFXMjQzUHBkRFVpMzF2eUJFMGN2V1dyOU9CdXZLSUI5akRB?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:11",
+    "headline": "On Lake Como, a New Design-Forward Hotel Offers a Different Kind of Lakeside Luxury",
+    "summary": "Enter The Lake Como Edition , which opened this spring on the western shore of the lake, in the village of Cadenabbia. At The Lake Como EDITION, that ambition has started to take shape. At the recent Lake Como Design Festival, the hotel presented a collaboration between Argentinian artist and designer Conie Vallese and Canadian watercraft design house Beau Lake.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/lake-como-edition-makes-the-case-for-a-new-era-of-luxury"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:11",
+    "headline": "Sex and the Cities: How Each Fashion Capital Interpreted Sex for Spring 2027",
+    "summary": "Of course, as one Vogue editor so astutely observed, the spring collections are almost always about sex, in some form or another. But this season made it clear—sex is on designers’ minds. The Milanese, meanwhile, treat sex almost as an intellectual pursuit—just think of Prada’s esoteric and erotic mystique.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/sexy-clothes-spring-2027-collections"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:11",
+    "headline": "The Deeper Meaning Behind Kate Middleton’s Quintessential Fall Look",
+    "summary": "Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member —the ultimate resource for fashion and beauty industry professionals. Never miss a story: Add Vogue.com to your preferred sources in Google.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/kate-middleton-quintessential-fall-look-tartan-skirt-meaning"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:11",
+    "headline": "When Harry Styles Met the Knicks",
+    "summary": "But it was not only crazed Styles fans being drawn to MSG this week. “We’re here to see the Knicks dancers.” If the two fandoms—Harry’s disco divas and the Knicks’ fanatics—could hardly seem more different, think again. Below, see more scenes from the Harry Styles and Knicks crossover this week.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/harry-styles-knicks-fans-madison-square-garden"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:20",
+    "headline": "How Independent Thinking Powered the Spring/Summer 2027 Shows",
+    "summary": "Tim Blanks joins Imran Amed on The BoF Podcast to discuss why the season’s strongest statements — from Erdem and Simone Rocha in London to Rick Owens, Miuccia Prada and Matthieu Blazy at Chanel — came from designers acting on conviction rather than consensus.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/podcasts/fashion-week/how-independent-thinking-powered-the-springsummer-2027-shows/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:20",
+    "headline": "What’s Driving Mike Ashley’s Fashion Dealmaking?",
+    "summary": "Frasers Group is expanding its holdings in luxury and retail brands, but what it wants from those investments is not always clear.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/briefings/retail/whats-driving-mike-ashleys-fashion-dealmaking/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:53",
+    "headline": "Kering: Saint Laurent announces the departure of Its creative director, anthony Vaccarello - Yahoo Finance UK",
+    "summary": "Kering: Saint Laurent announces the departure of Its creative director, anthony Vaccarello Yahoo Finance UK",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjkxd1kwQm1xS3FYUHVya1NObkhHbVI1Z2M5WnlkUWgtZnIxdG91eHZRclVNcENXTHoyVEtfb2I3amJ5UlZJSHVXckZzbHBFQ29QekV1MHllMmg5WmtKUGZnWVpucW5TTWd1eExHUzhaRWUyN0Z1T0puc0xLc3ZhcUNzeGczaE5ia0FPSlhuVXBVc2M?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 19:53",
+    "headline": "Yves Saint Laurent to Open Store at Kering’s 717 Fifth Avenue - Commercial Observer",
+    "summary": "Yves Saint Laurent to Open Store at Kering’s 717 Fifth Avenue Commercial Observer",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMTJ2a3dlVVZhUExNYUNlcVVMLWpIRklWR3ZuWTE5VXBISUtFSl9BcXpBTUVBdlRmWXJXVXNRMjkzX3JSSXFNOXhGQmV1S0lVcGYyVnBUem43UW80VmNSZ0ZUSkFHYlQ1Y2s3SlUxQUlaeW1EWWdIT0MxQnBpb29OQnQzNzdtUGNSQ1ktZWFCbFpsaGIycVc0YXlR?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 20:06",
+    "headline": "Why Litchfield County, Connecticut Is the Perfect Autumnal Weekend Getaway",
+    "summary": "Long a popular country retreat for New York City finance types, Connecticut’s Litchfield County—which includes the picturesque towns of New Preston, Cornwall, Kent, New Milford, Litchfield, Bantam, and Washington—has, in recent years, become a go-to getaway for creatives and foodies alike. Historic New Preston has quickly become a serious shopping destination thanks in part to cult-favorite boutique Plain Goods . In New Preston, visit Dawn Hill Antiques for neutral, Swedish-inspired decor and…",
+    "entities": [],
+    "link": "https://www.vogue.com/article/litchfield-county-connecticut-fall-getaway-new-catskills"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 20:06",
+    "headline": "7 Chic Ways to Wear Zebra in 2026",
+    "summary": "Pony-hair zebra print feels especially luxurious when applied to small accessories. Ahead, seven street style-approved ways to style zebra print right now. This fall, turn to Nili Lotan’s zebra-print bag—an equal-parts playful and practical pick.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/how-to-wear-zebra-print"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 20:48",
+    "headline": "Star Bulk Announces Strategic Partnership with Hermes World Maritime S.A. - The Manila Times",
+    "summary": "Star Bulk Announces Strategic Partnership with Hermes World Maritime S.A.",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb25wTHFIeDl6NnhyWG9uXzVuZVJvdmxrbi1PdkpuTFdPLVctOWRVQUU4aEVPb1p5NzZwY2ZOR3JQVFhQTFoxSm9xbHUwMUVTNHE5OGFWc3NhUGtTWXdVVEJhR1d6cGNoRHdSTlF3U2RuUVA3OUhvYkRnUUxQbThzNEd3T096TGVuZW55X1JxUDdROVZWRlBCeGIxRHRwWE0zTGdabUpmUl9pMjBaM2h2ZXZjWm9POWI5azJka0J1MG1BUHRYRHNhNnl5c0NWQzlMakphZGtKa18yeE1rc1HSAeMBQVVfeXFMT2Q0dVFRbFItUnBoZWFQUTNQeUY3OGU1akJIYWRnc3BTcDdTWEY0WEpPalZUd3NqZ29YaC1JYWdsMUVTWTlkRl9SbldKUHBFLXhKcllxUWY2ZFhxMC1BRHEzWGpZY3piOVBJZHMxem1UNnpuMDJQWkpwcTBVWFM4d05PNk9yODZhbWFSTS1oNDBRSTlYU0RlVXBDbDFGTGhySnd0TW9QNlJlSDd6QVo0eU9JMGZnX2RndjJ0RHFJYlp3ZjZiWlVfTl9WMkFmclRTby1oQTlMdlVqd1ZjYllXbm42aFU?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-09 20:48",
+    "headline": "Star Bulk Announces Strategic Partnership With Hermes World Maritime S.A. - TradingView",
+    "summary": "Star Bulk Announces Strategic Partnership With Hermes World Maritime S.A.",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlFtN3JWQ2RFdjFJTUt2YW9ka20xT3FZNTRnOV85a0N5MW96YnJzWUxiVmRQM0JQWGlDLWZPOFpXQnpJZjVrcG9TWTE4ZFdRN0xoY1gxNEU2NXJUbG1rNDRJcVYyR3Jrc0JYempsQjVHYWhvb1Ezc2pyNTIwM0FXYWEtSTF5ZWdNa2pjQWtuSkRyMEwwejZJTnZ6RkN1Z0hQVVZuNzJPZ3F5Q09GdkRFZElFeDBQMWpEMzRlR0FKSldnNGpuMnItVXN1VG1BYTc2SndOX0hUay1nQQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:37",
+    "headline": "Darth Vader’s ‘Empire Strikes Back’ Lightsaber Heads to Auction, Expected to Top $1 Million",
+    "summary": "Will Vader's lightsaber beat the auction record set by Luke Skywalker's lightsaber? In July, a Luke Skywalker lightsaber from Empire sold for $3.75 million (though that one had the added benefit of coming with Skywalker’s severed hand). A previous Vader lightsaber sale from Empire sold for $3.6 million last year.",
+    "entities": [],
+    "link": "https://www.hollywoodreporter.com/movies/movie-news/darth-vader-empire-strikes-back-lightsaber-auction-1236726269/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:49",
+    "headline": "BBC’s 2-Part Sherlock Meets Agatha Christie Series Getting American Remake - ScreenRant",
+    "summary": "BBC’s 2-Part Sherlock Meets Agatha Christie Series Getting American Remake ScreenRant",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZmlTTzRkUDRaWFJSbUpYdi1UTUVFR0Q0dVNZaXByWFFsd3E0ZVczY3RDaUxmbkF4R25ZajRQajZwRzFKeTVfVGMtbFVUd1luV2ZpQmxkZVZtekV3c3Y5SzNWMjZ2cXJibHd0MjI2eXFOMFNF?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:49",
+    "headline": "Watch Auction Results October 2026: Voutilainen Tops $1M - Haute Time",
+    "summary": "Watch Auction Results October 2026: Voutilainen Tops $1M Haute Time",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oLTllc3ZCWUFaUDhZWGk4czNvQ3VpeHREaWV2SlZBR2xwZEtNY0djeGhHYjJ0YnM0ejJ6d1ctTkt2WE5EczJfYXRMRXJ5WHVJUnFCd21nM1VoX2JEa19LWFdzMEkxeGtYMThlbEtR?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:53",
+    "headline": "Rare David Bowie self-portrait heading to auction at Sotheby's London. - Artsy",
+    "summary": "Rare David Bowie self-portrait heading to auction at Sotheby's London.",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnlRM3JHZ1dZV1p2aHpnOFZoRTVCbnBhbURNQmQ5Qm11QmJxSWNsX2NPcVVFUjBpMGl0QURkRHNHZV9JdVBRMC02dXFTRFdYemlyQ2xtMmVYeFlBMF9vV0RwdkpyME02cm9qZUh6Rm8xVkh1akxfWDByTWxCdnluRHhUOXgyM0JfX2d5NWRnblUzeGI3bEphTE91OUZpYUdxNkF6b1hhVjQxOXR3YVE?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:53",
+    "headline": "Macallan 1926 Fetches $2.8 Million As Sotheby’s Holds Historic First Sale At The Macallan Estate - Forbes",
+    "summary": "Macallan 1926 Fetches $2.8 Million As Sotheby’s Holds Historic First Sale At The Macallan Estate Forbes",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRkU1OFdTTmt0cXJkRFdyRVNFb3ZpNGdkLXhkTzFvWXNqTHktakVnOG5waXhaSlNwem9sRF8yM1R1VWQ0QUdZMnJtd3c3a0szRU5KOTNsdGdEQmVRWlV1eURZd2tUZmthc2tKTmJxcTh1RUlQdzd0UXM3TVZsZ3RYNkN6UGlTOEtYWjBZQzRuZlAtRDBGUHJJcENSUFVkTE5fWGYxVUp6M2FqSHBralVzSEJEZU14V3NLUjlwRjdmbWVDTWtWQ0VaWTJJcjg3bC1VWEhfd0dQYWc3czEtdWJr?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:54",
+    "headline": "World Records at Auction of Château Haut-Brion - wein.plus",
+    "summary": "World Records at Auction of Château Haut-Brion wein.plus",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcDFnQUU2YlVENTg5UTZqRkZHMGtuVjc1VUpqZlVtelhHd25qMzUxOVZOYm1WTWh2cjNEQTVQNHhsYTZYODJWWEI1OExiN0RiRDJOUXR4OGg3LVZHNVVRUWdCWUNNbGtqOWZFc2U0WV8xZUNFTG0tRXdVVzVuTlFkbDFjZlRCWnQ3SWhPZFNVMmx1UlNSOFQtY0JMOTBGRkhqUlg4bkVuaEdmU056UWpNQkhmeVpfRVB4Z3NxXzhROEdKQWszUzNLWQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:54",
+    "headline": "Darth Vader’s ‘Empire Strikes Back’ Lightsaber Heads to Auction, Expected to Top $1 Million - The Hollywood Reporter",
+    "summary": "Darth Vader’s ‘Empire Strikes Back’ Lightsaber Heads to Auction, Expected to Top $1 Million The Hollywood Reporter",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaXdxWGxHazIyOHM2eXFFWjBTandSa3Y3Nk55bENYMnhINWdIbnMyczRHWFlwYjVyVUcxLUx4ODZxbnQxQkJGT0E2Qm5OdWswV2pJZVNhOHl5dmtwd2RNSXpFVGZab2Y4a2kxZW5neGVQdWN0YnpJUnhjVDdZTGpnLTdJelhlYlB2MDc3b2NneFpoakYxeVR4UVppYmQ1RlItRkd5MGc5cFJaSEJwMGFHWWFxVEU?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 16:55",
+    "headline": "Inside the Rare 400-Year-Old Books That Rewrote History: Galileo, Newton & Copernicus #sothebys",
+    "summary": "This month, a first edition from an extraordinary collection of rare science books will auction at #SothebysNewYork. Here, Historian of Science Nick Wilding takes a closer look at Galileo’s historic treatise. ►► https://www.youtube.com/sothebys/",
+    "entities": [],
+    "link": "https://www.youtube.com/shorts/C1Ou-O3Nswk"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 17:45",
+    "headline": "Christie’s International Real Estate New York adds teams: EXCLUSIVE - Inman Real Estate News",
+    "summary": "Christie’s International Real Estate New York adds teams: EXCLUSIVE Inman Real Estate News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMk1VeVI0clZhbkRaWFRwbVh0eEVHVllZWUFGOW5GSk94dVJ4Y1duc3JkZTFjeXJ0Q2E0cFVTcUxJVks2ZFZfTXNwZnI2WkhHUWRjUWJTVE9pS0J6b3VBNm1ObVJRbUpkRUNzZzZMT2J4Z1BqOTFnVWk1ZjVua0FNbTBtcnVwQ0RwbmplSnlYZ2hYTENURWc?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 17:53",
+    "headline": "A Winston Churchill Painting Gifted to His Daughter Lands at Christie’s",
+    "summary": "A painting by former British Prime Minister Winston Churchill will be auctioned at Christie’s as part of its Modern British and Irish Art Evening Sale in London on October 21. Churchill gave the painting to his daughter, Lady Mary Soames, who then donated it in 1995 to the Churchill Fellowship. © 2026 Art Media, LLC.",
+    "entities": [
+      "Christie's"
+    ],
+    "link": "https://www.artnews.com/art-news/news/winston-churchill-painting-auction-at-christies-1234801856/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 17:57",
+    "headline": "Why This Avery Singer Painting Just Sold at a 91 Percent Loss - Artnet News",
+    "summary": "Why This Avery Singer Painting Just Sold at a 91 Percent Loss Artnet News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMSW9ocHJMMlczRXFEemNTdGU0bEpRZzRmR1ZQb0JmbVhZc3hZYkVyTTA4ekVrSGRGM2E3NWhYSG4xcnl0N0JSOF9TRXJ3S29HNGxYZElRak0tQUdYcHBiVGpnbW4xSUJoWExxTQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 17:57",
+    "headline": "This rare David Bowie self-portrait is going up for auction - CBC",
+    "summary": "This rare David Bowie self-portrait is going up for auction CBC",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmdkZWFUTlhnZDlhLTh6b3gycXUtNkFlRjJwcVZtNXFGVzlQa1lLd1lBa1FBcWw0YXVSUDhHS0twRjJGSlN5cUUwaG5vWHpSdUkzcUUtTTFKQ1JURTlPdnIwUm5RZGwtX0FDejkxN214QTZQc2hMZEptM2o1bGItdjNHWmJRQVJZNHlpVEN2S1ZlRU10U3l6Rm9lNGM0WG5xNlBFWjdOT3didw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 17:57",
+    "headline": "Mercedes-Benz’s oldest roadworthy commercial vehicle to join RM Sotheby’s London to Brighton Veteran Car Run - SussexWorld",
+    "summary": "Mercedes-Benz’s oldest roadworthy commercial vehicle to join RM Sotheby’s London to Brighton Veteran Car Run SussexWorld",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOV2dpQm52THkyZVk3VjlKODNhVUZrSE1tTmdzQ0RzQ19NbDhXSVkyRGJaVDVnbkJwTVVRWkhpaVhobVJmbFQySXROUG82Q2VGQ0JLSXNuRFJNRkVETVhnU283VHp2cndic2FMMmFOZWxxS204MFVoXzVOTlJvZmJSb0ZOZkwydjNvNlpTdFlMb3dHM0FFZGRZMVRITFZJUHhrMTJqdXJZcnRjUmlkNFFXamRqeVVqc1ZWZmFCeVZka1lrRHlwZDZ5MGlLQkVPV0JCODhLUEFzaDhka21JRTNjOWM2bmlqRGZkUlBQelJLbE4wMlp3Z2FyQk9ONzc?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 19:01",
+    "headline": "David Bowie's 'exceptionally rare' self-portrait to sell for staggering price - London Evening Standard",
+    "summary": "David Bowie's 'exceptionally rare' self-portrait to sell for staggering price London Evening Standard",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa0NEOEIwSlcxSGN1WWRyWG5OQ3FwcTRwOEdFWFlHZ3pVSGE0c2wwRmRNeGF0ajNRX2Fha0UyTmRMUnJodHhFYlp1ZF9DenE0LVpwRUxBd0QwSGh5N3pJRUdSTWIyb0hOODZzUjIwcnVvWXg1ZGwxR1NENzVTZmdTbWxR?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 19:39",
+    "headline": "Christie’s Jewels Online Sale Tops Out With an 8.17-Ct. Diamond Ring - www.jckonline.com",
+    "summary": "Christie’s Jewels Online Sale Tops Out With an 8.17-Ct. Diamond Ring www.jckonline.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1VIa2hvVDdRUkEySW5tNlhyZGk4TTByR1VFTGZoUXJuZjB6NkNVQkxtbnFNcXBsd281bkR3RkNNeTBfT25qdmwyRmQxM3drRDNWUkhwOVlnamkxdmstZTJzWGRTTy1lS0ZtaUF5VGJrRmdpMnhxRjE4dGRkX1VuMA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 19:48",
+    "headline": "Scottish whisky sells for £2.1m in record-breaking auction as collectors battle - The National Scot",
+    "summary": "Scottish whisky sells for £2.1m in record-breaking auction as collectors battle The National Scot",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHptV2Z3OS05V3h4WHBVMHFFa2xYcm5VWmdQTUwtTHhxN0d0LWFMUFE3Q3JRRk1aMlRRQnZrUG53UUFJVE80cmRJUnU5dzltSjZYNW4ySllGekppYWVabFBjbG8xY2lQTllJbFdLSk9TbmdTQmlfSDJWWk9PUHBCdXd6eXB6dWtBbmItcHRISGU?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 20:41",
+    "headline": "A Bottle of The Macallan Scotch Just Sold for $2.8 Million at Auction - AOL.com",
+    "summary": "A Bottle of The Macallan Scotch Just Sold for $2.8 Million at Auction AOL.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOXZPSHBwRW92eWkxUmJDVEt6eHVYZzB1SGpXcWhoLU9CQ2hpTXh1RVNTT3ZqR0dHSDVFUFhoaHhoLTZEWlpDQVphNkU3eTZUWVdrMFR4bHM1cUFhSGplWUh3czdFR0JtNWJpVlUtdVpnUmkxUTRBU09JbmVMYnlTeFNR?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-09 20:41",
+    "headline": "1926 Macallan becomes second most valuable bottle of whisky ever sold at auction - The Herald",
+    "summary": "1926 Macallan becomes second most valuable bottle of whisky ever sold at auction The Herald",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU1cySjctNzUzTWZxdXVTRUwzeDl5Z0UtbThFV19zNEFXbEIyMnpiSGx1cVdvYXRsMzZTRWR4MjhRQ3pmNmo5dXZHVWR6ZEQ5a3hRT3B4UTVVeTZKOVc2alE5MDl3Tm53UVcyY2dBQWZmRGdadkVRamhSYnJlUVJPam5zZnYxc3IyN0JwN1k3Q0xZaFluSDdj?oc=5"
+  },
+  {
     "cat": "Luxury Brands",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "10-09 09:29",
@@ -1375,511 +1875,5 @@
     "summary": "Stephanie Woo, the head of Ms. Lam Montessori School, dressed in Yamasaki Takashi. Our lead teachers wear a certain uniform, our assistant teachers wear a different uniform, our front desk admin wear something else,” she explains.",
     "entities": [],
     "link": "https://www.vogue.com/article/ms-lam-montessori-school-teachers-issey-miyake-yamasaki-takashi"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 18:15",
-    "headline": "Alexander Skarsgård Puts His Best Foot Forward—In a Freaky Shoe, That Is",
-    "summary": "(Does he ever not?) The star wore a golden two-piece suit by Saint Laurent, wearing it sans shirt for a hunkier approach. The foot-revealing shoes on Saint Laurent’s spring 2027 menswear runway. When Saint Laurent first showed the saucy (and polarizing) shoes on the runway, people had many thoughts about them.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/alexander-skarsgard-clear-shoes-saint-laurent-10-08-2026"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 18:15",
-    "headline": "Vogue Editors Pick Their Favorite Spring 2027 Shows",
-    "summary": "Fashion moves into the future through fearlessly tearing apart the past: this show did just that.—Luke Leitch Moschino won my vote this season. It was a brilliant backflip on the usual fashion show hierarchy. And it’s really great to see the British fashion industry support its own talent.—Elektra Kotsoni Anne Sofie Madsen, spring 2027 ready-to-wear My ready-to-wear season starts in Copenhagen, where Anne Sofie Madsen showed a stunning and modern collection.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/vogue-editors-pick-their-favorite-spring-2027-shows"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 18:39",
-    "headline": "Just how profitable is Cartier? Richemont’s 2026 earnings are out, and the jewelry division is in a league of its own - Popbee",
-    "summary": "Just how profitable is Cartier? Richemont’s 2026 earnings are out, and the jewelry division is in a league of its own Popbee",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT2xxMjFPbVVaZkxJbzNISFBORmVrTGluLXpYMVV1OHZGQjBHSFBmRC1oN0ozVmtEMWNwNTNESlZPMk5EaXBncnlpV2RxZjdYenVQWl9uZ0hXVVJGSURYeFg5UUgtNWI2aE5ZczhGZnozeXU1dDVidDlxNFFTbTJ4V045TFlRODA?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 18:40",
-    "headline": "What were the Shanghai results? - ATP Tour",
-    "summary": "What were the Shanghai results?",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wVTJ0Rm9kdkRQY0R1MTRkN21KZE1NNWpLZGg1eVVsRmxfcjlETHlCVDV5VUhZNEY4Ny1FWk44SDFSQ0tYamo0WW4xQ2lYYTh0UklnemJBV3JlMXdTOFRtM0lGRQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 19:19",
-    "headline": "The 67 Best Fashion-Forward Bridal Looks From Paris Fashion Week Spring 2027 Collections",
-    "summary": "See our favorite bridal-ready looks from the collections ahead. Become a Vogue Business Member —the ultimate resource for fashion and beauty industry professionals. Never miss a story: Add Vogue.com to your preferred sources in Google.",
-    "entities": [],
-    "link": "https://www.vogue.com/slideshow/best-bridal-looks-paris-fashion-week-spring-2026"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 19:19",
-    "headline": "Zendaya Combines Two Controversial Shoe Trends in Paris",
-    "summary": "Zendaya wearing Maison Margiela tabi wedges in Paris. Zendaya found that in her Maison Margiela tabi wedge. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/article/zendaya-combines-two-controversial-shoe-trends-2026-10-08"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 19:44",
-    "headline": "Nvidia, Samsung back $90M round for AI agent startup Nous Research - SiliconANGLE",
-    "summary": "Nvidia, Samsung back $90M round for AI agent startup Nous Research SiliconANGLE",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcG0xSUR2Z3FaYjRYTU9QMTliSURncWI5Zk9BMnBwVjkxQ2NTVVhVeUdTUHlUdHNEdHFHa1hYcHB1bTEtcXhjaTNVU19ZRmZ0cWQzTUMwUElNTUtvSi13V09hTkVEYnY3QUhSSzdZcFZNZlo2aHpibEJTU0RNNjFtUnY5U1hnYTJObkV1QTI4cmhKZThIUXQ5djgweEtZTjgxMmZz?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 19:44",
-    "headline": "How Buyers Really Afford Birkins, Part 2 - www.backrow.net",
-    "summary": "How Buyers Really Afford Birkins, Part 2 www.backrow.net",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aWmNEdGNkZlUxNWVNNDM0emJldzBTa0N5TmVZUkxMVDFMOUVET29hZzdLQVNOY1RhX3k2VkdOYmVNN3d1T0pEUFpVMHdaQy16NU1lVVgtblVfQXBoaXhDUGI0TWM3blVndEdKUExCVE1YLWs?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 19:50",
-    "headline": "Luxury Giants LVMH and Kering Institute New Age Restriction and Regulations on Nudity for Models in Updated Protocols - Yahoo",
-    "summary": "Luxury Giants LVMH and Kering Institute New Age Restriction and Regulations on Nudity for Models in Updated Protocols Yahoo",
-    "entities": [
-      "LVMH",
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW5tMXlFSnRoczQ1cV96SVBOZk1pTXBERjZZZF93LTBPQjNoNVM4TkdISVZFQXg2c2R4X0hOdTBuZ3I0QVljWWZEVWpMcEx3TU5TTVdYMEhjYjhnZmFSTWx6eGZRaG1uMnFWMVM0ZjZPU0NaQVNteWF2cUl4bk5wNVh1UllVMVN3Vm9wb2JfQ0I1TElKTzl4TlR6SQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 19:55",
-    "headline": "Richard Mille unveils the RM 64-01 Tourbillon Colnago - Prestige Online - Singapore",
-    "summary": "Richard Mille unveils the RM 64-01 Tourbillon Colnago Prestige Online - Singapore",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkw0WU5Qc2hyMkUtdDZvZERnUVZjOTRUM0tFN0FtYWxVWTRZU1h2UmNsMVJzUURUNG1TMzZTRmVSZFhjZjJaNl9TTlZuNy1nUnp1OWN5MmtyOTk4SkNLYnAzbF9UaTB3WVEzV2p0amV5bEhmRHlBWnVrdm96MEJ1WVpJeHNjWjNrV254d9IBkgFBVV95cUxOZ1VTRmM3bFEwRlpFNm9TaU1ySXNIUE9ndWNaX2dLeHpFbW9wYldqbVFEM0lmY2JnVnRTSTQ0Q29Oei1TYmpQXzdfRHhzQTN3S3RoX3dEaWRoTm52RWJYWEY4Qk9zWUJHenMwQWVjenRINkhZVGtGMHRDSjl0dk9HUmQ3V3I3VGlWNlJNWDVEZVpzUQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 20:21",
-    "headline": "The Best Hotels in the Seychelles",
-    "summary": "Between the local rum tasting workshops, sunset cruises, and private BBQ dinners (all included in the rate, so there’s no need to fret about the bill), eke out at least one morning for an island hike with one of the resident naturalists. Some 130 kilometers south of Mahé and only accessible via a chartered turboprop flight, this tiny coral island delivers big on the castaway fantasy, albeit one with private infinity pools, farm-to-table tasting menus, and butler service at the drop of a hat.…",
-    "entities": [
-      "LVMH"
-    ],
-    "link": "https://www.vogue.com/article/best-hotels-in-the-seychelles"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 20:47",
-    "headline": "Nous Research Raises $90M at $1.5B for AI Agents [2026] - https://tech-insider.org/",
-    "summary": "Nous Research Raises $90M at $1.5B for AI Agents [2026] https://tech-insider.org/",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wbEU5blVQTmNWenJKS1pPMGVRcGNFUkJMSHBLeUFkSnZsdl9ITHk1dl9KcVpqRV91VENfRUh1WFZoTDR2bDBWNzFsdTJEUUNuR2l6U1p5N0phbG1vZmlhdmF2WWlJRVhTY3BVMjJfeXlyaTdsZWdyTlRTbzBvY3c?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 20:56",
-    "headline": "LVMH and Kering strengthen the charter for the res... - LVMH",
-    "summary": "LVMH and Kering strengthen the charter for the res...",
-    "entities": [
-      "LVMH",
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkx6WVNtUGRSVWJ3WkdPeUxqSWtxY1JJMFFzbTU5Q05kNzEtNzFtZHVFVHVhbnctT2EyYzdHUVdFZGYtTzVWV0FLemFvYjFEa01YcVp5WENtZVkzTlVtdVowTnZvdG8yZXM3UnI1SDZ2dEZzQy1PWlVlMkNvSkpRUlVyM0xJRzlDM3hidnlZYVRIV0lWbnppM0lJRVFOV3dIakh3MjVETHV1a2FQQTFDaXltdw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 20:56",
-    "headline": "Luxury Giants LVMH and Kering Update Model Restrictions on Age and Nudity - People.com",
-    "summary": "Luxury Giants LVMH and Kering Update Model Restrictions on Age and Nudity People.com",
-    "entities": [
-      "LVMH",
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajNyb01JRkJSYzBfbXZqV3VESU1tVzNndHJvdzhQQ3RKZnlqVGpIeGRaLUZGc0VNODhMZWwtYV9rdHBQSjVRVXdfSVRSUnVJemZZZWZNMTU0SDFHbFc4VWg1MkJjWkl2bkZwY25VVDBoWXRjdGRIY05fc05VTENzNERRVlJfM19T?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 21:11",
-    "headline": "Zankov Appoints Its First CEO",
-    "summary": "Jack Tobin is joining Diane von Furstenberg artistic director Henry Zankov’s namesake label as CEO and part owner.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/luxury/zankov-appoints-its-first-ceo/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 21:11",
-    "headline": "Harvey Nichols’ Birmingham Store Will Close in January",
-    "summary": "The department store’s Leeds and Bristol outlets will be converted to the Flannels brand in a shake-up under Mike Ashley’s Frasers Group, which purchased the chain when it was put into administration in mid-August.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/retail/harvey-nichols-birmingham-store-will-close-in-january/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 21:12",
-    "headline": "Introducing: The Sexy, Secretive Toledano & Chan Oshinobi, With Commentary From Phil Toledano",
-    "summary": "Toledano & Chan, the horological design collaboration between artist and collector Phil Toledano and watch designer Alfred Chan, is back with their latest brutalist architecture-inspired watch, the Oshinobi. The Oshinobi also marks a couple of firsts for Toledano & Chan. Brand : Toledano & Chan Model : Oshinobi Diameter : 21mm Case Material : Grade 5 sandblasted titanium Dial : Secret dial with 2 carats of snow-set diamonds Lume : No Water Resistance : Not stated Strap/Bracelet : Integrated…",
-    "entities": [
-      "Phillips"
-    ],
-    "link": "https://www.hodinkee.com/articles/the-sexy-secretive-toledano-and-chan-oshinobi-with-commentary-from-phil-toledano"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-08 21:14",
-    "headline": "Messi Wears Patek Philippe’s 50th-Anniversary Nautilus 5810G for His Argentina Farewell - Haute Time",
-    "summary": "Messi Wears Patek Philippe’s 50th-Anniversary Nautilus 5810G for His Argentina Farewell Haute Time",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVzRfYWJiNldjanRHTU5ONGlQTDFxa0lSNThwZklBWWliSW9kRC1USVJLQ1J1cFZtOHZLOHJlZjRyUlhWRk9rUmsxQ09sSE04OUFwd09EQ3NQWDVtWEJ0bUNiWGNmNmwtZ1MyMlpmQkJucnp1eWh1YkRncHBJanQyd3dDYk5uY1VQU1FFZVh2M2g4dw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 15:59",
-    "headline": "Foreign Buyers Took 80% of the Treasury’s $39 Billion Auction - 24/7 Wall St.",
-    "summary": "Foreign Buyers Took 80% of the Treasury’s $39 Billion Auction 24/7 Wall St.",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcElPUTA4SkY1Wjhac2ZueHd5aGQzRDJFZmFSWkVqajE2MVVkcVJSX0NBc1NWRU1LT0FRWm9fN2pzNTc1SnNBUWVVeFl2MU1Kc0VBUFFBMXd1a1l4dWtWS1ExVWhmRHRILTRQQ29wWF9WaV85bnJZVVZMSVQwM056ODNFbWpidm9pbUxuUHNEdGFpZGUtQ2habWQ3OWJmZ2VKdTlmNg?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 16:30",
-    "headline": "Billy Joel's motorcycles on view at Christie's auction house before bidding begins - Newsday",
-    "summary": "Billy Joel's motorcycles on view at Christie's auction house before bidding begins Newsday",
-    "entities": [
-      "Christie's"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXlUN3JrRFR0by1oSjBjZlU3alBZdDhtX1dyQ09BSXNHdkhOMjhEUW9yWlpxdm1rYjNGY0hoMlVjR1JkYXVlTy0zcUhUYlFvTUZvcXJQYm94aUoyajdIWl9FSnZEekFVWDlQOTBrVUw3QlBkRGZibmd1d0huTjhsRzlfVnhremR4V1EzaGJDNU9OU00?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 17:01",
-    "headline": "Treasuries Catch A Bid After A Record 10-Year Auction - Finimize",
-    "summary": "Treasuries Catch A Bid After A Record 10-Year Auction Finimize",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2t2TUxtU2lFdmlJZFdOb0JzSkhLTFEyUVBnajJVdzR3SHhnS2hOSmRiNjRMUTdubkVSNHFreGQwd2RDd3JFQnlxV0RYSi1EaGV6c3hRVjIzaUJrNEd2Q29tZV9nSl9RRGtudHJLSHVLWVFrVVBYOXQ2cl9OLW1lZXVQTDIwTkpHRkE?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 17:01",
-    "headline": "A 1987 Buick GNX Is Up For Auction In Biloxi – Could It Sell For Close To The $427,000 Record? - American Cars And Racing",
-    "summary": "A 1987 Buick GNX Is Up For Auction In Biloxi – Could It Sell For Close To The $427,000 Record? American Cars And Racing",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjZfLVJoUzAwazBsV1ZQWFJwQ2VURE9FUDlOUHotanlYZEszX19OTmxIOVVySkJ6Y0duVTZ5QUdYUDR5N0VTYmpfWFNtaTRjT2JnR3FSU0tmUVdUWXN1eTRHd2pOYjJUZGQyMlZhVk95VWFXVXBPMUxFa1JZTnEtMTREZw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 17:35",
-    "headline": "Christie Responds After Kings 3-Point Disaster Against Lakers - Sports Illustrated",
-    "summary": "Christie Responds After Kings 3-Point Disaster Against Lakers Sports Illustrated",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUzJQV0JqTERmOXB3OHdlam1lS2F0bjZDNlJzeWYxcVE0Mlp4NUYwQmdfaWNhT24zcTFGUVRMd0V2SzhmRXdQYzBZaVRlQmZPbUF6ejRuV0NmUGk5dHhpcjZMeTR1NEdCQVkzeG5CRFlacVprSUxOb2ljZWFmMEVaUnFkMjBqTDZsRXVJOUVqd0ktbTl6NlZSOUNxbw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 17:35",
-    "headline": "Agatha Christie’s New 6-Part Series Confirms New Poirot's Second Case - IMDb",
-    "summary": "Agatha Christie’s New 6-Part Series Confirms New Poirot's Second Case IMDb",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jc0l0c2IzSFQ0dDJZWkJWX3ZmTXRFUmlxUDZrdXhNUkF3NFRsOTh5akF5RENENzVVMkNaakFMdW5GaXFWSW9XVzNnR2MtTkdmWVliRjE5N19IR000Rko3NVY0dzE4c0U?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 17:50",
-    "headline": "Sotheby’s International Realty rolls out 50th birthday marketing pageant - PrimeResi",
-    "summary": "Sotheby’s International Realty rolls out 50th birthday marketing pageant PrimeResi",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3VwcWpBS3dSNkxzaEVDVmNrMXdCVUIyWjl6YUlVWWtoWUVnd1dPQ1ZkSHhzeW9RajQ5TVZYNXJ2SWpyN0k1THhsUW5tWkk1WU5FWHdCZ2pucTJkS1ZWeXJQS056UEpqeDBZempYMFdRdG9Ba1d6TWstV2pDOGNlYXRzT3VOY0p2azU3OUd2T1BMNEdSdVZqNDFn?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 17:50",
-    "headline": "One of Bangalow’s oldest Queenslanders has come to market - The Spaces",
-    "summary": "One of Bangalow’s oldest Queenslanders has come to market The Spaces",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0tIY2NDRWN1dFp0YldzWm5CdUVJNDhoRXRRaUd2bFdmVjBPQ1lUR0ljUVlZek9YV2pseC1KNExOMFpldmN4MXpabHlpTWF0emV2RGp5Sk5BYWxlUGhrTTl3V0pEUjdNel8wcC12cEtGNHZxQkEzRklRX0ZqWTRaVGp2MGF2cGlUUzNTRGJXYzQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 18:05",
-    "headline": "Vintage Pokémon TCG Pikachu Promo Heads To Auction, Initial Bids Already Nearing $2 Million - Star City Games",
-    "summary": "Vintage Pokémon TCG Pikachu Promo Heads To Auction, Initial Bids Already Nearing $2 Million Star City Games",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0Zrcnh6b1M5VWE2MHFTNmlvcXcxSmFMSVdwNm9xbFZ3ZHN3anRmaFFQQm1iTnZSU09oUXBKelRkRGhzTTRsMVJ3dXlUZzF2OE55UWo4MzVjSHZhYnM5ci1jb1ZnTmlZWTJJbzYzclVacmFMd1BPN0hHOURYbWlIcUZqTnBUS0lsSUhmeHRteFlqc3JTUHB1TWl0NU8tcU80eWhWVHNFMVFkbWJjTUtRNnM0N2JSaXJTS1VEZEE1SENmaVEycEtaNlVR?oc=5"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 19:10",
-    "headline": "Artprice Releases its 33rd Annual Contemporary Art Market Report for 2026: Record Transactions, Price Trends, the Balance of Market Power, and Artists from the Global South - PR Newswire",
-    "summary": "Artprice Releases its 33rd Annual Contemporary Art Market Report for 2026: Record Transactions, Price Trends, the Balance of Market Power, and Artists from the Global South PR Newswire",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOUkl3N256bEpmRWc1M2t1ZzFwRk1wSVZLZzNMZ3hOdDZDVTB3UXlCS05pLVhxOUlLUXNHeGluOHpyZWdqV0lpQjlBQzV3SGlFb3ZpNWhKcnM3THZJLXNvNUNfSUt5RllWR1RLeGRDU2ZxNVNOZTB2Vnc4R2lwdFlHN3o1Y2ZFaHRYQk03SURtenhCMzBoa2VGOHZWejVfdGpVeTBDVmprMGgyY2tKUTZ0d09fY0NMZTdUTlgyWFpQbElmLThZOTdmX0s2a3JQNGRqLV90Z2tXVHdBSDd5Xzd5Y3FZSjVJbUFNaFA3VkNFWjgyVTZZak1GNUp6c051RnQwSF9UMUJlXzJRYXhTbWZwMVBqZG9nRzZXSnBqTmt5SmQ0aFl6NTVpQWJZdm1EZ1hWNEpPNUJER1lZSkdQYy1PSXkxZ1c2ZzQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 19:33",
-    "headline": "At the Fall’s First Major Auctions, Buyers Spent Carefully but Competed for the Right Works",
-    "summary": "The Stern selection totaled $8.7 million, surpassing its $5.5 million high estimate, and 90% of lots found buyers. At Christie’s, a sale of postwar and contemporary art on October 1 brought in $28 million. © 2026 Art Media, LLC.",
-    "entities": [
-      "Sotheby's",
-      "Phillips"
-    ],
-    "link": "https://www.artnews.com/art-news/market/christies-sothebys-phillips-fall-2026-auction-results-1234800340/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 19:36",
-    "headline": "Rare Harcourt diamond tiara made by Boucheron on show at Christie’s New York - Something About Rocks",
-    "summary": "Rare Harcourt diamond tiara made by Boucheron on show at Christie’s New York Something About Rocks",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ3ZkblNJOC1zYlRSNTc1aTFMbFYxZWpSRVEzQnUwX3J5ZnUxcWxNZ3N6dDNDcFBHbjJYTUJRN0VYdnBqbnp5amJaU254UDYzOWM4R0RldVA4YlpiQWhZWEFEOEc1c1dhRzAwbFRJMS1zSmRqUk1FNHBtNWdXcFVGQ3drT0dsUE82czI0SnQybGRLczlVZUdodk1WYlVOT1YzQkM5N0pIeHNUUXJp?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 19:44",
-    "headline": "Sotheby’s New York auction with high-value carpets - www.jozan.net",
-    "summary": "Sotheby’s New York auction with high-value carpets www.jozan.net",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Dc3ZES1F5Ri1QQmRyQjgzc0Z6aUp6d3ZkNGp1c0s0MkFQS2RzRzBIek9MTzd5bmFVdl9VTmpCR2E2MWp5dDlsQTM0Z0dNa2g0bUd5cW9GV1ZZVVcxQmZLU0J1QUMyd1k5UGhyMWlOc3BNMDJwd3JYMUdoZjM?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 20:03",
-    "headline": "What Connects George Washington and Sesame Street? 250 Years of American Icons | Sotheby's",
-    "summary": "What Connects George Washington and Sesame Street? 250 Years of American Icons | Sotheby's",
-    "entities": [
-      "Sotheby's"
-    ],
-    "link": "https://www.youtube.com/watch?v=4ZIYmPPjiS8"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 20:04",
-    "headline": "Why Record Collecting Became a Serious Investment Strategy - That Eric Alper",
-    "summary": "Why Record Collecting Became a Serious Investment Strategy That Eric Alper",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUE5TMlpERmZveXhpWFpjTi01M0ZRZVpUSWc4djlGLVlwdXVKaXNnbUswQ1JRSlRleWRkM3QwVTZnY2RuaDhfQXhWbFlLX3BjRXAta0c4RFBwUGdxeF9aT1RRWjhhQU5WSHhIdU9tUFR1b0NUeFpxTmNUR1dkdThPYzNBM3BiS0Z6QnRkY1VXV2lhY3h3aFFLMFRiQjloVzRVSnc?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 20:32",
-    "headline": "What is Artists for Climate Action? And how is it supporting a more liveable planet? - ClientEarth",
-    "summary": "What is Artists for Climate Action? And how is it supporting a more liveable planet?",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckRKaVp0OG9IUEttdVJTdWhBeHlBSE44QTJWNEpEUGRhUkMyUTNNMTVsQzllZ3dXSXpsMW55eExKSzk5TktUb1NVeDZ4VGtqbmRscWZncW9yUTVkVFVTZUE3SHNmZ1JFaWY1X1N4WUxleENTY3pBMmV3OElYRUR0Rnotb3JwNS16MVAyVTk5NDJJVy16NExYZThLeFdaTWl5YkRuUmtoN3o0ZFpXLVN6Uy12d0RkRzdqU1VfdkNjU0I?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 21:00",
-    "headline": "3 Stunning 25-Year-Old Pokémon Promo Cards Fetch Nearly $1.2 Million at Auction - Polygon.com",
-    "summary": "3 Stunning 25-Year-Old Pokémon Promo Cards Fetch Nearly $1.2 Million at Auction Polygon.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzJYRnFWanhIN2JCOUU3RU4yMVFOTjRQazA2Ul96MjZtRHlqR0ZWZ1o5a3F5S0hVNU5BSnExTDhDUTFyb2JrdnZSRzROVDY0MkxxaDFEckl1Vm9UQzBKd1A3bkZFVTU5M2ptYVRRbHc5TlBybXJDU0JqR3FYMGtWTg?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-08 21:00",
-    "headline": "US Treasury Auction Results - Forex Factory",
-    "summary": "US Treasury Auction Results Forex Factory",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05VUwzLTBjcFdhTlZraERfLU1ld2lsaGxyRkx5LV9sejZXb3ZLckF1STZQSUJ3UnRxZ3djeFRjdVRQampNVFpUTXVRTzBpNWp0OWdzRlo4WjZzZU5MRktQc3h0RFllb0pDMzNNWWtGWjBMU1dkNGFhbNIBfkFVX3lxTE0wWUl4UDJ2blN2OVdyRG9UcDYzTy1sRTlEdXM3d01XTkxjM0tZelBYTWZNeW44SVkyZ2lRYzFBTDVoci1hYmZtdEdaR3hQUmZqWVRJTEJ1d09LN0cySlFoSmJGTnBjbzB4M0xkR3ZiSE9sLW5paFNQTWhQZFpuQQ?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 08:37",
-    "headline": "Frieze, PAD and all shows in London next week - ELLE Decoration UK",
-    "summary": "Frieze, PAD and all shows in London next week ELLE Decoration UK",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUFwSmlvMWw3M0ZnTVRIRzcxclZtMnVwa2JvcWlHVXJIMTdIYi1fbXpTNjhIRmY5dWRzQzRjeU9jcnZ3bjRPVlZvdnY0TkxVdV9PN2t2VUJDVnNRNlpBQlpEeVF3ZlFDVktiWXRKU18xOTgyOV81N3RFR25sXzZyX3FmQV85OVY3alZQT2t0cmx4U3F5QWl4cFJXZ2w?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 10:14",
-    "headline": "Gen Z collectors spend over US$1 mln on art, double other generations: survey - The Standard (HK)",
-    "summary": "Gen Z collectors spend over US$1 mln on art, double other generations: survey The Standard (HK)",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWNlT2lqd2tCT0hkWVBxWHJpLVUxLTBhVEVoNzczcWRaam00ZUpCRzdwSkx1WWttSXAwd0p0MWVsQXJaRGd3bTdZaENFTk9CbUxDbTlaUUFzYU1CLUhOVnlUNmVUTFBhV1E4alJuN0JkM2hHNW1nRHRVNmlqQmg1TmdZaW9zSUloZDlRci1QeHVRS3huWkxncnVsMWdiV28tdWJEY2R3c0tJUkZjYlhfR1RBNkVJb3g3REFlc2xxLUtHc3FoX0Zz?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 10:34",
-    "headline": "Can Lee Krasner Finally Escape Jackson Pollock’s Shadow? - Frieze",
-    "summary": "Can Lee Krasner Finally Escape Jackson Pollock’s Shadow?",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYm9IalV3MjQxeV9uVTVmbzZENmFWcm9pZjRpem1DVDlrSjJ6Mmhnejk3LUpZbzFodEZXYUVoZTRwbUlwRmxqRFdTQWNPNUJ6UVpkTlN0UDhFTHpYSUNxbnBhay10aWtCNlYwWWplTmhCVWtRd2wyX0VkcmJGcXR6TGxhRHdUUzVMTTlCYzUxbDk?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 11:15",
-    "headline": "‘She lets her energy go full throttle’: Hilton Als on Alice Neel’s queer portraits",
-    "summary": "Works by the painter will be included in ‘Queering Modernism’, a new curated section at Frieze Masters",
-    "entities": [],
-    "link": "https://www.ft.com/content/ac0c2f97-568c-44a2-948e-a315775079c4"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 12:09",
-    "headline": "Gen Z spends nearly thrice as much on fine art as other generations: survey - The Standard (HK)",
-    "summary": "Gen Z spends nearly thrice as much on fine art as other generations: survey The Standard (HK)",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGM1ejZ3VjdDUVBVS0czQXk0Ym1GSDdyY2QwTWNfV3pQZ1FzX3RSQVpsQlpfV3NMMndBSHV6aHdpUzVjbS1VMGFVTFZ0enVyZlN5MXN4UHYxLXRSMU1lT29QeGZSUkhjZVV6MFFYX3dwcDV6UHBrUTNPMlNKbkF0RUllT1hPRzE4VmtLdEc1Tm80UHZuSk9XUlU5NWJudkc2eDFpcmV1QlFvanlMZXEwOEJlUHdZZnNRRFZ5dGF5bXpjVU05eE5r?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 12:19",
-    "headline": "‘The 90s: Art and Fashion’ is a riotous, revisionist version of Britain",
-    "summary": "Bawdy humour, rave culture and the mythical Cool Britannia: former British Vogue editor Edward Enninful captures a creative era at Tate Britain",
-    "entities": [],
-    "link": "https://www.ft.com/content/2b1b139a-dfa4-4b6a-969f-e8532eb91c77"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:15",
-    "headline": "UBS art advisors share their top tips on starting a contemporary collection - Art Basel",
-    "summary": "UBS art advisors share their top tips on starting a contemporary collection Art Basel",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVdrLXRwUThTMXE2LVlXMGhvblczNk5LSldsZDdMbFo0N1ItMTR3b3dVMnp6S1FDVHZVdlFDRVh6TzBXS2x5YnVwTGpZc2hBMnBENlNCWmJZS00zY3lsWE1NQmhJM1hXam5PZTg3blk3bC1iWHhEWXZJSUJnMmw4QUs4RnI?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:15",
-    "headline": "Gen Z spends more than twice as much on art as other generations, Art Basel and UBS report finds. - Artsy",
-    "summary": "Gen Z spends more than twice as much on art as other generations, Art Basel and UBS report finds.",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjU3YWxMaDlsQmN1VFZyOXRmQmxlTkhwYkRQT1RlWUpiTXNSTmtVY1FMamV2WG9fUFd6UVFvbW5jQXVVRFVMUlVjMUNHZ2tWcWtIMkZnV1Y4QWdyWU93RjI5SzFqZWFFSGlXNjRfODJudi14ZnduVzFxQXBJa0hIaHlpM21ETE1mZ3Fmdk44eERNUVRtSGJMYVBES0NpSDNHY1F3TWZUaXQ?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:15",
-    "headline": "Art Basel and UBS Release the Survey of Global Collecting 2026, and Other News. - www.surfacemag.com",
-    "summary": "Art Basel and UBS Release the Survey of Global Collecting 2026, and Other News.",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY05mbHpDMUZMeWZXaG1KYlRObFp2RVczSU5SakpyV1U0V3AtUEQ4Q25uSEVoNjlIREhmT2xvcV8yUHkzdHZVRmpodjI2VDVpSHdoNTFnWklZU2VjZ0lNRDZIcXNyaWFQeXNldW1GczNiVk5FVXhVVnFQQ3YxeGhMdXZGaTFtS2llVXVwV2dyUl9STVg5VGdqYnhLVFRtWjNt?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:31",
-    "headline": "Hammer Museum Board Gets New Chair, Denzil Forrester Joins Thaddaeus Ropac, and More: Industry Moves for October 8, 2026",
-    "summary": "Hammer Museum Board Elects New Leadership: The trustees of the Los Angeles museum have selected Eric Esrailian to be chair and Karen Hillenburg vice chair. Adolph and Esther Gottlieb Foundation Names New Executive Director: Currently senior curator of American art at the Newark Museum of Art in New Jersey, Tricia Laughlin Bloom will be only the second director since the foundation’s founding in 1976. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/market/hammer-museum-chair-denzil-forrester-thaddaeus-ropac-industry-moves-1234801666/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:31",
-    "headline": "Art Basel/UBS Report’s Surprising Findings, Artists Say Tang Contemporary Owes Them Money and Artwork, and More: Morning Links for October 8, 2026",
-    "summary": "Several artists are accusing Tang Contemporary gallery of not paying them and withholding artworks, joining similar claims by their landlord and other providers, reports The Art Newspaper . [ Artforum ] FEMALE FACTOR . © 2026 Art Media, LLC.",
-    "entities": [
-      "Sotheby's",
-      "Art Basel"
-    ],
-    "link": "https://www.artnews.com/art-news/news/morning-links-october-8-2026-1234801688/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:31",
-    "headline": "Sotheby’s To Offer $100 M. Collection of Ted and Ruth Baum, Led by $15 M. Paintings by Rothko and Ruscha",
-    "summary": "Ted Baum died in 2021; Ruth Baum followed this year. They acquired the latter in 2006 at Sotheby’s London for £1.5 million ($2.7 million, or about $4.5 million adjusted for inflation). © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/market/sothebys-collection-ted-ruth-baum-rothko-1234801607/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 13:37",
-    "headline": "FRIEZE London - PERROTIN - art gallery",
-    "summary": "FRIEZE London PERROTIN - art gallery",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oTzJtRHRObUNnVUE2OHphTy14QlZieUJZb2ZYT084STlqUVJhUzRLc09ySUYtOXZad2ZFWW5kUTBKeGRjLUtwUnpDUFFjMFJzSnEzMHJaZll1ZklSZTE3LWlROXRlZ2p3Sm0wLTVTNVgtQzRk?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 14:40",
-    "headline": "Frieze London Artist Award Winner Theo Triantafyllidis Is Creating a Giant Spider - Frieze",
-    "summary": "Frieze London Artist Award Winner Theo Triantafyllidis Is Creating a Giant Spider Frieze",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1dPWGZwQzhoV0tpcWUwT29ZVzZSUVk2M2tnNVVYUEh2UElDYTl4OG9MNl9KTnA2NmYxeDBmUEp0TnJ2MGlmeHlXMWVaZDYtZXdYbUZYN0N0VUV4ZEN6T0JjSXNoWGRmUWlYdVZhcHBtZGZDb1h4cXhtWkxheXBEdTFxZm55aExiZjFB?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 15:04",
-    "headline": "Move Over, Mum and Dad: Gen Z Collectors Are Outspending Their Parents - Ocula",
-    "summary": "Move Over, Mum and Dad: Gen Z Collectors Are Outspending Their Parents Ocula",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVdVcWQzSy01NjE2b1gyeFF4ZmFZU0dIM0pMZk1WQ3gwZzVQajl6X0Iydl9VYlFlTWJjR0pvaW5QR25JSTdhZmNrMW81WkF0WGpSOGVoYlN4OEdrNTBvNDZoR2VQdnZLdGRQZ0xSS1I5TEZxNms5dkYteHJ6QmZZOFRlQjIwenFsVHVCRk5QazU?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 15:04",
-    "headline": "Gen Z Is Spending Big on Art—and Collectors Are Turning to AI for Advice - ArteFuse",
-    "summary": "Gen Z Is Spending Big on Art—and Collectors Are Turning to AI for Advice ArteFuse",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JSSFhYRVMwUjNDUzZtZnZ6ZzdRc0tFNjUxRGl5aXNfdDZkQlp6QUJ0ZkJCOFZ0ZEFfT093MFFKSl9SZmtyanhUQ0t1c2pnVWxFLXZiM2FvcTYwSUc4WjZlWGZ6clFLeFJxVnkwSWMwaEZBVFBnN3l1ZU9rM0Fxdy15SWlkZF9BNlAwZFdFaE9CeWc1Mk5VUThR?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-08 15:04",
-    "headline": "Wealthy Gen Z collectors spend more on art than older buyers, report shows - Bellingham Herald",
-    "summary": "Wealthy Gen Z collectors spend more on art than older buyers, report shows Bellingham Herald",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1NsTkRDU01WQldRVk1TTWRLOW80Y1pTVjhRMXg2eVJnbjAxNDJJUTZ1Zjd6ZjZwSGJ1MlhhTlNsV1pvNnlDTlZiMWs3UE5xVnRPbnhxRFRtQjRtQjBmUzlMampmUmlKT1Y3ZzA4clU2OVNOOWdSblBIOFpFZ0NPY2RLd3dmeDFG?oc=5"
   }
 ]
