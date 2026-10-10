@@ -50,8 +50,8 @@
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       1,
       0,
@@ -60,13 +60,13 @@
       0,
       5,
       4,
-      0
+      1
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+100.0%",
+    "delta": "+150.0%",
     "dir": "up",
     "spark": [
       2,
@@ -76,7 +76,7 @@
       3,
       7,
       8,
-      4
+      5
     ]
   },
   {
@@ -114,7 +114,7 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+0.0%",
+    "delta": "+50.0%",
     "dir": "up",
     "spark": [
       2,
@@ -124,7 +124,7 @@
       5,
       18,
       8,
-      2
+      3
     ]
   }
 ]
