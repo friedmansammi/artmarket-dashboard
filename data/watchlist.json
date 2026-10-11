@@ -60,13 +60,13 @@
       5,
       4,
       1,
-      1
+      2
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
+    "delta": "-66.7%",
     "dir": "down",
     "spark": [
       3,
@@ -76,13 +76,13 @@
       7,
       8,
       5,
-      0
+      1
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -92,7 +92,7 @@
       2,
       1,
       2,
-      0
+      1
     ]
   },
   {
