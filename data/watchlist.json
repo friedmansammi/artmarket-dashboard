@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+0.0%",
+    "delta": "+25.0%",
     "dir": "up",
     "spark": [
       4,
@@ -12,7 +12,7 @@
       1,
       2,
       2,
-      4
+      5
     ]
   },
   {
@@ -44,7 +44,7 @@
       0,
       1,
       1,
-      3
+      4
     ]
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -108,13 +108,13 @@
       0,
       0,
       0,
-      0
+      1
     ]
   },
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+60.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       5,
@@ -124,7 +124,7 @@
       2,
       8,
       6,
-      8
+      10
     ]
   }
 ]
