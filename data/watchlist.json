@@ -18,7 +18,7 @@
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -28,13 +28,13 @@
       9,
       11,
       4,
-      0
+      2
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -44,7 +44,7 @@
       0,
       1,
       0,
-      0
+      1
     ]
   },
   {
@@ -114,8 +114,8 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-50.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       2,
       8,
@@ -124,7 +124,7 @@
       7,
       11,
       6,
-      1
+      2
     ]
   }
 ]
