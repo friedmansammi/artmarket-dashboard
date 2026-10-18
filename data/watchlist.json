@@ -82,8 +82,8 @@
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       1,
       0,
@@ -92,7 +92,7 @@
       0,
       2,
       0,
-      0
+      1
     ]
   },
   {
