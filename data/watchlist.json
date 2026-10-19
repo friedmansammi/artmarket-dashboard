@@ -2,81 +2,81 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      1,
       2,
       2,
       5,
       3,
       4,
       2,
-      2
+      2,
+      0
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-60.0%",
+    "dir": "down",
     "spark": [
-      0,
       5,
       4,
       3,
       9,
       11,
       4,
-      4
+      4,
+      2
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      0,
       1,
       1,
       4,
       0,
       1,
       0,
-      1
+      1,
+      0
     ]
   },
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "-50.0%",
+    "delta": "-100.0%",
     "dir": "down",
     "spark": [
-      2,
       2,
       4,
       0,
       2,
       2,
       1,
-      1
+      1,
+      0
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+66.7%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      3,
       6,
       5,
       5,
       8,
       14,
       5,
-      5
+      5,
+      0
     ]
   },
   {
@@ -85,14 +85,14 @@
     "delta": "+0.0%",
     "dir": "up",
     "spark": [
-      1,
       0,
       0,
       1,
       0,
       2,
       0,
-      1
+      1,
+      0
     ]
   },
   {
@@ -103,9 +103,9 @@
     "spark": [
       0,
       0,
+      1,
+      1,
       0,
-      1,
-      1,
       0,
       0,
       0
@@ -114,17 +114,17 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+50.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      2,
       8,
       6,
       10,
       7,
       11,
       6,
-      3
+      3,
+      0
     ]
   }
 ]
