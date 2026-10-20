@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-100.0%",
+    "delta": "-50.0%",
     "dir": "down",
     "spark": [
       2,
@@ -12,14 +12,14 @@
       2,
       2,
       3,
-      0
+      1
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-50.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       4,
       3,
@@ -28,14 +28,14 @@
       4,
       4,
       9,
-      2
+      4
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       1,
       4,
@@ -44,13 +44,13 @@
       0,
       1,
       1,
-      0
+      1
     ]
   },
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
+    "delta": "-75.0%",
     "dir": "down",
     "spark": [
       4,
@@ -60,13 +60,13 @@
       1,
       1,
       0,
-      0
+      1
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "-60.0%",
+    "delta": "-40.0%",
     "dir": "down",
     "spark": [
       5,
@@ -76,7 +76,7 @@
       5,
       5,
       6,
-      2
+      3
     ]
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+0.0%",
+    "delta": "+100.0%",
     "dir": "up",
     "spark": [
       0,
@@ -108,13 +108,13 @@
       0,
       0,
       1,
-      0
+      3
     ]
   },
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+166.7%",
+    "delta": "+316.7%",
     "dir": "up",
     "spark": [
       6,
@@ -124,7 +124,7 @@
       6,
       3,
       21,
-      16
+      25
     ]
   }
 ]
