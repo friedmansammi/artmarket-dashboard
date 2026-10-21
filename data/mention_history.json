@@ -61,10 +61,13 @@
     "Gagosian": 2
   },
   "2026-10-21": {
-    "LVMH": 4,
-    "Kering": 3,
-    "Art Basel": 20,
-    "Christie's": 2,
-    "Phillips": 1
+    "LVMH": 5,
+    "Kering": 5,
+    "Art Basel": 23,
+    "Christie's": 5,
+    "Phillips": 1,
+    "Sotheby's": 1,
+    "Gagosian": 1,
+    "David Zwirner": 1
   }
 }
