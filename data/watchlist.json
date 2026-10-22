@@ -50,8 +50,8 @@
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       2,
       2,
@@ -60,7 +60,7 @@
       0,
       3,
       5,
-      0
+      2
     ]
   },
   {
@@ -114,8 +114,8 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-42.9%",
-    "dir": "down",
+    "delta": "+14.3%",
+    "dir": "up",
     "spark": [
       7,
       11,
@@ -124,7 +124,7 @@
       21,
       43,
       33,
-      4
+      8
     ]
   }
 ]
