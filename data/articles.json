@@ -1,5 +1,234 @@
 [
   {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-22 22:29",
+    "headline": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
+    "summary": "Once inside, they smashed two display cases and grabbed eight pieces of jewelry. The entire heist unfolded in roughly seven minutes. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-22 22:38",
+    "headline": "Miami Beach’s Bass Museum Unveils Expansion Plans",
+    "summary": "Expansion plans for Miami Beach’s Bass Museum of Art have been released by Los Angeles–based architectural firm Johnston Marklee, which was selected in April to lead the project. These new, rectangular pavilions will offer state-of-the-art galleries for the museum’s permanent collection, with windows and skylights to enhance natural lighting. Related Miami’s Bass Museum Appoints Philippe Vergne as Artistic Director and Chief Curator Miami’s Crisis of Memory: Eddie Arroyo’s December 3, 2024,…",
+    "entities": [],
+    "link": "https://www.artforum.com/news/miami-beachs-bass-museum-unveils-expansion-plan-1234761912/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-22 22:38",
+    "headline": "$34.3 Million Marble Torso Sets Roman Antiquity Record at Sotheby’s",
+    "summary": "A marble sculpture fragment depicting the cuirass-clad torso of a Roman emperor hammered for $34.3 million at Sotheby’s on October 21, nearly three times its $12 million estimate and the highest amount ever fetched by a Roman antiquity at auction. Artnet News reports that the hammer price topped the $28.6 million commanded by a bronze sculpture of Artemis accompanied by a stag in 2007, as well as the $24.5 million brought in by a marble nude of Aphrodite in 2021, both at Sotheby’s. “The result…",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://www.artforum.com/news/34-3-million-marble-torso-sets-record-at-sothebys-1234761959/"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-22 23:09",
+    "headline": "What Happens When David Salle Lets AI into the Studio? - Frieze",
+    "summary": "What Happens When David Salle Lets AI into the Studio?",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tMXByN0JGTVFXS2VwaVNBWnM2cjZHUEVOYnFJUDl0NFVhU09KT1NKNFJoQUt1Nml4OUk3MHlUR29nZDRTdkJfYVpEUDNDUHRJc0p4X2xIb2IyNWVSQlRPWnloZzhUcUdxQWEzOGNBNnF1NEVicEE?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-22 23:29",
+    "headline": "Art Basel Paris opens and closes amid protests, Latin American culture wars, a Chinese celestial map",
+    "summary": "The Art Newspaper’s global editor-in-chief, Ben Sutton, and our chief contributing editor, Gareth Harris, visited the fair before the announcement of the weekend closure and we hear what they made of it and the various satellite events and exhibitions around it. It is part of Night Maps, an exhibition at the Warburg Institute in London. Night Maps, The Warburg Institute, London, until 17 April 2027.",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://shows.acast.com/the-week-in-art-by-the-art-newspaper/episodes/art-basel-paris-amid-the-protests-latin-american-culture-war"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 00:14",
+    "headline": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open - ARTnews.com",
+    "summary": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open ARTnews.com",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjdReTMwZ213X1BaWGxCcE5EeFNqbXJXMXhIWHZwemd0bEF4YWtSNWlFbVB6N3o5Xy16ZV84elp4T1J3OS1GUlF1UXhmV1hoWGZHN0phdzFoeWM2Q0xEbWROZlh2dVJZNG1hekkzOTZ4b2RCUGxnbDR3Q3lGNEVpTE45d2Rjd2pfMC1sQ0VzRk14bHFGYk1fTXRVRjdUQmpX?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 00:27",
+    "headline": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
+    "summary": "Take it slower, be more deliberate,” Sharp said. Nevertheless, most said sales had been good for the first part of the fair. © 2026 Art Media, LLC.",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 01:18",
+    "headline": "Art Basel comes to Paris amid heightened protest security - Yahoo News Canada",
+    "summary": "Art Basel comes to Paris amid heightened protest security Yahoo News Canada",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LM0tfdFNtOVRCVWNGWkVpWjZqR1A0RWRJWDBiWks3bW1PajMtcy1hUTZPTFluV0R6cmNwbUhHMF9QaW1ORUtNU09nMmZyUDJVN1NxaVFiS0QtRVhhblBYM014OUNIN0FRNWVYaTJSRHRka3MydFE?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 01:18",
+    "headline": "Samsung TV offers vibrant view of Art Basel works through a masterpiece - Korea JoongAng Daily",
+    "summary": "Samsung TV offers vibrant view of Art Basel works through a masterpiece Korea JoongAng Daily",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWVVOFZGek1KclV3ZlZKLUcwWU5UZnBZeFRvbG5CUzQ4aDlyaVFzajlDS3J6cnVDNk5iSkxPeHZPVjJ5X2hZUEIwVWdBYmJVZ1drc1BGQkNTUDBYV1BvX1ZpS1poSHdXZ3V2VFRCbjlZSEpFZmhjSHdoY1Q2SmtIMHNYaDAzSXY2ZzZMQklBclZEY20wOGtOMXJGMXVJdVpxRW9xdS1QU2NXLS1EaTJSZGdxdjFDWkdhWHVnM2RqcnlpQQ?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Galleries & Artists via friedmansammi on Inoreader",
+    "time": "10-22 23:01",
+    "headline": "\"Lee Krasner: Works from the 1960s\" is now on view at Gagosian, rue de Ponthieu, Paris.",
+    "summary": "__________ Artwork © Pollock-Krasner Foundation/Artists Rights Society (ARS), New York. Video: Pushpin Films. Music: \"Nothin' but the Blues\" by Megan Wofford, courtesy Epidemic Sound #LeeKrasner #Gagosian #OlneyGleason #PollockKrasnerFoundation",
+    "entities": [
+      "Gagosian"
+    ],
+    "link": "https://www.youtube.com/shorts/SwxuyF30A3M"
+  },
+  {
+    "cat": "Market Trends",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-22 22:22",
+    "headline": "Gucci Sales Fell Again, And China Footfall Took The Blame - Finimize",
+    "summary": "Gucci Sales Fell Again, And China Footfall Took The Blame Finimize",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQlBXWHQ1aFgxcVZJUGdRZTBwRGhpSmY0X2ZmWHlOMEQzTGFBRHJmT19XSDZXd2xlSTMyT0FBSXpvTVlUVzVFOTJYV2ZNMG5ZeklVZXZ1MkVDbGRzdU1mUHJZY05GZ0JiVU9hMGRvYVRUTVMzUDNESGNKdEtabGdjandFaG1DeW80Snd1Mg?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-22 22:22",
+    "headline": "Gucci's sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes - KSL News",
+    "summary": "Gucci's sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes KSL News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnM4REVCaGZXNXZpVXZuQjNFaHh2d05kYWU0Wld2UGRmeVpwWmViUlp0V3VwRm9iWDRpVTdodUk0NC1Gak14TC1FYkRaWGJ3WUd2clpxamNVbERDd1c5ZjFwUWFjbFJpSmh3YlFVQ2NFbEVyYVFOWEVSTTBPN19Lc0xISEdpV2ZvWG1Eem9oSDk0UFZnR3BjNmlncG9wc3B1RElHT3ZFMmx5REkwTVRiQ1RJYXY0dk1wVFpmYlR3?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-22 22:22",
+    "headline": "Rekindled Gucci desirability fails to light flame under Kering sales - AFP.com",
+    "summary": "Rekindled Gucci desirability fails to light flame under Kering sales AFP.com",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwWG5nYldtUkdoSDN2QWtFRFhOaEQ2Y0kyZjN4bGszVGg1Z1Z1eHpJanFGaWhUZ21PWXgwclctWEZURmZrUmlVdVZvRQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-22 22:22",
+    "headline": "Consumer Cos Down on Retreat From Risk - Consumer Roundup - marketscreener.com",
+    "summary": "Consumer Cos Down on Retreat From Risk - Consumer Roundup marketscreener.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQajN1Z3g5MUlJRFFkVk92TjFkUS1hRkRDU3IwUGZfUk1Nbi0yNU9kXy1Ud1NrLU5Mb3dLMkJ3Nk9uRFNZVHgzUS1ZMjRXbWhleTFZZGFocDJ2Q3VKVDA3Q2tlYVRjM2dtU2g1RjRFTFBySVJBM0x0bHhfM1NWUjl5azFBZjVuZG9Gei14NVVwc0hsRWlBUjlSall3OVItX3NLblMtUUhia3dCaWcx?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-22 22:22",
+    "headline": "Kering’s Creative Shake-up Puts Its Turnaround to the Test - WWD",
+    "summary": "Kering’s Creative Shake-up Puts Its Turnaround to the Test WWD",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOazV3VkM1VEZRYWJwZnlfck5mSlo1X0syNVZwSEdhRFhwVkRHSGZ1SlZ1Tkx6SHExY3FGeWJuR3d3N0FRN1I5anlZalAtSF9xQmxJS201dG9lTEt3SzVtZ3VueGdFV3FMNDNLbVRiMWdiZUx2Ul9OWUZoMmxPVkdkMTVIWVZzaVdmcGJpZGpvME1NbTNxXzlJOVN6OXdrZGxlWUE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 00:04",
+    "headline": "How AI Is Transforming Personalisation Into Individualisation",
+    "summary": "As customers expect more from the shopping journey — across lifestyle, luxury, beauty and fashion — brands are using automation to create more relevant, individualised experiences. BoF sits down with Klaviyo’s CMO Jamie Domenici to explore how brands can move beyond standard personalisation.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/marketing-pr/how-ai-is-transforming-personalisation-into-individualisation-klaviyo/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 00:20",
+    "headline": "Kering: Revenue for the Third Quarter of 2026 - The Manila Times",
+    "summary": "Kering: Revenue for the Third Quarter of 2026 The Manila Times",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUExBcEFKOVZXLU1QQ0hIeVpnR2pUWENLLVljTVpYS29hYXExdThPWmV3YlQ5cFZWWFUyYUliNHdhbjdBWFpZNFkyNWpOREluYVZ6UUl4QXBma0VzMUFLSzQ1ZEN6a1lwWkExdFhMSWVCRXo3VlFrNmxENlo2Tl9sVnN3OTZZYUwxaUtwMGJiaVY0bzhxVEwteFllX2dFdDMxRmJjN1J5YURNaW52aEVNTENZbFh6LVJkdnlXRDdYb9IBvwFBVV95cUxPUExBcEFKOVZXLU1QQ0hIeVpnR2pUWENLLVljTVpYS29hYXExdThPWmV3YlQ5cFZWWFUyYUliNHdhbjdBWFpZNFkyNWpOREluYVZ6UUl4QXBma0VzMUFLSzQ1ZEN6a1lwWkExdFhMSWVCRXo3VlFrNmxENlo2Tl9sVnN3OTZZYUwxaUtwMGJiaVY0bzhxVEwteFllX2dFdDMxRmJjN1J5YURNaW52aEVNTENZbFh6LVJkdnlXRDdYbw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 00:38",
+    "headline": "The Daily Grind: An Exploration of Teeth Grinding and Relief",
+    "summary": "“You’ve been clenching your jaw so hard you’re killing your tooth. A week later I was trying Emface, a high-intensity muscle-stimulation device that uses electromagnetic waves purportedly to retrain overactive facial and jaw muscles through a course of repeated sessions. She specializes in performance rehab and has worked with multiple performing artists; singers, she told me, get jaw issues like baseball pitchers get elbow ones.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/teeth-grinding-and-relief"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 01:04",
+    "headline": "Too many Birkins on the market? The Hermes bag is losing its exclusivity - Reuters",
+    "summary": "Too many Birkins on the market? The Hermes bag is losing its exclusivity Reuters",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92WDFXNGRPNW1FeU1vbnFidFZMWVI3VmtYdVduVlZQLTlKeDliczhjNFJRa0NURUpIWXVqb0MyOThocHFtdG1rY1hpRDZucmFsQU00V1MtamZwSDFG?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 01:14",
+    "headline": "Kering’s Creative Shake-up Puts Its Turnaround to the Test - Yahoo Finance",
+    "summary": "Kering’s Creative Shake-up Puts Its Turnaround to the Test Yahoo Finance",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaW54SEF1T3JpWGdZOTJTSWpHLVpic0x5Q0NkMHdMdUVoRXYxQi0wY3VOZXJlT1ZEM185SVVfUzBtOU1TSWlIbnd2eVZNcFQxeTJ4UklJQzRxdXpNa25mdFZZRXV6R0RKUFJGSTZHX3IzdkthUWpybV9CcFZadFV4VmU4eF9uSE5LZ2g2QUFMU1BQWWFmVHJlQUtXbmtsX1NoOEN3Zg?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-22 22:56",
+    "headline": "‘Collection of the Year’: Sotheby’s Unveils Blockbuster Blaquier Trove, Led by $180M Van Gogh - Artnet News",
+    "summary": "‘Collection of the Year’: Sotheby’s Unveils Blockbuster Blaquier Trove, Led by $180M Van Gogh Artnet News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEZBRUdCajYtMkFVdThFREJjX1hPeVJxd0Jkd25pMlcyTmVaaGl2dnZyX2F4Z1Q4cElMRHUyZXFCbFJ6M0hQdkhvZXhIc09UOEdIa3VlS25tMlNPSDE5N0lCV3NHNE9nZzFicC01eVNBaTZmTlBBTDBzT3U3ZHRUVE5acExSRDZSZTljctIBlAFBVV95cUxOY19NRGxDc01ENEpsRndSeGFRbjRJZXM3aGxZR0ZzekhqSXAtZFl5eW81dnZPQnNVZkxrOEd2ZnczVHNJVWNudkR6TENpcXpLbmIwTjRlZlVLYm5Samw0MWdjME40ZnlRdnBVdjhxaHdSbTFYWmFnWnV6Z0xzMUhtY0lqSkpzWlFTQVZCYW0tUjhiX1Jr?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-22 23:14",
+    "headline": "Ty Cobb cards a hit in REA auction - Sports Collectors Digest",
+    "summary": "Ty Cobb cards a hit in REA auction Sports Collectors Digest",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Tb1FHeVNCSV81c3pjN3JocU9TRTAxSHpCeEhIMzlJR0VkN0g3WmJoNWE1cnQ1VXBVQkJ3RWhDc0tqaUJMZWFheExnMGItRVVFVmxpTy1BeVdtSkpXN3NRc3RKUG1zZll3R1RGbkNicEk5dFJMZ1BCbw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-22 23:55",
+    "headline": "Monet painting becomes most expensive artwork ever sold at auction in France - Times of Malta",
+    "summary": "Monet painting becomes most expensive artwork ever sold at auction in France Times of Malta",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWl3dW9DZzNoaTJQN3YwcWNkXzZJUlVqcWxuakQtUUZPa0lOTFYtN3M5VHNKOXRFbFpRRXgwVzBmbFdBdjNjZnlxLUY0aWduN093R1VLVldiN2xOWTd6WjExaEZiSDB4MjVwZzNkaVJlZkJsX25QQWcwN0ozTW5DZTNzN0NDcmV1VnB3dWg1RDlCZk1ScTdoNTRkVWwyYjI1WGc5N3VnaE9Sdw?oc=5"
+  },
+  {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "10-22 19:10",
@@ -1724,222 +1953,5 @@
       "Art Basel"
     ],
     "link": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 05:14",
-    "headline": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife - ARTnews.com",
-    "summary": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife ARTnews.com",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzVIYnpCcjhZX2xjeF9Bc2trS2piSVFBM1cwSTNETHNNQkd3bWc1OGtfY1FNWWxTVkszY1lHcU1BbUlzbHVIaE1wWGk1Yll6d0hxWjhsWWE4enRqY2xzbEFyUzFxZTFtU2hRRkJfMkZmVURnR2NwSEl0UFFnbklwUDBaTlpRUWV2RkdaMUQxLWUxVUE?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 05:14",
-    "headline": "Athr Gallery promotes Saudi artists at Art Basel Paris - Arab News",
-    "summary": "Athr Gallery promotes Saudi artists at Art Basel Paris Arab News",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmZaSTdsN0NGekNjcDZvVDF4MXlhSGwwbHAyMGdmdDk5NHh4eDc4ZjB5RWo2NGRqVTZEV1Iwa0xUMzZyU0oydnJpT0ZSVkFtTW9OMmx0VnhSQlViN2R2MkJEM1RqYmdRVTNMWTl3Z2duRzlkUlRpNWZMOUpYeDd6MG5Vb3JVQlRtdG5Zc2tmZHRnRHlyNjZXQ1RMVmZPUQ?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 06:17",
-    "headline": "Art Basel Paris 2026: 10 Arab Artists to See at the Fair - AD Middle East",
-    "summary": "Art Basel Paris 2026: 10 Arab Artists to See at the Fair AD Middle East",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JMDA0US03WTk2bVRJdXkxSk1yTzhZY1Y2bEw5cVNYY2dhUFhSZ1VvWWV4TnZsQ25oYVB1ZGNKbjNwbmtXQkN4Q2JlVlVpYVBhanR3UF90X3Q0N1ZfdXlZM29vajI3amwyN2RFcEYxWmJFNjdiT0RSUjVoOA?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 04:18",
-    "headline": "The 2026 CFDA Nominees and Honorees Are In—Anthony Vaccarello Named International Designer of the Year",
-    "summary": "Carolina Herrera’s Wes Gordon, who is celebrating the brand’s 45th anniversary this season, is nominated for a second consecutive year for American womenswear designer of the year. On the guys’ side, Dao-Yi Chow and Maxwell Osborne, who relaunched Public School New York earlier this year, clinched a nomination for menswear designer of the year. As for this year’s honorees, the international designer of the year award will go to Anthony Vaccarello for his decade of work at Saint Laurent.",
-    "entities": [
-      "LVMH"
-    ],
-    "link": "https://www.vogue.com/article/the-2026-cfda-nominees-and-honorees-are-in-anthony-vaccarello-named-international-designer-of-the-year"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 04:42",
-    "headline": "Luxury Watch Prices Rise Again, But Record Inventory Clouds The Outlook - Forbes",
-    "summary": "Luxury Watch Prices Rise Again, But Record Inventory Clouds The Outlook Forbes",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0NENGM1NXIzMkowU3FGbUV6TWlPT0pHSm9fNkMtcmpqWWZsZmlUUlRmNXh6ZnhYSDdLT0oyeDU5aVB6MlM3Qmxza3gzSVdOQ3R5d0s1ZEN1NlRONmxadl9ObVpISU8zbjhmVjJ6TnhqM2dVMXphcVlZZUlPZlZyMERsNkoxWWFzSmt3bzNXSGJ4RWEzVzJfMV9fZmpyU1FpV0pGVmh4bjdvSUx2ZmJjbG42R1lZRkpHU1JTNXBaZDhLdw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 05:10",
-    "headline": "Cardi B’s Plan to Win Haircare: the Beauty Supply Store",
-    "summary": "For her brand’s retail debut, the rapper eschewed big box chains in favour of beauty supply stores. The Business of Beauty rides along in a front-row seat to her vision.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/articles/beauty/cardi-b-grow-good-beauty-supply-retail-launch/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 05:10",
-    "headline": "Cashing In on the Denim Boom Is Harder Than It Looks",
-    "summary": "Brands from Jenni Kayne to Fabletics have flooded into the category in recent months, but breaking through requires an obsessive attention to fit and a distinctive point of view.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/articles/retail/challenges-of-entering-the-denim-market/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 05:16",
-    "headline": "Chinese Design Is Booming. What Does That Mean for Western Luxury?",
-    "summary": "Now, against a backdrop of economic uncertainty, China’s luxury market is recalibrating, says Fflur Roberts, head of luxury goods at Euromonitor International. At least in Western fashion industry terms, China’s domestic designer market is a mere three decades old, beginning in the 1990s as China aligned with seasonal norms and established its own formalized fashion institutions. The rise of domestic designers in China comes at an exciting time for Asian fashion at large.",
-    "entities": [
-      "LVMH"
-    ],
-    "link": "https://www.vogue.com/article/chinese-design-is-booming-what-does-that-mean-for-western-luxury"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 05:28",
-    "headline": "No Waitlist This Holiday Season: EUROWATCH OC Has Rolex, Patek - openPR.com",
-    "summary": "No Waitlist This Holiday Season: EUROWATCH OC Has Rolex, Patek openPR.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHl1M093RjNTZDVQT1FCYng3dm9LaS1wMF9CVU9Id0pGclNDUXFHaUVTUF8wQm9IbWpvQU4yckZJeXdHRFltSEZ2ekI0YkRVcHdCMnRlZ3I4T0N6dFF1c2pNbm1TSEdhWm5LSFd5bnozdFhFYTRrcXNKbGd0RlIwQ1JXM19hQVN0V0RoX0RaTjNQV0c5TkZtVW02bzY?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:40",
-    "headline": "The 7 Hottest Watches in the World Right Now - Esquire",
-    "summary": "The 7 Hottest Watches in the World Right Now Esquire",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNkxxdFVZWmkxMFVjcmJ0Qm5DV0I0aVRaOURvV2o4NUY4cHo4bVItWDRqY2h4SUR2cWR2d1Y5VkJJdmpwS1ZjSVNRdkNNNnk0ZVA5NERVVm45YnJSZG4zQWhKbl9NZTM2NEp6d3NNa01VUUxwRkNkS21PM1NMVEI2bF8tSmlxdmM3R0lB?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal - Euronext Markets: Real-time Stock Market Data | live",
-    "summary": "How the Hermes Birkin bag is losing its scarcity appeal Euronext Markets: Real-time Stock Market Data | live",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjNLSjNHbWJha01EYjBCR2dzZ282a09ydUdyQWtUb0hSWEFNa0dBaVBzUHRTVk9DTVZSbUdkT3hXZlBPSjJ1OWt6VFNBallKT2hJS3VPdlpGYWx3SFhWTlhYZjV0b29WSEdVTGpQWl9VQlFVVFF4WXAxN0t5UG5iYU1qcTc5dmhFZE9zS0w3MFAxWkxJR0NrbmJoVlQ4MWRDbHc?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermès Sales Miss Estimates in Region That Includes China - Bloomberg.com",
-    "summary": "Hermès Sales Miss Estimates in Region That Includes China Bloomberg.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0F3T1FpOHhrSXBNbUJyQmQ5UmhDak9wd3dPX3VPVEpjSTlzQVRpdkpTNHhrbUhMTGFxYTFkT2tPTVF1ei0yeHNKRHdYMzZUNkhqYWNudWp2dENldnYySjRZWmVyaXh3cU12eWZKVGtsUTFYSjlOdmpLWHdaNXNzT3ZXclJ4eGJxWFFRQ2JpMlFxT2Q3c0E4Y0l6LUxsTGRYRUxPOXltV3VWeTVi?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermes third-quarter growth slows as ready-to-wear turns negative - TradingView",
-    "summary": "Hermes third-quarter growth slows as ready-to-wear turns negative TradingView",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXNSZHIwdkpxQzZONnQ0UHpfZGc1b1RRaDNEU215THJsaXFKUjd6enMyMXJOMU51UGgtNmNXSEZnSmI0Y3JqQXg5Sk8tVVdvQTlNRUFubThzUERQQVNHeFFWQVVWcV9OMzZ2UmhtdWEtQkgwOHgwSkRieEgyM2x2V01vd3A3WFlveEpvLUdHYVdWQkFlbmlvcGJWMmVxUjZsZXBvRm44LUNObERvczJBVzRQUXV0ZmcxME9zUEI3YjNyaHBrZUhLNXUwQUU4eDdt?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermes revenue up by 5% to €4.1B in Q3 - Breakingthenews.net",
-    "summary": "Hermes revenue up by 5% to €4.1B in Q3 Breakingthenews.net",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlZ3MklWdG5TVFZ6c1V3ck9mN0owUDhndEVUU2Z4czcyVGwwOUFuVlJPNzRhNzJqMGVPMDA1dHBxYTh5b2d0R3hWZ3hJTEk5aWhqbjAwRjR5dGQ5SkdDVWpLV1V4d1h6dzZEb2puOF9FMkE1RHItdURjYy04RVc0UGtHSTVzSFRCTk0zZmVR?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermes third-quarter growth slows as ready-to-wear turns negative - Reuters",
-    "summary": "Hermes third-quarter growth slows as ready-to-wear turns negative Reuters",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNelF5dFZmRFNaOVViQVNRdzhkd3JlMWVxWnEtOUQ5RTRkbkgtdzhuV0ozSS1CNnVSa0k0TnByZW0tUWpZcFBRcEYyMEVIVFBwQ0ROckFPN19BNmcwQ2hhbnBoeDN3blhDZHJRMEY5RnBLUExHR2c4LWMwYzVHMU1RWXFTRk9wSVA0Ty1KeTh4YzY4c2FReU1qTG94WWdKUlBKVmV4UEtnTFNvTVRlUGJ3ME16b2k3TDl6MlJPZGRRU2k?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermès International: Third Quarter 2026 Revenue - The Manila Times",
-    "summary": "Hermès International: Third Quarter 2026 Revenue The Manila Times",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVBwdl92d0dkanE3MzFFZTlwUlJsN1J2X3VoNHo1Y3NUaGNYMkZFUUlObU93UGJVcEhIaU1MZzdwRFJwZUdpOUJoaHFOWi1xOGRNbU40aVdGcjlLZmxPb1hRQ0lXWUpVUERZOUJtc3kyYzhPWFlaamRxRzhaNzNRaVlFWG1wUEw5QkNkSzN5bEsxbFowQ0gzQVJZWWJRRWlCRnZCcDNSc3BFM1ZDVUR2dklRc01RWnhGUmxfSVdB0gHDAUFVX3lxTE54NS0yN2R5VkFaNkpHMUFLbVZabVhpMWxKU0xBUDRCRFJlLWxvSFhIMG1laDI1N3lidXhEYTU2d09JRDNHR1dRcnl3RlZtTnA4ajc2SW5jNlNvcFVFdWVyajJzbnNZUDJfMzRDalpIblRsYjAxeHFuZFNKNzdKOHJKOUp3MjFZMm1HdUIwT1IyT2xPbDhFNVloM1lMZkZtYXM4VlBlYnlmRVNBZGdTSC1tVmZQZEJsVmtpQmhhR0xFeU85RQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermes third-quarter growth slows as ready-to-wear turns negative - marketscreener.com",
-    "summary": "Hermes third-quarter growth slows as ready-to-wear turns negative marketscreener.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1ItYTRVcDVEQnM3RVNqN2oxSjdRX3JUT3dZRUxFc1pTS3dqT3ZLc0dXd3JXSTJKNEFVck4zdTI4TTFCMmNRUG41TDRSVS1Gd082TFJUN3ZEdE5GWjNVNEFYa1dZRVQ4eHJORmYweWdZSFd6WkU4MlV0WmVWVUdmSEFmUkJzeEtLMkNxN3QyRkpnSkRsSHFWQ3hlVG8tQkJnOWdDNE9DdktpLV9ndXpRSGhsZVE5Y0NpQ2c?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermes Q3 sales rise 5.5% on leather goods and Americas strength - Investing.com",
-    "summary": "Hermes Q3 sales rise 5.5% on leather goods and Americas strength Investing.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWRuMEJSOFpScU5uNDZaOWp6cFRsUFpaQ1pWTUZ4ZTYxVXJ6cHQ4Y1ljYlk3QUNxLV9PMlo3TzB3WjdfQzJCVVYwa1hha2E3bjRORzUzVS1OZFN1a2RzTzRXd1JYYjN6NXRveTg5YnU4QlJrbEI0SUlCU204R3dDVHlZMnpkdXJUVVdPMUpCTHdsdEpmYlU3ZWx3eUYtSldSSjNNZ2JUN0lxOFNCU2o0?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 06:56",
-    "headline": "Hermès International's Q3 Total Revenue Rises; Mid-term Outlook Affirmed - marketscreener.com",
-    "summary": "Hermès International's Q3 Total Revenue Rises; Mid-term Outlook Affirmed marketscreener.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmZBa3FXRFh6Zi1VMHJ3dFlxZXdUaXVoSkYxUUVqa3VGUWdLdEk4MWF1TXVFVDczY0VINW1DN2VPdkVXS2x0OTAzQ05xR1ZEckdhLWJVd3Q5MERMaEwyNVFCOHE3NllMQy1ZZjVoaU15S2RVd3RZQi1sVU4tOVZZUHRodldCdF92dmpVeGdyeW55QVZkZUIzLUhNU3lkUXM2MG9aOHFfWU9hdW9KVFJLa0tTZVkzclZ4SmF0ZjJEekZWZw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 07:01",
-    "headline": "Richard Mille’s RM 07-01 Gets A Colourful Gem-Set Update - BusinessToday Malaysia",
-    "summary": "Richard Mille’s RM 07-01 Gets A Colourful Gem-Set Update BusinessToday Malaysia",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR3FrcDFrbXVfMnNnMFZ3LW8xVHZXM0lCTTU5UDBhdmhsX3pGZWhDMWg2cmtZUkVTLTgtY25sRDJ0T2dESlBudUdBMXN0UEhya2FvVmo1VVFSbDBsQm93UDJSWUx5OUNGQmdXaDA2c1RSV0V6a29tRXp6aGJaakJVVnRsZzlYRVo3ZEg2YmhhWnJrRFZyYUVHMTBIRFNpVXU5aWc?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 07:05",
-    "headline": "Hermes Sales Growth Slows as Luxury Backdrop Remains Tough",
-    "summary": "Hermes said sales growth lost pace in the third quarter, as hopes of a recovery in luxury demand dwindle.",
-    "entities": [],
-    "link": "https://www.wsj.com/business/retail/hermes-sales-growth-slows-as-luxury-backdrop-remains-tough-c564ed84?mod=pls_whats_news_us_business_f"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 07:11",
-    "headline": "Hermès Sales Miss Estimates as Chinese Shoppers Curb Spending",
-    "summary": "Revenue in Asia-Pacific excluding Japan — the luxury group’s biggest market — was flat at constant exchange rates in the third quarter, compared with analyst expectations for 1.55 percent growth.",
-    "entities": [],
-    "link": "https://www.businessoffashion.com/news/luxury/hermes-sales-miss-estimates-as-chinese-shoppers-curb-spending/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 07:28",
-    "headline": "I wore the G-Shock 2500 ‘CasioNaut’ for a week – is the viral Nautilus lookalike worth buying? - Stuff",
-    "summary": "I wore the G-Shock 2500 ‘CasioNaut’ for a week – is the viral Nautilus lookalike worth buying?",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNckhrNHRkM0ZwbWF1RW1ZejlDaFFISWk5MTdvb0dhdXZXX2tBdFNRUnRBR3ZRQmtMb3NSNU5acTFSVjF2Ulo1UnhJUUIzXzZTaGNkNlV6cDV5d1gwNzB1Z3oyRTM3MnZPaU5qR0xValdCUzNaZjdFaG03UDVIRWhrZm1MV0JlRzQtRlRlRDhvaHdqWERyT1dzcWFZM3JJNGtoVVdRVmJLNWZuRVRvU1V4TUdzWXBQWDNvckFRMA?oc=5"
   }
 ]

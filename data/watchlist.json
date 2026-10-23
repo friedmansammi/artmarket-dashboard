@@ -2,129 +2,129 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+133.3%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      3,
       4,
       2,
       2,
       3,
       2,
       3,
-      7
+      7,
+      0
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-33.3%",
+    "delta": "-100.0%",
     "dir": "down",
     "spark": [
-      9,
       11,
       4,
       4,
       9,
       6,
       6,
-      6
+      6,
+      0
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      0,
       1,
       0,
       1,
       1,
       1,
       1,
+      0,
       0
     ]
   },
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "+50.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      2,
       2,
       1,
       1,
       0,
       3,
       5,
-      3
+      3,
+      0
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-71.4%",
+    "dir": "down",
     "spark": [
-      8,
       14,
       5,
       5,
       6,
       6,
       5,
-      16
+      16,
+      4
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-50.0%",
+    "dir": "down",
     "spark": [
-      0,
       2,
       0,
       1,
       2,
       2,
       2,
-      4
+      4,
+      1
     ]
   },
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+100.0%",
+    "delta": "+0.0%",
     "dir": "up",
     "spark": [
-      1,
       0,
       0,
       0,
       1,
       4,
       2,
-      2
+      2,
+      0
     ]
   },
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+471.4%",
-    "dir": "up",
+    "delta": "-45.5%",
+    "dir": "down",
     "spark": [
-      7,
       11,
       6,
       3,
       21,
       43,
       33,
-      40
+      40,
+      6
     ]
   }
 ]
