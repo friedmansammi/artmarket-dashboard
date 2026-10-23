@@ -1,5 +1,584 @@
 [
   {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 09:26",
+    "headline": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
+    "summary": "The painting was immediately misunderstood. Wood, likely gay, experienced his own failed marriage five years after painting American Gothic. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 10:09",
+    "headline": "5 Thrilling Artworks and Shows From a Heady, Fraught Art Basel Paris - Artnet News",
+    "summary": "5 Thrilling Artworks and Shows From a Heady, Fraught Art Basel Paris Artnet News",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc2M1dUgtRk9ZVy02ZEREaWFBR1N4Vk1GclFFN0JQaDdmTHlQOGo0LVgyTmI2blVmZWh1Q2Q1UGNReWZhUzl4U2hGZWtNbjBRX21WNC0tSTdiN3I3Zm1VQVY0T3lfaC1zVnhGVEtjbFBNRmp2YXpfZEVrSVRTWlViMkpueHZFUEdBazNlalZ6RdIBlwFBVV95cUxNZ1ZIVUtCY1NDcEE1YWVLYmtTUUFzQTg5UXRkUU9yaTJYSHRZOVlBX2ppUVpUbHhhSm9FY2RVWHI0bHJiaXpORmdCTGMyeHUtZTBTd1l1OWp0V2VDakxSUHYxNjNOOXhQNFBjd19CVGFYbVA5aWZYZjZDTU5KQ1daV0ZDVGVXX19FSzBtUTlndVYweWZ3Q25N?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 10:09",
+    "headline": "Au Revoir, Art Basel Paris - Hyperallergic",
+    "summary": "Au Revoir, Art Basel Paris Hyperallergic",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95YXF5QUhQMnlBR3NDN2huaDRBc3FwSloxNVR4aDFHekFwQnFZcGpyRGc2SFNqU1ZfU01oRFNtbms2VHpsVG1adVpieTFpNTVFX25ZakdmVHlCYnZ5c1NwODhB?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "GENER8ION: Surkin and Romain Gavras at the Grand Palais - Art Basel",
+    "summary": "GENER8ION: Surkin and Romain Gavras at the Grand Palais Art Basel",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG5EM2ZRcEVtaEFjLTl5azhid2lmN0g4azVuVFgxRUt5eElXR1c4c1h1ZTdKclE2SUFuVzVVWWtxM2t2ak1mTlFUR2hTRlBhOGNXYkVTSzRkUG5lbTlfTURNTlFQY0Q4WjdSd1g4NHhfa1BvY2F0M2k3TW9aYzJHQXhBaWQzcy1lSzFCZmhQc2tZMkxWMG9R?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing - ARTnews.com",
+    "summary": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing ARTnews.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzRVS3pFQ0NLTHpzN0NtQVZCbW9uSVZHSUl6MnF2My1POWxPWUFudzVNZVVRWWZDdGprVGFsd2xBUGhodlRuWGhwbnRLNENwdzQtT18tUUdRQkhzWXhuOThSNUEyRG1pVlV3cTRramVZWEx5dXNjUC1NMFNIVmx1WjlqTDRCcmNMR0ZyWGoxdjlCTVh1YjhN?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "Paris' Louvre and other top museums will shut down on Saturday over concern about protest violence - Audacy",
+    "summary": "Paris' Louvre and other top museums will shut down on Saturday over concern about protest violence Audacy",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFdnSXQtZkI0QzAyd0NGM2t4dGxsZXRsQmtyc0FRdF9UWGs3Nlp5cnpqZkRnZm80ay1tYjZDZUFaWEowOEt1c2I0c3dVWGljb3Q0X1FUamt1MklTMklBZG50VV84Q3VkSl83UmdQOVhkdE1nNDR1SG5tb0hKOTZ2QmM2QUF6cGIyY1pCQVFHRENXamU1alNNLXMzTzVIeWhxYl9vMktielRoUi1X?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "France Protests Art Basel - The Batesville Daily Guard",
+    "summary": "France Protests Art Basel The Batesville Daily Guard",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTNyRURCT1FzZ3kyTHQ0eEQxSlE1QXY5SUY5S0tiV2sxOGMtcmtSZjFLLXpyRlNEOHpuTlMyVkNNMXlkSzcyd0VLTXZ2SlpodXpwcnc0Q0xucF95Zi1sdFBUQy1qbDVrUlpZWXU0T2k1OVJveEFEbVFBdEtqUVVBTnBHRExSdV9RWjd2WWZYdzFDZ0JzanR6VUUzXzk3WUdqVHc5M0RpN1ZQeVlPY19KNVd3?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "France Protests Art Basel - Post Register",
+    "summary": "France Protests Art Basel Post Register",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVm43d2wzZ09tbVBLTVh3bkZIZHFLZFpVdFdqSjB5VWotSGlFVkx4WTVDbmNyeWtlUnRoanc1dVB3WWlQSDdlZUY5UjRWVnoyRUFIdi1mVlhTcEtaTzlIVzJRdmtXZWRaTmtISHo2WFhqaURSNkVGNnR2eURPUHRndXR3YUtzME1vNnhld0ZFQmw4eDV4OVlNamZzUGtfUWUxOTBYNjgtLUluU1NRaG9YM04tOA?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "France Protests Art Basel - The Herald Journal",
+    "summary": "France Protests Art Basel The Herald Journal",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2s1VXJ5ZW4yLVhoN2xuOEtWeUVqU2pybEx1Y3B2cEJrdy1YYnJETktabFEzRDk4ajFzRW1VODRnemZwcEx6VW4xWXFkRkdwcENwY1JzWFF6OWZQdk5SbHZqTEtsNTQtTkppQU1YTFR4d1JDVExXakRDX2k5WTI2VFlwdC02Ni0tNWVHREoxdjNMeUlsa21tdFlPSURpbXRZdmFTbw?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "Paris museums shut as protest violence fears grip French capital - India Today",
+    "summary": "Paris museums shut as protest violence fears grip French capital India Today",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVd5YTNDSDFjdzFJVkNQaFhZTWlUYUdUWlV0c25qM0otaE9ieDV4bUgzRG1BYV92ekJLdmtDRnV0anl5SzFuSTNOXzI2R0dQNGxpb3JGWXpobGNKNmZQY3lRcGVUR2ZySjN2d2tOaklJd05FNzlLR2hnOFVjblh4UzhYQWdpa0VDT2hIcTlvVVZ0c3dhajhnVS1jc04wSnptbTFHVEIxdkd0ZE5JVE93NzJzTTdweEstMEHSAboBQVVfeXFMTnFXeWEzQ0gxY3cxSVZDUGhYWU1pVGFHVFpVdHNuajNKLWhPYng1eG1IM0RtQWFfdnpCS3ZrQ0Z1dGp5eUsxbkkzTl8yNkdHUDRsaW9yRll6aGxjSjZmUGN5UXBlVEdmckozdndrTmpJSXdORTc5S0doZzhVY25YeFM4WEFnaWtFQ09oSHE5b1VWdHN3YWo4Z1UtY3NOMEp6bW0xR1RCMXZHdGROSVRPdzcyc003cHhLLTBB?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "Weekly News Roundup: October 23, 2026 - ArtAsiaPacific",
+    "summary": "Weekly News Roundup: October 23, 2026 ArtAsiaPacific",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50ZEhYVDJ0eE1zWE1ZLVNLSTl4V0c3V0RPaExBT1NCQVZheTY4ZjZpQVBjWkY4VE8yU25hWVVnU0l0VVFhajRKWHhGRXVtaUJvd2JjRUJMdkZCN2NXVHlKYl8xZlZKTFNPWnozSTZRUWtXWHltLUdGUE9RcjM?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:08",
+    "headline": "France Protests Art Basel - WV News",
+    "summary": "France Protests Art Basel WV News",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMmlqQ1hhNTQzc2djSlg1VFR5ZHB6M3BIc0VLblRQcXVpUG1kYzRvTU1lbmlTeTV3MjE3MVdLWUdUT3l4NFdobmJxTWtSVFZQYWRXMW95Y1JGYUFmbFVndjdZUE96Y0dDUlUyNURMbGhXeG5xcWxxWXZTczBYem5rNUQtemF2amhZUm16ZXlXZFVfQmRWb1RpRDd5cXlRNmxDSEQ2RGNPM19TbkIxRlRsRA?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 11:15",
+    "headline": "The Hyperlocal and the Global Are Entangled in the 2026 FotoFocus Biennial - Frieze",
+    "summary": "The Hyperlocal and the Global Are Entangled in the 2026 FotoFocus Biennial Frieze",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WQ2tPVU1iV1BaVTJwRV9xRmNKUzlkVzdETkNUS0FOWVY1cEhpeUhZeExLX2wzRDVIQmNLSDd3azg0clBNaDBZQjNrMU8yTHZWc2tlOW5RcGt2VVhUQ01WY0oxeEZVaVJPdnVMeWZn?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 12:12",
+    "headline": "Paris' Louvre and other top museums will shut down on Saturday over concern about protest violence - Click2Houston",
+    "summary": "Paris' Louvre and other top museums will shut down on Saturday over concern about protest violence Click2Houston",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTlpuWFQxaDlDTVdkczZHWmltNW5wZktkQ2JXdXVsd3lRMHJ3d3lsY1Fnc2tVY2xWX3licWo4Q2luMTVWSXVBMV8xMUlHQVBtTnR6SVhGUzEyNWZxb0h2ZjdZYnFRbzlBR09tV3l4UGZMNnNwVU05RGZ5dnZ6X3hpNEZmUmxnVU14cXZRZ09kVWpGODY2UC1rY1lLQVhLNDdkYjZkZk1VTHlacmFWeVA2eFdFd0V0QkVtSW5RbEl6cUhKNmpPV2t6d1VKRHFHdURidWVvM0U4elJ5ZUJTTVZnZkFraXY?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 12:12",
+    "headline": "France Protests Art Basel - Goshen News",
+    "summary": "France Protests Art Basel Goshen News",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa19YYkd2VnhGaGFWeUU2dG53RXBjc092RkFRN0IzNkRMN3RNWW5EVWZzOUpjRUdiYWVWeHdVVDZwSWI3ZXdMYkFRSVdreTVEaDlRZ0tVQVRlNUlxOFV6bHlvRGJ6Ykd6cTlTa3NHaHBiTXF6ZEhadll1TmxpNEhabXhPSWREeF9CMGRfRWFtVTFmUm1YOEZ6Szd4SS1HTTc3UzNTbUEyNjYzSmItdGV6OWZHUlJXWHg0Qkln?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 12:20",
+    "headline": "Theo Triantafyllidis on game engines, simulations, and his Frieze London Artist Award commission - Hube magazine",
+    "summary": "Theo Triantafyllidis on game engines, simulations, and his Frieze London Artist Award commission Hube magazine",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd3pqWGFJb3dKZ284Q0JsNGhudWNOQ1E2TWV5RnRrZ0M2R2tNdlQ4RFBzRm9Hek1KY2otWXRwLWR3d3dvRFF0Z0VValdsOWdralgzWEVTSV9VVWU0akdrVVpiZEsxZW0zVjd3aVF5eXZtYXhJOVY5QndFd1VETmtHZWswZ3gzRkh1b3M5VzZhSmRKVlowTnlYVGVjQXdyeUNtbTYtQUVNSWFiX2tjSWctellCR1k?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 13:08",
+    "headline": "Paris' Louvre and other top museums will shut down on Saturday over concern about protest violence - McAlester News-Capital",
+    "summary": "Paris' Louvre and other top museums will shut down on Saturday over concern about protest violence McAlester News-Capital",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM0xJNm9xWmpCbFBrYV9CWHQ3blFHQzV4czZPd3plU0tYcFRONWtTeGhicjFrVlU3Uk9yNmFyZHEzQ1NvakFEanZPaGtoRlI0SG9Jd0hBYmVrclpXU0psQ3FHN2dyZVo1WC1wekF3SUc1ekM5RFY0dnkzMjdjc3ZMT0dHbUQ3c0dvSXpqb0ljUDBkbGJLeXc5Tl9UX09HYjI1NlMyMVVwekdrMEJVclZRZmN2TFVndEJ1NlhGYmkwbW5HY1dDQ2VvNmdab0NqRE8yYnhuaExaYV9nOW1wUE1oWmpNSktxUEl2QlpEOERXRXdqaHhvaVp3UTFJYW0zYzVZXzhaZUpR?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 13:08",
+    "headline": "French authorities deploy 70,000 officers for Saturday protests; Louvre and other museums closed - Ottumwa Courier",
+    "summary": "French authorities deploy 70,000 officers for Saturday protests; Louvre and other museums closed Ottumwa Courier",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdjRGSTZ0LTUtYzhaVFN0b0wwSjZsNTRVX2M1UXNBWUVIQlpDeW1wTUVQOW52a09TalI2eWtSRkhhSHo3cEU5VHMtQm1SVnBsYU5KY1FuWTk5X2tlYXI3bUFVS095YjFVZTQ1ZTF3b05hUnlPSnptOWh3YWJhWkk2VFZ2bElWUURiOE5JbDA0Y2NibV82cWwybXVhY0QtbEY4VVZhdHJIeU9CNkJUYXhhV2kyWFFBZ2lVTk1ZZk9xd2tuaFVQVjUwNEtRU2owaC1GTzBGeHpzSktSOWdsTHBFR0lrc01xdndhZXVWbWNwa2IzejFYMU41QlJnbGdVdDN3Zm9PbVpGd3hzYU4wR1ZFVGFEZTNtTDhCWTR6T0V0OUE?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "10-23 13:08",
+    "headline": "French authorities deploy 70,000 officers for Saturday protests; Louvre and other museums closed - KTVN",
+    "summary": "French authorities deploy 70,000 officers for Saturday protests; Louvre and other museums closed KTVN",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObG5ySjZxTkxsMzlSSDlJTzJ5eG81WEc4RU5sZzdmZnJyYi1UTDFxZUQwYkVObENMNHV3c2dyZk9maFpWck1lWUN4cG85bTNmZzVUQ1F4UFRtcWtFUG9IVDQ5NjlOVWN0R1F4d2xGQ0tRY01mSm9XNXpMc3JLcC1NalJkc2Vockh2QzA5WUw0eFRoMXJjZHhxQ1EwMUR4WTNGUGNPN1dtSmJHVXRXTGMyVFRXN05kd09MRlVDNEZta19DZWZKUVlFekJzVHU4NFp0ckJRVkw1eFZoMHRodUI2REdkc0h6eU9JdWVvMGxLZUI0NTFTTXpBSkkwYkg5VzhaeXYzWEtUZw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:15",
+    "headline": "RBC Updates Kering Estimates After 'Difficult to Interpret' Q3 Results - marketscreener.com",
+    "summary": "RBC Updates Kering Estimates After 'Difficult to Interpret' Q3 Results marketscreener.com",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE5zenhBUGxVSy1vdVk2VGlnZHB4em9mZ0xKNnpaUWNEdDJZbWFyZVVrRjFfcmFIeHYyd2lCRGtaR0txQUszU0pCZFo2S1doMWZOVGplOEVxUGNWak03SGJnZExtcWJLck1mOGJfOE1kZGxFUkxSNXpPNWUwcEV6RGpfSkJhelJxU2gxcUkxR2R3OVJ6WDBzamcyV0d6V2xaNEZzYVhFU3h3cUNWSWM0SXRxQnNmRU5CWEFzMVdn?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:15",
+    "headline": "Kering jewellery sales rise 11% as fashion contracts - Something About Rocks",
+    "summary": "Kering jewellery sales rise 11% as fashion contracts Something About Rocks",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2NQVy1KZExhNFRVelNQM3ZscjV1LTNIS21ZQlhTekZUeWkxbk5HTWIxX2pqZVlkUGN0QVNQendSTkRodnQ3eVp3SFVRMzVPc1E4aFd2VnJid2VSNzEtcUpaTW8xOWJTVU4tcFVObWJkVkdGVmQ0eUtZMUxaSjlKM25CaWdwbk42R3lUcg?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:15",
+    "headline": "Kering Q3 2026: Gucci -6%, shares -10%. What is happening - nss magazine",
+    "summary": "Kering Q3 2026: Gucci -6%, shares -10%. What is happening nss magazine",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13TDhCZmlTVHpXNUdXNHhEaWdtMmRoeklrYzFTRWJEdF9sN2h4dDhabGpacXE2QmlXV0ZMdFFpTVpERTNhRjRDTGdNdkZGZVdSWWNCSl8yUklnajQ1OWJ1OENhNC1tWG9QZFBWRWE0bGFOS2loMTlYVlBB?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:16",
+    "headline": "Kering Drops 12% as Luxury Braces for Tough Winter",
+    "summary": "The recovery long promised by luxury brands seems nowhere in sight, as the expansion of war in the Middle East, along with China’s tax crackdown on ​the wealthy, piled further pressure on the world’s biggest luxury conglomerates in the third quarter, and ​executives buckled in for a tough winter.",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://www.businessoffashion.com/news/luxury/kering-drops-12-as-luxury-braces-for-tough-winter/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:20",
+    "headline": "RBC keeps CHF 220 target for Richemont stock - AD HOC NEWS",
+    "summary": "RBC keeps CHF 220 target for Richemont stock AD HOC NEWS",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeTEwOHI1bkU4bW4yVFVJMDlzTFpfNUpiTWVLTkRFSTBqeXEta2t2RWhDakxXdVRoNGVqRnBUOHMwTVFOc1JpUjVxOUpXWHo5d3BQUWJqUUJuOG9pN0M4LU95V1RrU0p2NnBJVXNqMUoyZVNtWU5qaHJpbVBYLWxXRDFkZHlOTlY2VXd4LU1mRGhJVEpsT0g0UDd6eVJBTTQzdkRicHJzOFo3WTg?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:23",
+    "headline": "Chinese spending curbs weigh on Hermes sales - ET Retail",
+    "summary": "Chinese spending curbs weigh on Hermes sales ET Retail",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1FOLWFtNVpRWlRTMkI1dmtkUU80QmtzOUI0TFU1ZloyNFlFeTBXd1U4T25Gc21TT1hlbjRWM1BTcVVCYkh6QXh4dHlyTWVIaVZNMDNPS2JCejQyVVZjQm5EMFVfZ1lrWVBGODBMbWVoZXJCRnhBbXNVUTA2SHZ1QWJqVWcwRnFEWXlJUjllc0Zpc1gySUt2N0pFRVR6ZWZKUmQtbjM5NmM0Um1PbjBzRHhGZ0c3aGdDZUd1R0QzcDBpWU91?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:23",
+    "headline": "Hermes Agent Explained: The Open-Source Agent That Learns - OrcaRouter",
+    "summary": "Hermes Agent Explained: The Open-Source Agent That Learns OrcaRouter",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rYlBjR1BEeE13U21ZNHY2UHM4WFFZUnZrQnVTUWJRQ1pBNTZYYXVNbFpaaDhWaUJlc3NHeHdVbEwwNmg5NnA4clR2TkY1MDUteVVfcHFIME5nekVJV2ZYbHllRlhUakF5Yk1pckoyMEJRbzVSWlE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:23",
+    "headline": "Hermès International : UBS reiterates its Sell rating - marketscreener.com",
+    "summary": "Hermès International : UBS reiterates its Sell rating marketscreener.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEhWRU0tTU15M3RLcGxHX2RBSENxcVhrME5Zek8zMG9TNllUbnBVT0lqUDRQa1VORG1PNm94UVFaalhDd3dKMDNNSTBhVFIwS1k1OExudE8yWTNYU2xKajI0UEtUOS1USWNmN0tRRUEtWDJKQ2dtRzViUzktQ2RObHRlaTZSNHA4ZFFlNXE4Vm9OWWg3X1dKWHYzdWVXSVVIYXJmd2FLOA?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 11:23",
+    "headline": "Berenberg turns cautious on Hermès as luxury growth advantage fades By Investing.com - Investing.com South Africa",
+    "summary": "Berenberg turns cautious on Hermès as luxury growth advantage fades By Investing.com Investing.com South Africa",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc2l6Q0xEclpkcVlrdXV4WlFvZFRsVTFlcHBrTC1IU0xQYjNhVVoxd3pvV21qYVpTZmpmbk1RaEFSOU8tX256bjE5ZHRLSnJ6amZMR0JQVFZFMHhFbGdENzBDNlRvUHByanZGR1NSbzkyaG5qRnhPZVNNWW5NQUVKTmdQbFEwb2NnUEhzUDFaU29mcDBHbDRBYk1pRE9EY1hVWHlyQkJNcjlhUF9BRmpPX0lzOTVnanJ1MnVWY3cyZG4?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:10",
+    "headline": "Kering shares plunge as Gucci continues to falter - CNBC",
+    "summary": "Kering shares plunge as Gucci continues to falter CNBC",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZEp6QnNRN2s3NTA5ektYemVPbXRqbGlxWElkR0Q1ZzhuWENqZkZrVUNaTUpGNGVHYVR3NHZDSkFqbDJUNnVLeFdSaHVZZS1tVzI4Qkk2a283Q1RKcXBDZGI2Vk5pSTRteGFWWWlNWnRLbFNuUzFNVg?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:10",
+    "headline": "Kering shares drop 11% as Gucci sales slide - Bellingham Herald",
+    "summary": "Kering shares drop 11% as Gucci sales slide Bellingham Herald",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lQm5UUTVBYTR6REtfNlBVVXFfYUpWUG8yRFZwNmNFVmtEcEhJbTFxcXFxLWhRYnBGVHZnN1J5bnE1UmJOVXlXWEZpUy1fUTFqZ3ZIQ1hVUkdubkxzWmRwTDRWQUpXcWl4eVlMWW9DR0hiUFRKRGRJ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:10",
+    "headline": "Gucci owner Kering drops 11% as luxury braces for tough winter By Reuters - Investing.com",
+    "summary": "Gucci owner Kering drops 11% as luxury braces for tough winter By Reuters Investing.com",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUhFa05XamtweUFiU0ZrS2lxOEdHQXVkWWpVWEhpT1JWTlcxR0FXeGhIaTJ1T1BYd1V0NExGZGR3Z0g3SllNb29LdEQ0Vm9iNkdLYmhrTkFFNUY5RUZlT1A0SWMyQVM2WVFKcmxMaEdBXzRUT3hYMTFSeUM4TUVxSnhMWW1QWFI5WTBsMTdPcnZvQXFXMnlaX1JHWGMzRGY5?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:10",
+    "headline": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding - WSJ",
+    "summary": "Shares in Gucci-Parent Kering Plunge as Hoped-For Recovery Keeps Receding WSJ Gucci owner Kering drops 12% as luxury braces for tough winter Reuters Kering ADRs Slide as Gucci Sales Fall 6% Despite In-Line Third-Quarter Revenue Yahoo Finance",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMk9WZFdkV2dKZWhzUXlYY1JiRVhhVUptUXYwSWt6RHVRdE54WlJKNVpDclNxSFB2ejVDYkZiUlJTUU8td00xRjhjeEo2VHdabkdMNTU5VkNjS0laN1ZjVUo3NTF1akQ4SEdpM3F0QTh5M05wWGRSaXRYRXhJa2lhSXZhMHEzaU0zMHF4MzVVOTVRTmh2OXlfVEh5YzJjTWo3cGVEaG94cmdScUJpWE1FYg?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:10",
+    "headline": "Kering: stable revenue in third quarter, Gucci's decline offset by jewelry - Ideal Investisseur",
+    "summary": "Kering: stable revenue in third quarter, Gucci's decline offset by jewelry Ideal Investisseur",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFJXa2hOVmt3MmVmaXdDWVE1Rm5PVUJRRkZmWnM4aGJsWVRocU9Bd3QxVkZ2d1RYc1FiTklCazF5MFdMMXllSlBEVlROYVpfZHpJdkVqa3FXSmpTU0h6c0Y5WmNoUlBYWkhLNkc2enJzRTRBTm1uT055eWV4UTVnTXVwT09JVURPZ1NzcFpNYjEzekowN2dzZG8yX3l1ZWd3TnVUR1A0MDVVQ3ctTHN5NWVFY0t6OXpsTmVUSE9RLXZtYVItSVBpZ3gwbw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:11",
+    "headline": "A Mall Mainstay Makes Itself Over",
+    "summary": "Bath & Body Works’ is the US’ most ubiquitous fragrance company. But to regain relevancy, a facelift — in more ways than one — is incoming.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/beauty/bath-body-works-new-feel-good-stores/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:25",
+    "headline": "Longtime Johnson County state legislator faces challenger again - Kansas City Star",
+    "summary": "Longtime Johnson County state legislator faces challenger again Kansas City Star",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzE3ZUNsTURQQnZWa1JqNzRDZWZfbjhWWkRhT0tidFdPMXdvZlRfZ192VUFNVElmYU0wbkV5aGowRGQ3a1FtWF9EdmRJYXByYXhFQmtua2VPaXdhSURnMG5NS0gxOEtkbFpGUU9zUVlHbTV6OFZHVFc1S1U5WWlyOHA5WXBoQXA5TU12aHRFY3VFYURhMml6Mzh30gGaAUFVX3lxTE1sOWVqVVJlQVFQd0ltd0FSMnBTMjZSdjdDckhNLVRyRDlLX2FyZk9UZGhaV3VjOWJmMHlLNHVHTkxLRl9qWENQT0FmR0xrSjBtVzFUa2pwR1RiUG4yU2tlbnJOWnVMa3BvWUppOENKd2wycG9Jc2hvUlBjdG5TYU1aQXR2MWt6WVA0ai11b2lvaUVBRHM3dWJ6RWc?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 12:25",
+    "headline": "RBC Cuts Hermès Price Target After Q3 Revenue Miss; Forecasts Revised - www.marketscreener.com",
+    "summary": "RBC Cuts Hermès Price Target After Q3 Revenue Miss; Forecasts Revised www.marketscreener.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmlPSGhqM2hmbi13UVRnZUF0ZmdEeVpoZ0VlS1VCV1MtdnJnM28tZ3MxUl9wN2pOUGdNaVhsUzZKQ3BDbTVzcTVLWkRINFJXN2NQSndyVzZ3YjlNNVZ6aFhWQ0FwZlpYakU0cHRtZGh2elE4TmVhY1JFaVQwRG1HTUU4ZkZQNlg3MjlJZEZkTnpWS3pJa2NOSmhfSjAwTUhKVm9iclpOZlN2OElyeDlNNUlXSV9SYnE2bm5KR2pB?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 13:06",
+    "headline": "Interview: Eivind “Edthezilla” Németh And The Journey To A Rexhep Rexhepi",
+    "summary": "But there was one more twist—Németh would be receiving a piece unique . “That was my first really nice mechanical watch, which I wore for many, many years. “The next one is going to be much better,” Rexhepi would tell Németh, promising him there would be something for him next time.",
+    "entities": [],
+    "link": "https://www.hodinkee.com/articles/edzilla-collector-interview"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 13:09",
+    "headline": "Kering's Gucci Sales Fall 6% as Chinese Foot Traffic Stalls, Clouding Turnaround Plan - BigGo Finance",
+    "summary": "Kering's Gucci Sales Fall 6% as Chinese Foot Traffic Stalls, Clouding Turnaround Plan BigGo Finance",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fWEVKNk4tYkdYUHljODItUjFsSHltbGJJdWRnUHh1VXQ5bVl2c0ZvNUh4N1E0c3R3YWpjRTZvZURIU1ZKN1NpZFVIZlU5Smx3elVWWklDTXV4X3lDN1RBMXpMTmFlMUtxdEdfQXVURmtyUVRyWVE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "10-23 13:09",
+    "headline": "Kering reports lacklustre revenues as Gucci continues to drag - Drapers",
+    "summary": "Kering reports lacklustre revenues as Gucci continues to drag Drapers",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWVmMnlIeWxhdXo4N0QwYTk0UEtRUFY3c2t1U2h6UlBJbHhEMG1BTTdOQ2IxMXNMSzA3aUJBMFV4SWVtY1FuRlAxTDg4X2pscFRiRE9TZW9rT0FreHhVTmsxSmxuemdWdjhxSnZpTVdRRF9KUHhZZ1NDcFFram05WjJQRXZuTm1ENWRBSlhrZnBpOWU1QVR2alQ5dUg?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 09:00",
+    "headline": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says - Reuters",
+    "summary": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says Reuters",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0tpMlpwVnZJczZtVDYxSEF0bU9DeGwwQm5LdVhrT1ZXNFFrb2dDcVBtVUIxeWVXaklPdlljNnB6MDlONFMxMC1hbnV2TmJ2YUhZVV9FeC15SnlVSXU0d0dybTg1bjk5RC11cXRyVW1qUEZJeGVsd0RwR1R6UWVxdWVtZEV0OHQzWkRCOHlWLUMwODU1dm5NaksxbDZmOWEzTlhwd3hnN0VXMWZGdjlRNDRSZi1iaEExVEJCck0yZXNYZw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 09:00",
+    "headline": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says - The Edge Malaysia",
+    "summary": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says The Edge Malaysia",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiUi1Kc1hWMDNWOFRDUDEtN1BSSE50ZFpKUEUtTHNaekcwNDJ5QUZGRmgtbXlYajBsYXZSVHMxVWlhdHdvU2ExLWpLTWliVDZlWW5V?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 09:00",
+    "headline": "At Rs 531 crore, Claude Monets Iris becomes most expensive artwork sold at auction in France: Sothebys - The Tribune",
+    "summary": "At Rs 531 crore, Claude Monets Iris becomes most expensive artwork sold at auction in France: Sothebys The Tribune",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQU1SMDhDT3NobmRGcjJyN3oyRlNDRXdwVThyTWJaWEM0UHVWQlNxdkJLQWQ2RXVTMWRaOE9ibjdvNm9POU1Bam9INU9hSE1hb3ozbWU2MmxQbnQ3RG9BTGxHajlxa00tU0lMdko2LUVCbHVYQnZsb3dRSTB4bmxkWEZUV1NLaVdTcFdoTHFqNGpma3ZUbXJMU1FDSWo3SklxbEZuVWZhUGpWX1J4el9wMVM1VHNNUEdGMWNoSDc4cndZczhtM3hlRjR0RWkxWFZMZ01FMTVqdTJ6eFlTVTNkbmhWcDVpeWtLWkFmajhsWXd2R1pSUFhhYdIB-AFBVV95cUxOQU1SMDhDT3NobmRGcjJyN3oyRlNDRXdwVThyTWJaWEM0UHVWQlNxdkJLQWQ2RXVTMWRaOE9ibjdvNm9POU1Bam9INU9hSE1hb3ozbWU2MmxQbnQ3RG9BTGxHajlxa00tU0lMdko2LUVCbHVYQnZsb3dRSTB4bmxkWEZUV1NLaVdTcFdoTHFqNGpma3ZUbXJMU1FDSWo3SklxbEZuVWZhUGpWX1J4el9wMVM1VHNNUEdGMWNoSDc4cndZczhtM3hlRjR0RWkxWFZMZ01FMTVqdTJ6eFlTVTNkbmhWcDVpeWtLWkFmajhsWXd2R1pSUFhhYQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 09:07",
+    "headline": "Retired decorator's Pokémon cards sell for £1.5m - BBC",
+    "summary": "Retired decorator's Pokémon cards sell for £1.5m BBC",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Q3I1Nm1fOW00X1FlS0ctNDVvNHhYbGpoRFRxQk82ZUhzLUJWdUZ3Ymx4b2tQWkxDRU40WTNPM2NWdkIyV2V5WEpDRHo5Rk95ZmIyUDMya2VQNk0?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 09:07",
+    "headline": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says - AOL.com",
+    "summary": "Claude Monet's 'Iris' becomes most expensive artwork sold at auction in France, Sotheby's says AOL.com",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGFKZzNoVTB6UzdmUWktTTU5SUpqNGZidmpiRXp0NTFDU1RxaUlFSFFQTXloMEdKaURaT0VlLUVxdFNmLXd6ZnhONU9CdGQyMVprYnVyZkpUQmZSdGZTb0ZRbm5zeWJRRTg3MXo2eHhUb3RuYmJ3eTJWT08tRUJZUA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 10:04",
+    "headline": "Claude Monet’s ‘Iris’ breaks French auction record as Asian collector pays €50 million - Telegraph India",
+    "summary": "Claude Monet’s ‘Iris’ breaks French auction record as Asian collector pays €50 million Telegraph India",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdDlWRUlHRHRBTWpCeUVBRXhudVJGT0Rab3AzU1FTdWM2S0YwQktUV1Y2YWFrV1FBSzJlRU9GX2Zyb3pkY0lULTVQQkNCczlCME94UGM4OEc1TWYwU2UxTkJCTUY2a2FHYUJlM25qV3NtSEF4bGdMWGlFUWdqeWxBWnZDTklpNUQ0S01ORGtEYXM0YXkzOFNiNVpDTG85cU04RWxuTmFCTDN3V2FuTjJvUXo3SkpMZ3I0Nm01am1hYnAxS2w2d3ljak1raWNtajVGTHfSAdcBQVVfeXFMTUpKOWcwUERFQ1RDelVFb0QyN0J1UWV4LXVZZlZwREZrWkxEZ3R1dmRNU0pxdzkxN2U0cHNHN3VqbVJhTV84ckRNZDBNX0cwUXRvOFVQNFNjMU55NnZjTXNjbklHLWs0ZU85bEdSbHUwOWVQcEZiUnNGV1FrY1VSSmJFcVRwU2k4cHNDeklKZ1h3OVRUNEZIN3lEbG1tVGNJSW50T3hiZXNjVDItSk1mc2Z6QURpSF9rOU40cGdjcGx1aU4zTjRkaU1RX3ZNbzU4NE5LbUFYbUU?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 10:04",
+    "headline": "Average age drops for second month in latest Dealer Auction EVPR - Motor Trader",
+    "summary": "Average age drops for second month in latest Dealer Auction EVPR Motor Trader",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQVpCX2VPNUczVW1aZWZuZmhqTmpUc3hhUEliV1FoRnh2dkx1OUZtVEhQLTJMSVNaQW56d0FLM1JIamgyZkhkMWJuQkxjNUZ0c0FKRDU4dlJfWHZZNDM0TDJkU3ZtQlQ2blRyaDJ1QmhrQUhDVXUzdXZSYVZGWV85TGE5eHpTVjNxMlNDSGJDQWUwYkNMSHNiRDhvV2M2Z01zTW80VHlkZUM2SzRwOUZHeDRHM1Brb1hFTHc0SUFyLVpWVWdBTDBwMlZVTzY4a3BMWjgw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 10:05",
+    "headline": "Never-seen Monet Iris sells for €50 million at Sotheby's Paris - Briefs Finance",
+    "summary": "Never-seen Monet Iris sells for €50 million at Sotheby's Paris Briefs Finance",
+    "entities": [
+      "Sotheby's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOUZYb0VlQ3RYT010UVU1aUlGS01zSDJOTEoxNE5VMng3UlNlelAzbVFndmQ1dEprdDhqcDU0M3lmeHVaNDVvM1FBeXhNTkwzZk01MThHU2RaM21OSTBmbHRjVTB5SGRROThSbzRBSElsR0R6dDJVcHFBUVQ4dDNBdHFkc1QxaGxCYWZ5b0hXRW5DUQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 10:08",
+    "headline": "Claude Monet’s ‘Iris’ becomes most expensive artwork sold at auction in France",
+    "summary": "The painting was one of several works up for auction from the Schlumberger Collection and had been expected to sell between €22 million and €30 million. The previous French auction record was set in 2010, by Amedeo Modigliani’s “Head of a Caryatid,” which sold for €43.2 million. Stay current - Follow FMT on WhatsApp, Google news and Telegram Copyright © 2009 - 2026 FMT Media Sdn Bhd (1235453-U) All Rights Reserved.",
+    "entities": [],
+    "link": "https://www.freemalaysiatoday.com/category/world/2026/10/23/claude-monet-s-iris-becomes-most-expensive-artwork-sold-at-auction-in-france"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 10:09",
+    "headline": "A Winston Churchill painting made in 1948 sold at Christie's for £716,800 in London; the auction house sa - The Times of India",
+    "summary": "A Winston Churchill painting made in 1948 sold at Christie's for £716,800 in London; the auction house sa The Times of India",
+    "entities": [
+      "Christie's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNZ2xlQmVoRm1UVlhyMVcxeVBiUjBtQ29TT2k2VmZCLUNOMFp6bF92ZU5WUmdSaXAyOS0tVTd6R2ZncWN2VlFDTHphY0tRLUdScTkzSldDSERuODhUOWVOLUZrVnNYSVNSRWVsc05JLXZEMngxR1o5MU1DcXg3MmhDb0tIQ0ljQUNraW5RMHpkMTNlWEJidDVVVy14c2NpNUFLNVQ3TU5Rbl9fdDVxNEloaHVNMkM3UC1LTmdVeUNyWl9XbFJ2ZE1tNDE2S3o0M3FXejdYVGtjM2ktVzRfUUNBZTY0dmNSUnRlSlFNNHZ3RTRjd0sxeG9pN1JnWTJCSjUyZ1BSMndZZ3RRTXdLR0NYUmlDX2h1cTRBYkhXWE1yNUpfay1qcmp3UzdTRkU5azFTVGRIaGNPaHZXT2FVT0hvczZZa09FN19EeldLTEVDX2xvUVZjakg4ckRHOGlnaHdmSU1hNjctcG9SUlRzanRMUXF1TnMzYUVJOXBOUDZLMWhMTTJQM2UyWFZfVWNNS0pYQ1pXVNIBmgNBVV95cUxNdVVoRzEwS1VuRUlibE42QThzdlhWTnpUanNUbGswN3JOZ1JwSnZnVWhCeDNldERpVlZsWkdqTDdWUWVPUHhubHhnMGlBSGtiT0xGdnYtSVVBZXlEUTlGcHdRT1lCeWVna3dZMnRNaFVrWGlGOF8xMzgtSTJqRGJsQnJQS1RjWm5BdTRyM2lWX1pQWWl4U2hYUEJGbG1NWUowNlJZWlZmM1VKZ3NGaXZ5M2h1SmxQVVBTQkZJcEE4TGY4SWgwY2ZoMnJ6ZjNhZi1hWms2d0VWYW1vZDRzUExwSWdDLVJFU3d3NjVtb0FTaDZoZ3VwakwyZVdMRTl6R25SZVU3akNXRFUyWjg0SzhJMFc3ODZaN0tRWk9vN1FoYzhZM2xCQWJNNE1VWC1kSTYzMFdlZXBJSWNOQVpkZjRoQlJVYThxVGNVaXZVSlpPeFBOSEY2dE92aVQxSVhvYUJSdXY2U3EzYURpSTdlQWd5WmtPbnRrcThfUW9HcDJ0U1hyYWpTQmszNi1wZm4yTGJkdUZWNWFqckFvZw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 11:04",
+    "headline": "Government Stock - Full Auction Results",
+    "summary": "Government Stock - Full Auction Results",
+    "entities": [],
+    "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63853"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 12:03",
+    "headline": "This Bicentennial Quarter Could Be Worth $20K - Plus 9 More Worth a Small Fortune - AOL.com",
+    "summary": "This Bicentennial Quarter Could Be Worth $20K - Plus 9 More Worth a Small Fortune AOL.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanV2TEdzdm1oZ2FqWFc0RzdNNTdaaGxjeFJaMzhsNXZzV0c0NWFRTVhXU3czNTlWU0w4S1d6ZUxMY3F1dDFuOWRZUmZwLWhfM1M5Y0FFVGtScUtZeW9EZUJOVF9aTy1Ha3BnM0pwMlpQUkMzNjRrSk1uRk00am5lRjJWeVBOdlk?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 12:03",
+    "headline": "Monet’s 'Iris' sets French auction record, far exceeding estimates - Middle East Online",
+    "summary": "Monet’s 'Iris' sets French auction record, far exceeding estimates Middle East Online",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONEtLXzE2S2w5YmNsZ0V6S0tnMnJHZFVESmJhb2tlM2Y0YjRoWTdJSFdiV3RkOFZrbS1GMTZvd09USDlpdGpxVlBRU2xyZm1HZU5mYzM4WElXQVhRVHh4Ui1QVkRUQ21ZUGNraHVoMXFtWGN5dFY1TG9xdXdNY0RGeHJHcEk4RF9jeDIteWlIWTRzSTBIN2xkcXpqLVVBa3NyaHk2dXBnZGo?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 12:14",
+    "headline": "Barely Driven Ferrari 499P Modificata Heads To Auction For Over $8 Million - Motor1.com",
+    "summary": "Barely Driven Ferrari 499P Modificata Heads To Auction For Over $8 Million Motor1.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGp2R2pDcFFSS3Bjbzg5aW51NE9CREx5NkJHaXRTZ1M3WTNRbkJVb1ZGRUVxNl9YaXc4ZzE3c3I5RGpacG5PYlRRSDFxOWx3WXRBeW9qU0xvcjJCQV9KOHc3SXQ5TXE4UVFaSWlSeXVzT3dtRlh5NkpWS0hyd1hLZVhR?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 13:03",
+    "headline": "Collectors’ cars are increasingly worth millions - Il Sole 24 ORE",
+    "summary": "Collectors’ cars are increasingly worth millions Il Sole 24 ORE",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkdueFBPWVVHVHM1dGhWenVuNmRnQ1NMbE1qS0F2eGVhd2NwTWJWNERiSEFoaWIxUWJvWG02dWVHaEVCRVR0UmJEWGxnY1V3VmZIVWNwaDBlaWNraENtQ0p1M3ZBSjBscjl3RVhTQzlyR0pBTmlCcFRobnZoWnpYOVlKNjNlMEgwWW5WU0t0NWpJR20xdUdjWXRlT1RsRkZhUHJ1UFA5aEU0UzdtVXBn?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 13:03",
+    "headline": "Collector buys £18k Pokémon cards in record auction - Yahoo Lifestyle Australia",
+    "summary": "Collector buys £18k Pokémon cards in record auction Yahoo Lifestyle Australia",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZNEUwOUhhUElQMmRlNjFMVE5VaFVrRDBpeHZ5dWhXeXN6N3ZRVzlTVVNNeGk1bnFmWTZTS2VubU1LZ3B6R2VWR2lzdXR6OGpLWkJDX0E1cmp2aUdxSmduenY4SGdlc2twalNNeHhfaV9YNEJlV2hwd0hDQlQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 13:03",
+    "headline": "€50m Monet Becomes Most Expensive Artwork Ever Auctioned in France - Ocula",
+    "summary": "€50m Monet Becomes Most Expensive Artwork Ever Auctioned in France Ocula",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZE8zLU1RZGlEV2ltYnJNeTFfbkcxN2dzNHJGazBGOUpseUdfRm5MRUp5WUVmUXZOcGNXNllvcURSVkhJTy1hQ1IwWnFwazRyOGpDdnFidXRZQllaQzg3QXoyMTR1WnExSUdrQkFhWDUtR2hRNjJTcXY4UDNiOWRvQWVTeUJBNUZ2ZEpn?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 13:03",
+    "headline": "The most expensive painting in the history of French auctions: Monet's \"Irises\" sold for $56.2 million - LIGA.net",
+    "summary": "The most expensive painting in the history of French auctions: Monet's \"Irises\" sold for $56.2 million LIGA.net",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTR0bm41RzluVTZpZXA1MmxTWDFCNnVwUFRTazd3eXh6UzRNazJORGN4RFFfZGFuRzNka0hQYmNNTUZXSzU2N2hUeFF1Z19WbUFiaTVhM1p6c3c5X3N4NEN6TFVObXdEcVlnX2FiTlp3YTBnclRwQVdqblJTLUtnWUdfWklpbEdrZ3hHc25ZTjZadUZEbldUVVdhTnY4VzV2VFJ0WWx2TFd5ZDhtb3BVY2lac1ZhZ0QzalQyWXg1TEZlSnJzck5YVWxjQzB0NFXSAdQBQVVfeXFMUDZwVWhGaUdtM2VEblhMMjlZVHREbVhleUNITm0xdFl3SlpqOHZtaDFWNnFPSmFCSEJUT21oNEl0MWdXQWpJSnNqdnhPS3JkRmc5LTdwMGlsZG9ZQ2NUeEN4QWVUMy1yMXltUzkwYzlRS29jNEZTT1ZHY1UySlk5dUx1X0RDcFNRSWZSTDFXSWJMb0trX25fM05OT1pMVWl4NDNsZnZGdEtjUjlzS1N1ZGx2ZFFqR21qeG1PVjFJQVRzdjR2d2ZnVE5DZjhpZE5fOWxJUjQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 13:09",
+    "headline": "This Ancient Roman Statue Is Hot with Young Art Collectors - Barron's",
+    "summary": "This Ancient Roman Statue Is Hot with Young Art Collectors Barron's",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVJmN0lVU1BVQjZiMnNWSnptTmFfSENaU3NObDM5V3QtRloyZnphWFc1WHpYekhYR012NXVvZnZfVlVkX0ZwTF9MT2huc2tBVjlRb1dGUmpuaE9pYTRmaHZWbXV0TWdpalBOOE1vdkx0V0J2WW9IYUdvMEttcjM1VGVOVmlySjRHRUs3VmdUd2JCTlBfNFpBcWRzcmYyWXNpcHFQMVJXSkdYWGJhR3NDQ2UxNjlpa25RSThpRDNR?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "10-23 13:10",
+    "headline": "This Kandinsky Work Is Primed to Shatter the Artist’s Record - Artnet News",
+    "summary": "This Kandinsky Work Is Primed to Shatter the Artist’s Record Artnet News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUEpIREh1YlItNy1UclcyRFpPT1NVQjFNakNSMW9aQ2wwSXV2MzdvdHRSdFZ4OFRJdFpzeXNVakh5UnVBcVFDYkhRbm5uMGJHTjFNTW1sRmhucHNsS19iZjhJRGlGSkM0dGRlLTZTZ080b1VSS1ZQbW1MXy3SAYQBQVVfeXFMTjZJRXpUcnhBdVpURDZkV3pFSnF3RVJhbVlQb1pQYjlOdmxscnpqazFmTF9aMzFUZjdMWkc1c1ZkaGRycjZyVmVGVTZqTkxqbGtadm9QMG9XYkwwMExFN3d1MWZaSUt5aEJkTEpCQWZ1bWN1NFVFUVFWNVZmUy1CSXRvT2VP?oc=5"
+  },
+  {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "10-23 02:21",
@@ -1370,587 +1949,5 @@
       "Art Basel"
     ],
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck1fY2oyNW0wbWs2bHRKbU9pZUF6N05SeTI4OVhrYnV6YlA3UUpVWG9XaXBzdTVDWEEyak1LaWI3U2hsV2ZlVVlJazhvd01UajU4V1h4S0U2RDFYU2g4eEpYSEVYZ2JENmdVYlJlRWNCbHNhUS1JNURseGNDR3dUd3JFNmYwNFk?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 17:08",
-    "headline": "Art Basel Paris Ends Early, Fondation Louis Vuitton Shutters as Protests Loom - Artforum",
-    "summary": "Art Basel Paris Ends Early, Fondation Louis Vuitton Shutters as Protests Loom Artforum",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVhoeEI5dDJoQXZuQ1ZqcC0zTjVZblFDODh5TlRxZkJXQWhjZjdIaHZONm1ZZ1hVT0M0QVh0WmN2ZnFkTUF3QTN4VmM5UFI1V0lKeVlzOE1RQkotQ0dDTENHWkxyQTVQVHpIN1lxZEZCUFFzQ29lNXRxeUh1V0hONXFXeVNscFYxWGRiQUp4c2ZCZXNHT2pyeWZVSF91WFZvbEY0?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 17:08",
-    "headline": "Art Basel Paris Shuts Down Over the Weekend Amid Protests - ArteFuse",
-    "summary": "Art Basel Paris Shuts Down Over the Weekend Amid Protests ArteFuse",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaktWZklwcVdVenNHSUZMWWRpQ3VvVkRGcUw4Q0t5eUhNQk80c3psUkJmSlJGeWI3bV9BckRkbUJ5SXJJRXBXMmpWd2RSdFRXTmJOeXlyako0SGFwUldZVG5KMFlpNVhEUEpGLTZzQnhLdFlTQVEwa3pQOWxoblNQSUVPZGRpQQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 17:27",
-    "headline": "Historic Globe Used by Dwight D. Eisenhower Broken by Pete Hegseth’s Staff",
-    "summary": "Eisenhower during World War II was broken when Pentagon staff tried to move it, according to The Washington Post . “Instead, Hegseth’s staff dispatched its own team to relocate an Eisenhower globe. © 2026 Art Media, LLC.",
-    "entities": [
-      "Sotheby's"
-    ],
-    "link": "https://www.artnews.com/art-news/news/globe-dwight-eisenhower-broken-1234803551/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 17:27",
-    "headline": "Three Paul Cézanne Paintings Pulled From Sotheby’s Schlumberger Evening Sale",
-    "summary": "The three works: La Ferme , Arbres au Bord de la Rivière and Ciel Entre les Arbres , carried a combined estimate of $1.57 million to $2.24 million (€1.4 million to €2 million) and were painted between 1862 and 1864. Bompard added that the three paintings have “an extraordinary connection to Aix-en-Provence. © 2026 Art Media, LLC.",
-    "entities": [
-      "Sotheby's",
-      "Art Basel"
-    ],
-    "link": "https://www.artnews.com/art-news/news/cezanne-paintings-pulled-from-sothebys-schlumberger-sale-1234803564/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:08",
-    "headline": "France: Artists and collectors gather at Art Basel Paris despite unrest - Yahoo",
-    "summary": "France: Artists and collectors gather at Art Basel Paris despite unrest Yahoo",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkc5X21sbmZVOEE3VURqbXFkTW5lWFh3RGsyN2NTc2ZOQXZqVkR0REE2OEJhNS1reVpLWVV5LVV1aFR1R1hQbHFQaGdpOGNrUnQ3LTRIM2EyalJsZnBPWFZyU0J5MklsR3B1TklsaDQwNTA2NUVSbEtzblVSRENLZC1ob3JBbk52Y2dGZkN4X3JqUmlTbjZWbg?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:08",
-    "headline": "Amid Protests and an Early Closure Announcement, Art Basel Paris Finds Buyers for Its Safest Bets - Observer",
-    "summary": "Amid Protests and an Early Closure Announcement, Art Basel Paris Finds Buyers for Its Safest Bets Observer",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckxRaXlQZ29rakhUQ1lBQzFFUmM1LTZmbm05RHphXzZqMU14UTdCaDVKSi0wM2ZYbkZUUzMtd216V0VxRS1raGpWZnFoWVNGWHpuQi0tV0ZyZ01WVWlEdHhhRjZiM0RJY1dEamM3Z0l1T2F3MUt0WG9KZVE4Rm1oMjJjaEQ1aXhiNlRORkRZMF9FcWM3d2NWdDZRUWRLR2c?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:08",
-    "headline": "Art Basel Paris 2026 to End Early Due to Protests - Hypebeast",
-    "summary": "Art Basel Paris 2026 to End Early Due to Protests Hypebeast",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT0E3X0pHdHZ4RGc3ZWZrTWhJT3NESi1IZS1rR1Q2QUFScXhmQjRaY0NESWd5OUQ5ellkRmhyc3FUYzQ3WktwcW1NYnNJUU1MNWN0MUNELTN5YjdBUkRNMUdlS3NELXdGcXNsSWpxM3M3UXFIa3prN1RhMXBBc2lzNlFn?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:08",
-    "headline": "Art Basel Paris to end early over fears of unrest - Le Monde.fr",
-    "summary": "Art Basel Paris to end early over fears of unrest Le Monde.fr",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTJFU3FpcXhhYkM5OE5seEtwU0tURS0ya2V3X1BMNXdFczZUYThmRlNseFlqbjJoLVc2ZjZCcGxYMUdqM0hwQVdUSl9fOC1MblU5alFnVmpIYllyY0Rkb2FkZ1dvZjFnRTVTX090M0dhV2hMTWpaLTNfQV84UlpfbEZfQ0l0SGZmYk9YSTRxQzVhQmRIcjhqbjZKWS0wcGd4VG9SQjcxWWVtSEVPSGlSNzhLcy1xdmVDbWc?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:08",
-    "headline": "Art Basel Paris Is Removing All Outdoor Sculptures - Hyperallergic",
-    "summary": "Art Basel Paris Is Removing All Outdoor Sculptures Hyperallergic",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWTA0ODNnSzJYU3lCRWlJVlIzMUhOZVpZNVZBb2NUVVY5MTAtT1BSSGZyYVdEVlhGa1lHNk12MU5CS1pvajJPNmkzNllVVFAwYkp2WFJ1NW5JUlFDOXkwaDZCelI0cDhyOUVxYlRMM3FjUnp5UGIxLUJmVjNzcllsSTVkMA?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:30",
-    "headline": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing",
-    "summary": "I come from a background that is largely in ethnographic film or related to ethnographic film and anthropology. There are images from a Chris Marker film, which are more ambiguous, and then you have images from Pedro Costa’s film Vitalina Varela [2019]. In [Sans Titre] , there’s music throughout the film.",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://www.artnews.com/art-news/artists/alice-diop-miu-miu-commission-interview-1234803570/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 18:30",
-    "headline": "Questions Raised Over Maintenance of Frank Lloyd Wright’s Taliesin West Home After Death",
-    "summary": "Related Articles Frank Lloyd Wright's Taliesin West Home in Arizona Temporarily Closes After a Man Dies Phoenix Probably Shouldn't Exist. ARTnews has contacted the Frank Lloyd Wright Foundation for comment. © 2026 Art Media, LLC.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-home-raises-scrutiny-1234803559/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Galleries & Artists via friedmansammi on Inoreader",
-    "time": "10-22 16:38",
-    "headline": "Rauschenberg Foundation Publishes Digital Catalogue Raisonné",
-    "summary": "The Robert Rauschenberg Foundation has launched the freely available digital catalogue raisonné Robert Rauschenberg: Paintings and Sculptures 1948–1953 on its website today. Related Robert Rauschenberg Foundation Plans to Sell the Artist’s Longtime NYC Home Robert Rauschenberg Foundation Estate Sold to Florida Resort “He was absorbing influences while resisting the idea that he should follow an established artistic model,” Jackie Foster, the project manager, told ArtNews . Martin, executive…",
-    "entities": [],
-    "link": "https://www.artforum.com/news/rauschenberg-foundation-publish-digital-catalogue-raisonne-1234761920/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 17:33",
-    "headline": "J. Mendel Spring 2027 Ready-to-Wear",
-    "summary": "(The designer has not been associated with the brand since 2018.) As fur declined in popularity, Mendel adapted, officially introducing ready-to-wear in 2002. Cohen’s remit is to work backwards from evening into day(ish) wear. Fur-paneled separates felt heavy; more viable were flowy pieces in printed pleated chiffon.",
-    "entities": [],
-    "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/j-mendel"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 17:37",
-    "headline": "Richemont, Signet weigh joining De Beers consortium bid - Canadian Mining Journal",
-    "summary": "Richemont, Signet weigh joining De Beers consortium bid Canadian Mining Journal",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczJjYThxNVZwZ0FnanhBblVrYVV2bmJPYzExWU1YdGN1c3VsbU1pRzlKaDNnN1huS1lSc3dwNnVLV0t1RmxFRVJabmNQRXNnTGw1VzBxN3cxbjF3OGJ3Nk5PN1FjRnk4dFlFQzJWYTltb0Z6Y01ubVh2WUMzOHVvb0F1c2kxUHhGVnFKZmlsd3FaajI1eElUeF93YXdsUDA?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 17:49",
-    "headline": "News | Financial Conduct Authority commits to Leeds offices hub - CoStar",
-    "summary": "News | Financial Conduct Authority commits to Leeds offices hub CoStar",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWpEZUo0ZGIwVFhGSkhTaWc2czNYd0Q1OGl4cmpIbEZIcXV3dGRiQTV6UHV6UDNWZmZoc3hhVWVfdU1IMlFfZ09yTW9qcWpheHJMVWhHcGI0dmNUTFlMOUZ6bl9PTlVDRVZqMW14TThDZFlzY241cnRiWjhpNzRzVU5EQ0d0ZTRyZlVPd1NWZzd2TWxQR3dsVHBMUmZwUQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 17:49",
-    "headline": "Spotify Rallies on Subscribers; Hermes falls on China Sales - Stock Movers - marketscreener.com",
-    "summary": "Spotify Rallies on Subscribers; Hermes falls on China Sales - Stock Movers marketscreener.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNkZUaDQybFk0QWl1VmUteXlSaGNDZkl4NFR1OTNnYWdhSmJuU052LTY1eXAzNm02bnJxRE1wbXFXRDFEdW5jVml5VUNaUmdKMGViY2pha0RFSGNSbnpTcHB0UGk2X0NRUU1LLWVQX0ZmcTV1OENOM21GeWJhWFRMeU1CeGdCSVhub3dvWXR2WWZiMHFOcFo3dlVxTXNiVXlaZW90bkdnbGZPY2h5LTVycTZCUEIyUWViMUtxQ2dPNGJIUQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:00",
-    "headline": "Kering Sales Fall 1% in Q3",
-    "summary": "Reformation Spoofs The Big Short ’s Bathtub Scene to Seduce Investors Bottega Veneta Appoints Romain Spitzer as CEO Swatch CEO Nick Hayek Addresses That Crazy Royal Pop Rollout Shein’s Hong Kong IPO Approved: What It Means © 2026 Condé Nast. Vogue may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the…",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://www.vogue.com/article/kering-sales-fall-1-in-q3"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:00",
-    "headline": "5 Best Shampoos for Hair Loss, Supporting a Healthier Scalp and Fuller-Looking Hair",
-    "summary": "Hair loss is stressful. What are the different types of hair loss? But are they worth looking out for in a hair loss shampoo?",
-    "entities": [],
-    "link": "https://www.vogue.com/article/shampoo-for-hair-loss"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:00",
-    "headline": "The Bride Wore Handmade Silk Organza Flowers in Her Hair for Her Creative Wedding in Marrakech",
-    "summary": "“I had always pictured a classic courthouse skirt-suit look, but with a mini skirt,” Pam says. “Michael draped it on my body to get a feel of the look,” Pam says. “My hair is a big part of my identity,” she says, “and it felt best to pair it with the more airy look of the welcome party.” For her ceremony look, she was certain she wanted Christopher John Rogers to design the dress.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/pam-nasr-something-bold-something-new"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:00",
-    "headline": "Rag & Bone Pre-Fall 2027 Menswear",
-    "summary": "Take a pair of crisp poplin pants. Another set—in Prince of Wales tropical wool—came with either pleated shorts or pants (sets were a big theme). “It’s a little bit tighter,” Hutson said of the collection.",
-    "entities": [],
-    "link": "https://www.vogue.com/fashion-shows/pre-fall-2027-menswear/rag-bone"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:00",
-    "headline": "Tao Tokyo Spring 2027",
-    "summary": "The models’ cloud-like hair was topped with straw and foliage, their clothes decorated with botanical embroidery in collaboration with artist Hitomi Mori (whose work is worth seeing up close on Instagram @nuimori1). “Saying this might make it sound like my previous work wasn’t like that, but this time I really felt I distilled everything down to just what I purely, from the bottom of my heart, wanted to create.” To Kurihara’s credit, the collection wasn’t mired in sentimentality or nostalgia.…",
-    "entities": [],
-    "link": "https://www.vogue.com/fashion-shows/tokyo-spring-2027/tao"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:22",
-    "headline": "Thief sees Swansea family are out on social media, steals Rolexes and £48k - BBC",
-    "summary": "Thief sees Swansea family are out on social media, steals Rolexes and £48k BBC",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VY3lXZ2FhWC1tVDVaMjVPNlY2VV9VOXZVSm45QWhGWUdYQkhEYjNBck1Jbm9PamFJV3FxeENObGlIZE4wdFBKZjhQcDQ0aExoanVZcUpuNGlBM2s?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:22",
-    "headline": "Thief sees Swansea family are out on social media, steals Rolexes and £48k - BBC",
-    "summary": "Thief sees Swansea family are out on social media, steals Rolexes and £48k BBC",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hUHl0eHI0dWdNOXg3QUtzNXFmel9iaU9mVWRReWhPdkU5dlMxVjlYcmFEVUk5VjhULVRLcUFtSExDNWVGNElCMjRyLTczT2tyeGFpbl9PVXY1QnluNkE?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Gucci’s sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes By Reuters - Investing.com",
-    "summary": "Gucci’s sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes By Reuters Investing.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1ZlYlBXNzg0cDA4ZkRTMS1FOEZkQmZDVGpUM3NFYnVqeTN0endUSW5NcmxrMmJlU1BxeHpfTERrQlIyeVdFNUxTSlFpWVdSSDU3TzZxNHhaZldrRjAyZ3RfRzVLSG80aDhkY21pTTdWWU55WHdpSkNPSXdzU3N3eWhpZmtzNno0eUh0WW9PUzZ2dHdRbk01cWhVRU1TalJVTlhwTDJkSXQyQWc1R1JtaVJITUNEN2ItMnQ1NDdESDYzVTFOZXk0aUdTVjdZcjlUODM4VGVmb3Y?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Gucci’s Slump Is Testing Kering’s Turnaround Plan - Finimize",
-    "summary": "Gucci’s Slump Is Testing Kering’s Turnaround Plan Finimize",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXE5aGJQVWhUaDdIdDlab1I5VVBFSTNXLUw5OTFSbGxUYVhWbEJmLVdXV1ZWWUFnUEZRbkFGYktjNFdCakw3Z1F0UFpIZmRJOWxSRWJENjJXb3ZvaG5zUjR0SjFZUXNZaDhkSXVPeGJfMHFUcmxrZGJEUmNpUFN4czBn?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Kering SA (PPRUY) Q3 2026 Sales/ Trading Statement Call - Slideshow (OTCMKTS:PPRUY) 2026-10-22 - Seeking Alpha",
-    "summary": "Kering SA (PPRUY) Q3 2026 Sales/ Trading Statement Call - Slideshow (OTCMKTS:PPRUY) 2026-10-22 Seeking Alpha",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWNJSEFDd1ZSYkJCMEI1dUJhTEVPUXZUSnI3X2dONzBEakNRaWRhMUxyMmcydzRWMGNyQi1PNVBnUC1aMmpkbjlWOWQ4aGlFNmp1c3o3SWpzdk9iWmRkZnU2bTRCR3lSWllIZ19MdHhLUl9WSHA1Zm1uRzZhY01DQmxBdEVUTGVEOUdISjZBYUZZRDNrU0hHRzRndHozbHllajJ4c0ln?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Gucci's sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes - www.marketscreener.com",
-    "summary": "Gucci's sales drop 5% in third quarter as weak Chinese demand dampens turnaround hopes www.marketscreener.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWVXeVg3cl8xb3ZWSWUtbXRjeVVETWpQR0FaVjZWUmxQOC1VOTkzMERkT0RZQ0tiX0dESV9mTDNSYktyYjBSTk5aeFFUeVRBOXJodGRWOEhhalA1SUFYQmtsMnFNcmVkWnJrSUZQNVdTd1MzOU5QdDh3QkU3b1JQTTdKb0RaZVhHeDFqazFDQ19wazZuR0NybFFPWHBKb29jNHhmaDZsYllGWWxQTmxJOS0yeWJTQ2FGRlo3c05uSXdEX1pTZWhJZ25NNnI1TTJSNERsTw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Kering Sales Fall 1% in Q3 - Vogue",
-    "summary": "Kering Sales Fall 1% in Q3 Vogue",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42RnVaWHdvbUtsWi1pZVZwZ2xiQ2hNb2VJOHd6ZmxRRFFNWThiYTBLSkhpYWt2dGFvS2RYZ1hraHUyMF9ndGJEX2lJcUd2NmR0QjRYV3JvUUNoQzBpYVJlbk9wdXNNUQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Gucci sales slip again in latest blow to Kering recovery plan - Central Oregon Daily",
-    "summary": "Gucci sales slip again in latest blow to Kering recovery plan Central Oregon Daily",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVUFEeVUwZ1VXdzE4dlo2elVIdnlsazByakx3ZW5yRzZpQUp3dGhaSXhUQ2NBU3gwM1JRRUxXNlJMdENzMTZsWVJPeEJKYldtZ0RrSFFRT3ozMUlQOVlXTVpqQTBVTXVJdXMwc1RwNGJvbU5MaWNtbkxCdE5wWjNhN0RFNUdTVldFQ3MxN1IzNklva2h5Y0JGc21KX2RPRXFTTU5jaGtuR0tLQ1NPbGpKTmRPZEo4QXBNVHFHNkFvQklzVlpfMVliQ1Ztdy1fc0NNSzhPVWJDUEQtSVI3LUFqbHNXTjFWdjZaZlRtSnY3LXlJUQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Kering Q3 2026 slides: Gucci drags as jewelry, eyewear shine By Investing.com - Investing.com UK",
-    "summary": "Kering Q3 2026 slides: Gucci drags as jewelry, eyewear shine By Investing.com Investing.com UK",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXFJTjlDUzhOMjVLb1dPOUE3UlhuMUtLSXFTVnU3SmN4Q2dCUWVtX2FDelZUb3RXVXNfVDRqX2NCaFpEMVQxN3hwQ1BGdnFXR0J6R0lBYzRHcUlqVkVuMGtuMWdwbFBCSFJjQ195ZGhPMnAxVV90YkJhcE1aSnZNaXNFRTVoRkVtM1p6M0VfeFp5VUZJdktXTDdYUWd0eURaUmFhM2Y3dFBDa3h6b3VGVXdXdlg5V0V4UWFr?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Rekindled Gucci desirability fails to light flame under Kering sales - RTL Today",
-    "summary": "Rekindled Gucci desirability fails to light flame under Kering sales RTL Today",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2dkSDRCaG80aUthY2RBR19HNHVkQzB3NkhzTVpTWVQzM0ZwMnI4cWR2dnF5eW83eDY5d1F5R3RLZzVHeVd0amlWT0R4ZFFDVU1EdmRRQXdHYkZYX0E4Q3pseUkzMndhYVM1cGF1bGhtcm5fQVo0WXlzZ2xoS25WMFQ5cnZmNkZ5TElxUVY1SmdpcWtDNk9VSmloN3RpLUNKTlB3anVFVnR6bWJfOFZzUQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "10-22 18:26",
-    "headline": "Earnings call transcript: Kering Q3 2026 shares sink as Gucci recovery lags - Investing.com Nigeria",
-    "summary": "Earnings call transcript: Kering Q3 2026 shares sink as Gucci recovery lags Investing.com Nigeria",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZVVlTHFmbWhQWFp1YmI4a3gtQkRRVkVGTjI4Rm5hdnJRRnRoRkRLTndWaTBMdnJrTDhmb0piajIyUjlwMFhqRHdIYnFidm01WnFBN3M1Y1QyeFVLYklOVVdwSUhRTFFreXlzSE41M3dxVllhUlJkaVIxQmlhMmhQbG5YTVlVXy10SkJtYmE3bWhVbFFzZWZuS2cxSENfekdnVFg2WDAxVUpSOEI5TFpNNDA0eWZVWV9SZUd3Z1Z0eTFxeEFWUjJOQUdLZXVGemNo?oc=5"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Museums via friedmansammi on Inoreader",
-    "time": "10-22 18:15",
-    "headline": "Oberndorf Real Estate Management And Bascom Acquire San Jose Apartments For $53.1 Million - Pulse 2.0",
-    "summary": "Oberndorf Real Estate Management And Bascom Acquire San Jose Apartments For $53.1 Million Pulse 2.0",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOek9MaXNTS2tQOFphV1plU0k5ODdHczBmc2hHeV9XYkNlMlZrd2JrS0swU0YzaXdJWmJvUHJramt4SHRtSVpkaU5xblJqNkduT2dnWFVHNFZybWhFVW10WmxjRHFRTldCOFN3eVQ0MC1sbEh3MFMyN3lzd3kyVEJreVU0SC11N0EyMDlhWjA4WFVaTTFaS3FtamV5a0ZDQi10amxLekF4aWE4Z2lt?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:27",
-    "headline": "Ancient Torso Statue Sells for $34.3 M. at Sotheby’s, a Record for a Roman Antiquity",
-    "summary": "An ancient fragment of a statue of a Roman emperor sold last night at Sotheby’s for $34.3 million, a sum that the house has deemed an auction record for a Roman antiquity. This time around, Sotheby’s gave the work an $8 million–$12 million estimate. The Roman torso statue accounted for more than half of last night’s $63 million haul.",
-    "entities": [
-      "Sotheby's"
-    ],
-    "link": "https://www.artnews.com/art-news/news/marble-torso-sothebys-roman-antiquity-record-magnum-opus-1234803482/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:30",
-    "headline": "Michael Jordan jersey sets $14 million record for basketball memorabilia, auction house says - Chicago Sun-Times",
-    "summary": "Michael Jordan jersey sets $14 million record for basketball memorabilia, auction house says Chicago Sun-Times",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeG8wbm1iMVVwZ1hxd3ItNlhoOWtzNTBwMExMeFk2ek42dlNZSHliN0lyc293cndsdXo3UXd6WTZRWmhZblg2cHFHZmdycDY0WmFJWjBGb3d2Y1FiTk9aY20tMkMtMU9SaUhGYnR0Q2hkOWlMYVpQbWhoTTlPUTlKa1JTU3pkNVBmVUhudkk5enI0R2FObGRjaUhobzk0bFl0?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:30",
-    "headline": "‘Once in a lifetime’: Reed Point bull sells for nearly $1 million, breaks state record - KTVQ",
-    "summary": "‘Once in a lifetime’: Reed Point bull sells for nearly $1 million, breaks state record KTVQ",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWlNfc3l0N0NuZ05pck9ZcjhsQ0ZZbHRRbTFObk1hYXZqblctRXpmQlVLS2RyQzhKamt4U25mTGVnRmY4c1doV0ZxS3NQX21XZTE2NjdQWl9pZjJUZGI2MmtmRkdHV0dUQ2NtV2g2T2lCa2E4X0FfRXZZNmIzdk5DcGs4VTlKbVMxb3ZEd0dMaDRNdHZYdF95bzk4SndQNmFfdlJYY2pab0t1QWs?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:30",
-    "headline": "Pokémon Card Auction Breaks Record With Two Million Dollar Collection Sold - DualShockers",
-    "summary": "Pokémon Card Auction Breaks Record With Two Million Dollar Collection Sold DualShockers",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNazBwdDlMWlZHckdLUGlZcmc2cTIybUhJV3FOUGZ4NkY3QVZXaTc5N3NkRGhhZVl4OWRMMmk0TFREWnBZbUg0VjNrVEtVUU9jODE2TG1STjVuTVpLbWc3a3NFdHdreFM0N1dLUFNxU1ZLT2hXV0pLQjc2TW8zbW1tMlpaZk9MSllNbU52NktVZlRfNUx1amtuZTlB?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:44",
-    "headline": "New cast and director announced as 'The Mousetrap\" approaches its 75th anniversary - London Theatre",
-    "summary": "New cast and director announced as 'The Mousetrap\" approaches its 75th anniversary London Theatre",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGFhZXZicTBwQzAyMjdxS3VTNFhZUjU5a3NBWjJSaWxaYnROQ3hVWGJMc1p6TUt2RGZ1WmFZNFI2YjJjVUNYa053OVVkemh2VWhRMUJVUHNjYTF0SnJBb2tUeEhVSWNFRjJZQmJIalBPTDVOcHFiRVZGNC1YM2dDOVNpdmlnV3pFSTc1QURQbHpkMDNBZDh2QnkwZG1WSWJTOVZ5TVZ1NGdseHlIRHl4NEV4X21XTWVoblR3VG55OUhsSXpzNmdSYVFn?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:44",
-    "headline": "Previously unseen Jean-Michel Basquiat painting at Christie’s - AMA",
-    "summary": "Previously unseen Jean-Michel Basquiat painting at Christie’s AMA",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80WW9zbUpXRHd3WWhJX2ptWGNqSjd6YWtnRzZJSUlpa2poWFhmVF9RenZlUFRRcUFNUjNZS3JKMF9RVFZNNnY5QkZaUXQ1RmNIT0J3UHZvOWtlWDFJZE5CNTVValJFMnRXUUtRT0Uwbw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:44",
-    "headline": "Agatha Christie’s The Mousetrap to Be Redirected Ahead of 75th West End Anniversary - Playbill",
-    "summary": "Agatha Christie’s The Mousetrap to Be Redirected Ahead of 75th West End Anniversary Playbill",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa29weGdKSkdpYkhBMXN5aE00UWpGbjdna194Z0U3QnMtbHJjanN1NzBuSDkwWVl3QnA5N1dveTh6TXdmOGx1WUdUcUJvWXlHeG9jNG9UYnRlbUUzYTBwNklLTXZVS3I4TnI4X2FteTJ5Z2d0X1JYNk5NclVHbGJrRHhjRVFIWmZaa2pfN21aQzFrS0poR1hQZjNIRkw3MVdjd2IyUm5uMHJETXJNZm5NaEhGNU5sLUdNT3lGbVFrSHFSZw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:57",
-    "headline": "New World Records and Impressive Results For Bonhams African Art Sale in London",
-    "summary": "Yusuf Adebayo Cameron Grillo (Nigerian, ... A new world record for a work by the artist. A new world record for a work by the artist.",
-    "entities": [],
-    "link": "https://www.bonhams.com/press_release/41790/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:57",
-    "headline": "Bonhams Presents Piety and Pewter: Two Exceptional Collections Celebrating A Lifetime Of Collecting",
-    "summary": "Offered with an estimate of £8,000-12,000. Offered with an estimate of £7,000–10,000. Offered with an estimate of £6,000-10,000.",
-    "entities": [],
-    "link": "https://www.bonhams.com/press_release/41792/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 15:58",
-    "headline": "Amid Protests and an Early Closure Announcement, Art Basel Paris Finds Buyers for Its Safest Bets",
-    "summary": "Art Basel Paris announced today (Oct. Other sales included four paintings by Robert Ryman for $4 million, $1.25 million, $850,000 and $650,000; a 1957 Joan Mitchell painting for $3.8 million; a new Marlene Dumas painting for $3 million; and four Josef Albers paintings for $3 million, $900,000, $880,000 and $600,000. Paintings by Luc Tuymans and On Kawara sold for $2.4 million and $2 million, respectively, and a Ruth Asawa sculpture went for $1.2 million.",
-    "entities": [
-      "Gagosian",
-      "David Zwirner",
-      "Art Basel"
-    ],
-    "link": "https://observer.com/2026/10/report-protests-art-basel-paris-2026-sales-protests-richter-baselitz/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 16:00",
-    "headline": "Old Cars Weekly - November 15, 2026",
-    "summary": "For the collectible automobile enthusiast, Old Cars Weekly is your #1 source for restoration advice, classifieds, historical features, antique car prices, show calendars and more. Also contains thoroughly researched price checks, so you know what vehicle values are on the rise Old Cars Weekly - November 15, 2026 English | 72 pages | True PDF | 35.4 MB Download: UPLOADY – RAPiDGATOR Old Cars Weekly - November 15, 2026 English | 72 pages | True PDF | 35.4 MB Download: UPLOADY – RAPiDGATOR…",
-    "entities": [],
-    "link": "https://rlsbb.cc/old-cars-weekly-november-15-2026/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 16:23",
-    "headline": "Lexus’s 553-HP V10 Supercar Officially Becomes A $1.8 Million Auction Sensation - Top Speed",
-    "summary": "Lexus’s 553-HP V10 Supercar Officially Becomes A $1.8 Million Auction Sensation Top Speed",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRRHhOalNTV2N6alUwME45dWNXbWxuNlNWWEtLN0JvNVBnY1M5NEp0b2xveklsTF9vSnlRQlIxQktkNGZRYU9rNEthWi1peDBUSkI2R0otOHYtOVNPaWxMeFV4WXdrX3pZd0VGbUVYQlp1Zw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 16:23",
-    "headline": "Retired Man Makes $2 Million After Finding Pokemon Cards in Attic - Wide Open Country",
-    "summary": "Retired Man Makes $2 Million After Finding Pokemon Cards in Attic Wide Open Country",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MaDFYR2laVm45emJIdUZYWnB6UVNaT3pxbzZLQ1lNVUx6LVJhY0dncVNJcDk3MXY3SnM4V2I3MndmQ3NMSDVNY0VYa0stSUl6UGd3Uk00ejM3Y2t6RFFJa3ZwTjJiX0dicWFhb3E0bTVJcW1mTTZ6cA?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 16:40",
-    "headline": "Agatha Christie Meets Curb Your Enthusiasm In HBO's 3-Season Mystery Series - ScreenRant",
-    "summary": "Agatha Christie Meets Curb Your Enthusiasm In HBO's 3-Season Mystery Series ScreenRant",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLXJCTmdCa1kyOGc3cVgycmRHTFZPWm93d25aVDBkY1VfUFE2TjBVMzNoUVRPNkR0YmszRXR4OXRWMnRyQVc1Z0xaTGtxWi01bGNEMlJlek9McWJPdDU4eHlFUnJuanQzZmdZdngwWmNOZi0taERPSkctUWpVTEQxalBKNkRqY1ZqQzFRcUJVaw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 17:20",
-    "headline": "Rare Swed-Trac 'tractor Ferrari' with original parts up for auction - Agriland",
-    "summary": "Rare Swed-Trac 'tractor Ferrari' with original parts up for auction Agriland",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQy1JY1pqdFNnNTUxbmI3UUZudjRQWkRFUTl0akR4QjA4YnlaTHo3VWdRNVNOc2I5NHlaQU9jc0pDT0hSZHhSX3RqakIzMFhyNlRtX09XU0t4ZV85WDNSamd4bEpPZEZTTTVGWFFlZGNTbVA5cFQtUzY1STNQNjc0dXl2NndNdTVuMjVaVFdqeUVua01wM1dxLVZYVjZnWWVlNGtJRGln?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 17:41",
-    "headline": "Christie’s to Auction Rare 700-Year-Old Quran Manuscript - خبرگزاری بین المللی قرآن",
-    "summary": "Christie’s to Auction Rare 700-Year-Old Quran Manuscript خبرگزاری بین المللی قرآن",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQlFyaGJ3aFJoM192RDNJbXFMdVpvd25xaWdyRms5UHNZS19yMmE1SzRaRkUtak1Ca3RUeFBDNDJRZXNvbndndGMtNlZ5SEtnSl9vUmRyaUxNTG1ubDA3Zkx6TGlEeU1TWDd3bmxkMi01RnF4dllUYkhuN3c1c1VoclhKY3UtYkhWS0M1VkdrZEw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 17:41",
-    "headline": "Durand Ruel, Generations of Vision - Christie's Press",
-    "summary": "Durand Ruel, Generations of Vision Christie's Press",
-    "entities": [
-      "Christie's"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVhaeFU0WEJ5bEkzeWdWY19keW1iU2QyQ3Q3MndienZFbkRJVkhSQjZjQkpnLXBBUEs3cFJTNTVJYy1QbGFtWWNyTGZRakE5Yko2U1lHLUtaYng0S3d5b0dIMHQtOVA5RWZocllnNTgzZ2o2Umt0blZaMFlDcTh2Tw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 17:56",
-    "headline": "Three Paul Cézanne Paintings Pulled From Sotheby’s Schlumberger Evening Sale - ARTnews.com",
-    "summary": "Three Paul Cézanne Paintings Pulled From Sotheby’s Schlumberger Evening Sale ARTnews.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN1p1bnlGSEM1NDRMOThJaDMyN1BQRE5LbXZBZTRNX3FHTnoxakhVX1FIcm1BOU83WnJSTmRiQ1NhbThFWEpnTkZQZjlaTktOWVQ4X1U3Z3lKNDYtWGhNZkJMc1lLcElTTUVsSklXRmpCSnhYT3ZSVUNsaWNyY0xrMDV3TjNEdDNZaERoR3RWVDFySFpnTEIyVW5TWW9TYUFkd3J4SnVZVWNadw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 17:56",
-    "headline": "Never-Exhibited Monet Sells for $56 Million at Sotheby’s Paris - Bloomberg.com",
-    "summary": "Never-Exhibited Monet Sells for $56 Million at Sotheby’s Paris Bloomberg.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkRBTFpwYnFvRzE4bHhkaXVtRXVoOVNZWkdIUGpwdjdCdnRicjFISl9OaHp5WjBDV3pzTkFOTU5qMUZwREJHVzgtRXJoaFNzZ1ZFdDlsdjRGMVpXWkJHVmNGTWtyS1VjMVcydXFCS0tIZjAtMWFNQ2xxYlBkb3p4cU9hWEtyT1BRMGo3UExFUU9kcW5HQXdobW9TdG5IS2xiZENKSkt4SW0wM0JIUWR6UHZB?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "10-22 17:56",
-    "headline": "Philip White passes the Sotheby’s torch to Mark McLaughlin - Inman Real Estate News",
-    "summary": "Philip White passes the Sotheby’s torch to Mark McLaughlin Inman Real Estate News",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXZwOVFXTVBlT3VpM24yUUQ1cl9lR0hPeHM0SS0yUFhST1IyOHZGZ2VybmFVMVA0Q01IZHdfWUh1Y0NXVlBVQ0lYQTVQRTg4cnVqUm9UajRfNV9yb1dCUDBuWE9KVFFUVm0yM1dFdHhMZk1VUTh6LUViTXp4UmVOWHV2eldaQmg1M2tHeG5JcUM1dUtpamJtdVdPeDJRT3ZQd19SZlVLTFNtcWhLZ3pldTI2RDhHNUlHTlZKcXZR?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 08:25",
-    "headline": "Alicja Kwade Sculpture Cut Short at Art Basel Paris Amid Citywide Unrest - ArtDependence",
-    "summary": "Alicja Kwade Sculpture Cut Short at Art Basel Paris Amid Citywide Unrest ArtDependence",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMEQzcXBXVV9uMW8wOHhjdjZSRFAyMWwyS0tQNW5hejJDNXNOR3dEWXd2N2RON2dPcU5ORDlMcEEyazJHb3MxUXZnS0ctYW91MXFsbW1XLWRmTnBuZ0t2cjNwUjgycXg3VTY5Y2tvMDR2R2ZkYWZoelItdEN5RlBYdTI3QUx2Z3BMLXEzVW9kN1hVNDdsWTdMME9yaU1Od3d5NDJfY3pNel9PWTll?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 09:24",
-    "headline": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
-    "summary": "“They’ve been great to work with,” Syms said. Still, Vega’s behind-the-scenes efforts have helped to shape video art as it stands today. Julia Paoli, the Vega Foundation’s curator, said she decides which projects to fund based in part on studio visits with artists.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 09:24",
-    "headline": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
-    "summary": "Thanks to the generosity of a sibling, the New York Public Library (NYPL) is now the owner of some 250 prints by Kiki Smith . Related Articles Art Week NYC Announces 32 Participating Institutions, New Museum Programming for Inaugural Fall Event Art Week NYC Names 76 Participating Galleries for Inaugural Event in November “I am very thrilled by my sister Seton Smith’s gift to the New York Public Library because I could think of no more wonderful place for my prints to be,” said Kiki Smith in…",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 10:05",
-    "headline": "Objects With Narratives begins a new chapter in Antwerp",
-    "summary": "A first look at the design gallery’s grand belle époque space",
-    "entities": [],
-    "link": "https://www.ft.com/content/2925257d-3d78-49f9-96d0-e9ee9aeb3610"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 11:20",
-    "headline": "At Art Basel Paris, social tensions fail to deter international collectors from turning out in force - Le Monde.fr",
-    "summary": "At Art Basel Paris, social tensions fail to deter international collectors from turning out in force Le Monde.fr",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeG1TVlVONWZPSW0yREVvdFlRRF8tMDk3LXZrM3JpVlh5ZllRWkRxVVUtY0d1X3NtYVBsZDl3anNSYzNBdl84VEJnUXdHTTl3aElTOWZneVg1OTZ4by1LVEFuX0JkSmxkMmxpeTRSUjlBXzkxWk1tRHg5bG9wdE5pd0NvQjJrdlQwNHVULTNzTGVZdzc0d2ZGSkV6UkxWU3Z4RExpWDZ4b3NGYzZPM2FwcFlrM0dDNzhJZjEwdC05SnlHdVlOTXdLRjBPZG50dnVKVUFmSC12YnBLVXJRNk1ZUHlTaGh1ZnJTVEpRU1hWUUdBb3BRNEJQM1VJR0U?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "10-22 11:20",
-    "headline": "Louis Vuitton Unveils Artycapucines Retrospective at Art Basel Paris 2026 - A&E Magazine",
-    "summary": "Louis Vuitton Unveils Artycapucines Retrospective at Art Basel Paris 2026 A&E Magazine",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1JnelZGNmV6Y3hQQ0NrTzJudnl5UklaRGRCbncycXlxNjJWTC1jLUlCbWZQYVZNMmEzS2YwQzJkbVJRdW5iZFFGMFlrZXQ5RzMzdGlSQkNjSUo3Z09JeGJlUnBGdXVaci1feU1YWDFGYmk1OWxxZnFsMVFDNmFDWlJIS0MwSUIzdklRNEZRVXR1WGl6RDdYcEthNENZQnpLMFVBVm9fNVpCT1Vk?oc=5"
   }
 ]
