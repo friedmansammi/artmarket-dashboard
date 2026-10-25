@@ -2,129 +2,129 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-50.0%",
+    "delta": "-100.0%",
     "dir": "down",
     "spark": [
       2,
-      2,
       3,
       2,
       3,
       7,
       7,
-      1
+      1,
+      0
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-75.0%",
+    "delta": "-100.0%",
     "dir": "down",
     "spark": [
-      4,
       4,
       9,
       6,
       6,
       6,
       2,
-      1
+      1,
+      0
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      0,
       1,
       1,
       1,
       1,
       0,
       1,
+      0,
       0
     ]
   },
   {
     "name": "LVMH",
     "meta": "Conglomerate",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      1,
       1,
       0,
       3,
       5,
       3,
       2,
-      2
+      2,
+      0
     ]
   },
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+120.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      5,
       5,
       6,
       6,
       5,
       16,
       35,
-      11
+      11,
+      0
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "+0.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      0,
       1,
       2,
       2,
       2,
       4,
       1,
+      0,
       0
     ]
   },
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "+100.0%",
+    "delta": "+0.0%",
     "dir": "up",
     "spark": [
-      0,
       0,
       1,
       4,
       2,
       2,
       0,
-      1
+      1,
+      0
     ]
   },
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "+83.3%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      6,
       3,
       21,
       43,
       33,
       40,
       31,
-      11
+      11,
+      0
     ]
   }
 ]
