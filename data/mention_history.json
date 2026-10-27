@@ -1,13 +1,4 @@
 {
-  "2026-10-19": {
-    "Christie's": 9,
-    "Kering": 6,
-    "Art Basel": 21,
-    "Sotheby's": 3,
-    "Phillips": 1,
-    "David Zwirner": 1,
-    "Gagosian": 2
-  },
   "2026-10-20": {
     "Art Basel": 43,
     "Christie's": 6,
@@ -67,5 +58,8 @@
     "LVMH": 1,
     "Sotheby's": 7,
     "Phillips": 2
+  },
+  "2026-10-27": {
+    "Christie's": 1
   }
 }
