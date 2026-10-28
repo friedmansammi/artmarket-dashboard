@@ -2,8 +2,8 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-33.3%",
-    "dir": "down",
+    "delta": "+33.3%",
+    "dir": "up",
     "spark": [
       3,
       7,
@@ -12,14 +12,14 @@
       3,
       7,
       9,
-      2
+      4
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-50.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
       6,
       6,
@@ -28,7 +28,7 @@
       0,
       17,
       11,
-      3
+      6
     ]
   },
   {
@@ -114,7 +114,7 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-84.8%",
+    "delta": "-51.5%",
     "dir": "down",
     "spark": [
       33,
@@ -124,7 +124,7 @@
       1,
       17,
       16,
-      5
+      16
     ]
   }
 ]
