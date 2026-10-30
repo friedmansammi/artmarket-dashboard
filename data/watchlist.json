@@ -2,7 +2,7 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "-100.0%",
+    "delta": "-85.7%",
     "dir": "down",
     "spark": [
       7,
@@ -12,13 +12,13 @@
       9,
       4,
       5,
-      0
+      1
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-100.0%",
+    "delta": "-50.0%",
     "dir": "down",
     "spark": [
       2,
@@ -28,7 +28,7 @@
       11,
       6,
       11,
-      0
+      1
     ]
   },
   {
@@ -66,7 +66,7 @@
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "-100.0%",
+    "delta": "-97.1%",
     "dir": "down",
     "spark": [
       35,
@@ -76,7 +76,7 @@
       5,
       3,
       10,
-      0
+      1
     ]
   },
   {
