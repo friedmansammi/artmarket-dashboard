@@ -1,5 +1,420 @@
 [
   {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 21:11",
+    "headline": "French Galleries Accuse Art Basel Paris of \"Disrespect, Even Contempt\" - Hyperallergic",
+    "summary": "French Galleries Accuse Art Basel Paris of \"Disrespect, Even Contempt\" Hyperallergic",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWtaN2RnMnBSbjVIMXgxdW9qSWhuTU8zN2JOZ0s3RnZBQjFlVkppLThiM0VCM2lmc3BBaktXVXBwZU00OGxrRG0zOElzc1p1bWdzaDZiSWJNNjdsbVNpcjdkeEtWemZSdlhZZ0pOTFhzUzJmcXE5QWx3Qk5zUzhyd0l3LWduVlJYLXhkVmdibWpEM2gxUDlzUVVB?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 21:11",
+    "headline": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure - Artforum",
+    "summary": "Dealers At Art Basel Paris Seek Compensation For Early Fair Closure Artforum",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTM0VTlRczFCTDFUcVFONGd1Y1V1ejVrbkc3dUZ1Qk83T3VhZlRZVDJZZWhCb1Uyb0NrbEJGalpETGljTGg1UWdzb001cHNpT1NpOUtJd0RqeS1uZDR4S1lVSUxaLXR1cHdaVnotczZMa3NBZlNvNHRLcHhXQzZmQmtjMFBLM1NmNmxWTHpXQ0laZVJDQzQ0WmdtV2ZSQQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 21:30",
+    "headline": "Remembering Dolores Huerta: Artists Barbara Carrasco, Judith F. Baca, Yreina D. Cervántez, and Vincent Valdez Reflect on the Iconic Activist’s Legacy",
+    "summary": "Baca said of Dolores Huerta, the labor activist who died last week at 96. Carrasco said she will always remember Huerta as a nurturing figure who mentored countless women over the decades. There are so many women, from women in public office to women working in the fields.",
+    "entities": [],
+    "link": "https://www.artnews.com/list/art-news/artists/dolores-huerta-artist-rememberances-1234804398/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 21:30",
+    "headline": "New Eames Museum in California Funded in Part by Trump Appointee",
+    "summary": "The Eames Institute raised over $165 million in contributions from 2021 through 2024, anchored by Gebbia’s $25 million. Asked about Gebbia’s connection to the planned museum—with his $25 million making up a significant portion of the $165 million raised between 2021 and 2024, Eames Institute president and CEO John Cary told SFGATE that donors have no outside influence. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/eames-museum-funding-joe-gebbia-trump-appointee-1234804508/"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 22:11",
+    "headline": "Galleries are seeking compensation from Art Basel Paris for the early closure - Finestre sull'Arte",
+    "summary": "Galleries are seeking compensation from Art Basel Paris for the early closure Finestre sull'Arte",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd3BFbXNSMGRTOEc0bWVVZlpMcXN0UFZNbFRBdkNHRGIzcFp4ZGJsU0t1cFQ2NnFjVTlRQXVncUVpRUtoX3doOWI1ejRoUFFZTlh3eVR0ZzlPaFhxemlLZEZTcFRVUklJNXB4VVV4bDJFUmZaTy0wcDZBR1JqeFNCMkY2Tk9QeFFRNVczYk52Y2JmbWhXdGx0blNmYnc5NW43SVVEY181RDBiZVZOdExnckdTWlg4STR6b29z?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 22:34",
+    "headline": "Cosmic Leonora Carrington Painting Reemerges at Auction After 70 Years",
+    "summary": "“By choosing this title, Leonora Carrington shifts focus away from the obvious. Carrington died in Mexico City in 2011, at the age of 94. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/leonora-carrington-painting-reemerges-auction-1234804420/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-02 22:49",
+    "headline": "Rudi Fuchs, Transformative Leader of Stedelijk Museum, Dead at 84",
+    "summary": "Dutch art historian, critic, and curator Rudolf “Rudi” Fuchs died in Amsterdam on October 25 at the age of eighty-four. A former director of the Stedelijk Museum and one of the Netherlands’ most influential museum leaders, Fuchs was an early proponent of placing works of different periods and styles in conversation with one another. From 1967 to 1975, he studied art history at Leiden University, concurrently producing critical art essays, beginning in the late ’60s.",
+    "entities": [],
+    "link": "https://www.artforum.com/news/rudi-fuchs-leader-of-stedelijk-museum-dead-at-84-1234762875/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-03 00:28",
+    "headline": "Pace CEO Marc Glimcher Responds to Reports of Financial Losses, Says Gallery Will Open New Location in Europe",
+    "summary": "Pace Gallery ’s CEO Marc Glimcher is looking ahead and washing over the headlines over the last week regarding the gallery’s financial accounts. Pace Gallery published its 2024 accounts last week with Companies House, the British government’s business register. (Pace now represents a total of 85 artists.) But now that the dust has settled, Glimcher said the gallery is ready for new life.",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://www.artnews.com/art-news/news/pace-marc-glimcher-financial-reports-new-europe-location-1234804487/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-03 00:28",
+    "headline": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
+    "summary": "On Wednesday night, ARTnews and Hublot hosted a dinner at the New York headquarters of artist and fashion designer Kid Super (Colm Dillane). [T]hey finally said yes. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 21:42",
+    "headline": "Djokovic links his upturn since the US Open to the easing of his physical problems - Tennis Majors",
+    "summary": "Djokovic links his upturn since the US Open to the easing of his physical problems Tennis Majors",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSmVvU0NqMVZGUnphQ2RpSXQ3a0VWSXV5VFgyTkJBeHhzZV9NRFVTSUp3c254dHgwSkFmS2hrUTZCbHY1MndpRTNqdUJ1OTdRUXZrdE9jU05TbFJxNFJuZjgtMC14Rm5BUGFKUlgxeExFcThNNklMeUFFOXRNbmp0eDdmX2ljcGhPX215STNySTFfWnhxSFBJT01Ocnh4SVpOY0Z2Y2d5d0xQQmR5RG5fSGlTdHNrQzlkVkJBblVVRFhYX1RrTGc4TjNnSjNzc2xiLWhrbnAxVUlGQjlFaVQ0ajUtVnBURTRpcjV4cA?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 21:42",
+    "headline": "Tennis, ATP – Rolex Paris Masters 2026: Molcan beats Droguet - Tennis Majors",
+    "summary": "Tennis, ATP – Rolex Paris Masters 2026: Molcan beats Droguet Tennis Majors",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQURhVlllLV9BeEloRDd5azR0UnVTTEFsZTNxTVpGdXI5LVVhT3dMM2xDa01oVzZNOU13S21wakFPSHQ1T05aeFpzekJLV1lxTHlEMmdDUWVYTG1iSHJIdGltOENHbzFVY0w4ZVM4TTJmZ2FuR3oxbjFuNVRtWlM2QVpWVkxyOXV2dEd2TTkzQW52N0xYa0w5eXJCSTM1QmVwSjRoeGxIc2lEOGd5OTZRM2lZc0tZamlDSlJST0lza1lqS3gyUmd6MENSbkIzU1NJTndBd0lMVzZfLVRNWUFsanBhYTBUVWRF?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 21:42",
+    "headline": "Shapovalov retires against Khachanov in Paris despite leading 4-1 in the third set - Tennis Majors",
+    "summary": "Shapovalov retires against Khachanov in Paris despite leading 4-1 in the third set Tennis Majors",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa0x0eVNjYUlZc2gxS2RQM1hEc3MwdGlEXzZYS1pMcEhGZjVXblo4M3pEdHA5cENabkN1Z050ZVB2WF9WZ1d3V1VONF9XeWFoWGpmNmtZZ3BOZDJwZ2ptOTdvNVMzRUstLUxnaWc5cnBBUThuT1lsalFXcG81ZVZ2b1NQRkRIckpyaDM3LTZueUFSLWY0LUZEUTdRdFI4Y3RQNzNsQmZJYk9YVldDb2YtRWRiYkR2OHlPS0twV3FTa2pFYUp2S0J1WWJWWWc4MnA2OTJ0c19UOFVHcFdJNW1TZTkwOFNZX2k2alNfcw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 21:48",
+    "headline": "Richard Mille Et Sa Femme - Photo Marcus Miller et sa femme Brenda Arrivees au 68eme gala de la - auroradesio.it",
+    "summary": "Richard Mille Et Sa Femme - Photo Marcus Miller et sa femme Brenda Arrivees au 68eme gala de la auroradesio.it",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KVF92VXJZZmxnX3FuWEYyMWRic3hLNUlkcF9Hc1E4d0lWUW1BUmxTZkZKVkVMQUtpZE9nV1pkZnpicFBxcDZ4V2F6bmRieldJbUE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 21:48",
+    "headline": "Winter Is Coming—It’s Time to Embrace the Personality Coat",
+    "summary": "So, for anyone still unprepared for the impending freezing temperatures, consider following Jennifer Lawrence, Dakota Johnson, and Celine Dion’s lead and adding a personality coat to your winter wardrobe. Become a Vogue Business Member! Explore the Runway Image Archive where you can access over 1.2 million runway images from past and present fashion shows.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/winter-personality-coat-2026-11-02"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 22:43",
+    "headline": "“At some point, I will do great in this tournament, sooner than later”: in-form Alcaraz still chasing his Paris breakthrough - Tennis Majors",
+    "summary": "“At some point, I will do great in this tournament, sooner than later”: in-form Alcaraz still chasing his Paris breakthrough Tennis Majors",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOa0JlX2NTUDNwSnkwdzdPalFUTFlvbDREaWJMdWRLWXFiNWFwV2tvUHhBa3ZNSXVEWjZCOXZaQnhkak14eC1mQ0RZbE5qN1FVaW40djI3bFh0S3E1VTZYbngtdDZxNC1sUGRFVGJTY1h1czllWDlXbF9jQ2NqbnNVQkFLNTd2WXVlYzVKYlpWVHhXYkNKa2F1VFZBR3l6SlFYU1ppYVBXS1MwNkVhQWF4T1BjUzB5UV9Rakk4Ni03NWJDWFpXRHRwUmRWTTFBYnpkNVhUaXBMODNjS2FPQnM2ZG9fczZCSjJOM2hCUk5BYVFWZVFkenVCbWtKY0RzRkJqZUxXZllvVV9CNjNGUGtJR2lpWURQaC1EbUd4Q3Nn?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 23:13",
+    "headline": "Casio's New $145 G-Shock Looks Like a Patek Philippe - Yahoo",
+    "summary": "Casio's New $145 G-Shock Looks Like a Patek Philippe Yahoo",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkNjMm0zclFkOWQydkI1bThPLW9qQV81ZWJpWGpmUFBRRndRUjFodFo4VDYzRzh0MXRUc1NMQWNud19wZGxJQVpmRmFEMC1pWG5GRlNzT3dxNWVDNXUyTFdqSjI4U0JxUkdabUtORkZRYko0VDgzNkJyVTJEa0NNcWRtSDJhNnptbTFBR0hlOGEzekhoaU5XNg?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 23:42",
+    "headline": "The 22 Best Beauty Advent Calendars of 2026 Have Started Hitting Shelves",
+    "summary": "Beauty Advent calendars are, generally, all about the value. What are the most popular beauty Advent calendars? But in general, all the best beauty advent calendars get scooped up fast.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/best-beauty-advent-calendars-2026"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 23:42",
+    "headline": "9 Best Scalp Shampoos for Your Scalp to Help Dryness, Flakiness, and Sensitivity",
+    "summary": "Is your scalp super oily? For every scalp concern, we tapped the experts to break down the best shampoos for the scalp that they’d actually recommend. “The important question is whether the overall surfactant system effectively cleans without irritating your particular scalp.” “Shampoos with effective surfactants are best for cleaning the scalp,” says Dr.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/best-scalp-shampoo"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-02 23:48",
+    "headline": "Rolex Paris Masters Tennis Draws and Schedule for Tuesday, November 3, 2026 - 10sBalls.com",
+    "summary": "Rolex Paris Masters Tennis Draws and Schedule for Tuesday, November 3, 2026 10sBalls.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlo1Uldja2NmLVk1aEZTMnJuWVhWSUc2cU5sM2VXWUF5MUZ6MnloWjM5YS1XeEhsbkJfZlRYMEpNc0VaREVSMWlsbXZFQ1YxaE5NUnUxOHJ5bVU5VFFmenNIc1lVNm04bG5UU3EtcmJDQkZCUGhoMVJhUzE4bEh6TlBJeWRPeHJDU0JJSktNOU5KSlVVVThKc0g0Z204UDA1X1ZXR2x3MkVkZw?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 00:09",
+    "headline": "Go for BTS, stay for the art: 5 ways to explore Kaohsiung - GMA Network",
+    "summary": "Go for BTS, stay for the art: 5 ways to explore Kaohsiung GMA Network",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3BmWndtZ045WkNwSGd3TnJPb0R3SlJwMmhta3NldEZqckxwNHpaalBsT09DYU9teTY2NGJaaFdFb2ZJdURHU1gzb0xWQ0FzUDJPZlZHX2pJSFV3b0xMbTJiRThIUHFFeXJyOXZxQXFLQ3BWUTFWTmhNMmhNRkFnRWQ3cTdQdjd2SDktbDRGek0wdmxOZ3NEcUo2SW4tQ2JvbTUtMnc4ODJfU1VNU2djSUlVSE1HakdNdUxJ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 00:30",
+    "headline": "Compagnie Financiere Richemont SA Estimates – SIX:CFR - TradingView",
+    "summary": "Compagnie Financiere Richemont SA Estimates – SIX:CFR TradingView",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvRWlTT2NNbTJDZEZqbDI1MGk2ZWVIa0tJNVU5YVNwM1dDNzM4Q3RkSUdkV01LbURTSWFuaHVaOG1lV2loZnJpVWVVejZYc3ZqRDF1TVEyWGs1Ql9BUUFkOWdwZ1ZGY3R5MERRTVdUczVTTzQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 00:36",
+    "headline": "Why Jude Bellingham Is Calvin Klein’s New Star",
+    "summary": "The British footballer strips down for a smouldering new campaign, giving Calvin Klein another viral moment in the business of selling sex appeal.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/marketing-pr/calvin-klein-jude-bellingham-campaign-interview/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 01:07",
+    "headline": "Keke Palmer Unearths a Rare Bob Mackie at the 2026 CFDA Awards",
+    "summary": "Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member! The ultimate resource for fashion and beauty industry professionals.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/keke-palmer-bob-mackie-dress-2026-cfda-awards"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 01:30",
+    "headline": "Ye Announces ‘Yeezy Season 01’ Runway Show in Los Angeles",
+    "summary": "The show will unveil the brand’s first-ever flagship store and mark Ye’s first full-scale runway presentation in four years.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/news/retail/ye-announces-yeezy-season-01-runway-show-in-los-angeles/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 01:37",
+    "headline": "CFDA Awards 2026: See All the Fashion From the Red Carpet",
+    "summary": "On Monday evening in New York, a starry crowd gathered to toast the crème of American fashion at the 2026 CFDA Awards. NEW YORK, NEW YORK - NOVEMBER 02: Anja Rubik attends the 2026 CFDA Fashion Awards at American Museum of Natural History on November 02, 2026 in New York City. (Photo by Kevin Mazur/WireImage) © 2026 Condé Nast.",
+    "entities": [],
+    "link": "https://www.vogue.com/slideshow/cfda-awards-2026-see-all-the-fashion-from-the-red-carpet"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 01:53",
+    "headline": "Alcaraz eager to bring his best in Paris: 'I really want to do great' - ATP Tour",
+    "summary": "Alcaraz eager to bring his best in Paris: 'I really want to do great' ATP Tour",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUU3VLZnVMeWhmSXpHRms4S1dpeEZwVmV5aWs0Z3hxNFVqSzFXeGJUaDlzc3U2cVVvYVI1ZXZ5aHhmVjMzdExwX2dBNTFadzJRaXB5MDZtbWw0UW85bjJESjRsVHk0eEZKeGc?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 02:17",
+    "headline": "Federated Hermes, Inc. (FHI) Stock Forecasts - Yahoo Finance",
+    "summary": "Federated Hermes, Inc. (FHI) Stock Forecasts Yahoo Finance",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbE1NandQa2N0ZWltWEhfY0FsYTNQMUV4OTg5bVlkSlBodEN1M0tnUVpUSXR0NG9TNC1aY3Z0ZGd3VXZNbVJSdHpnNVZtNWlySVFDdnIzaHJWbEdnM2NORjZYX255dk5QUktVZDVoVWNwVUJPUGZYZlpiaU9qdEpZd29GNmJlQ2c2?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 02:39",
+    "headline": "And the Winner Is … See Who Walked Away With the Top Prizes at the 2026 CFDA Awards",
+    "summary": "If you can believe it, a year has come and gone since the 2025 CFDA Awards —and, whoo boy, what a year it’s been. This year’s honorees are a varied and buzzy cohort: Anthony Vaccarello was named International Designer of the Year for his decade of work at Saint Laurent; Gap Inc. will receive the Innovation Award presented by Amazon Fashion and presented by Demi Moore; Tory Burch will receive the Positive Change Award; photographers Inez van Lamsweerde and Vinoodh Matadin have been selected as…",
+    "entities": [],
+    "link": "https://www.vogue.com/article/cfda-awards-2026-winners-honorees"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-03 02:39",
+    "headline": "The Best Dressed Stars at the 2026 CFDA Awards",
+    "summary": "Tonight, the 2026 CFDA Awards brought out the the best and brightest in American style. Many stars opted for the classics, or pared-back, monochromatic looks. Sydney Lemmon at the 2026 CFDA Fashion Awards held at The American Museum of Natural History on November 02, 2026 in New York, New York.",
+    "entities": [],
+    "link": "https://www.vogue.com/slideshow/the-best-dressed-stars-at-the-2026-cfda-awards"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:10",
+    "headline": "Premier Sotheby’s International Realty Strengthens Brokerage Leadership Across Florida - The Killeen Daily Herald",
+    "summary": "Premier Sotheby’s International Realty Strengthens Brokerage Leadership Across Florida The Killeen Daily Herald",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTkJJNXE5di1kQ0xIdE9kY1Uya1k4RkpmMktTQzk1WEhPeHpXcnQ1NGwtMTJXZmR2a2U4SmFhdUNpX3Nma2tHaDB2d0I0SXd0Sl92YmVJZWZoRnRsa2NsbXpJUkFIZGZKYS1CUElnUjBYYzlWRjVCbFUzYmJfZnpMT1BTeDV3RkNqS2pqeGZqRWZjb2lEV3YyekZ0N09XNkliMVV5QmxfLU5nY2ZHdy1WcFVSekhmZVJnM0pLV281U1BEMzBsOEpPeWJoUDVub2FiMHpZOTd3QW1Rd2g0TzBhTGRGeVpKRFJEUmVOUkdRQ0dkWTBmZTh3MFcyYjFJWml4UGM1QzNINktqbkNFZGcxUUxNNnd4UQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:10",
+    "headline": "European-Style Villa on Sonoma Mountain Enjoys Panoramic Views and Traditional Design - Sonoma Magazine",
+    "summary": "European-Style Villa on Sonoma Mountain Enjoys Panoramic Views and Traditional Design Sonoma Magazine",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMU9EU292UFdxZEJlbHYwM0I3Z2VObmhqc3hGS25tdy15aGtCSGFCbUx4VGRXb1YtNldkNmZXVjhyZHJjTU5SaENFYVRPZlUxVDc1NGlvTmJvOEczcnA5cUk4cmRXZlhPMlpHQmZXVlZOQkwxaFB1bWhUN09OQmVpMHpvUQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:14",
+    "headline": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting - GlobeNewswire",
+    "summary": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting GlobeNewswire",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQUEo1bS00MVZ5RmwzUmlkLXNoWjdPVDI4YTBsRHMweEZxM3hUcjJRU0ZGNVJHeW5adWxWT3RvUTVoU0t6S0M5X01GU05EeXhXLXVHMGxxYVNSdWpsQTRvd3dONE8tX1RJVnoyTUtHcVdneVdZN3FvMWktdW4wMXhwOXV3N185Z2o0NG9wNFRMOTUzcGtpRTljQlhyY1pIdlVTV0xGdWRxV1pPWkNjNjR0SDhtQWI1Tm16MG52T3VDNk9Ycm14bkxmd0JCVU5iTktKX3pKX0VVM2ZzdEVYZkd2Q2VibW5EakRxTmhmSmVzdEhobHRvMDUtcHYtZzItY1pxOGxLU1hjNWl4TmJwajFCSGU5N2dJNHdmTmpWY242SXU?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:14",
+    "headline": "2026 Broad Arrow Las Vegas Sale (Auction Results) - Classic Car Auctions",
+    "summary": "2026 Broad Arrow Las Vegas Sale (Auction Results) Classic Car Auctions",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUG10Yl9EWnBhUllVbW9LQW9nZnBPZjh5cVNPbHhjYkl3SzlPQVZYQURSMFVoZHZrbzByb2JxUFdfMjlSdTBuLUxWWnV3WUtUaDRjYlF1dl9Bc3FEa0JsQlc2eE1qcm9lSEVua2FkUVBqWXdialQ1OWZRMXp4a0djdWlKUTMzNEpvQUlUVG5nUi1XblFh?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:40",
+    "headline": "New Agatha Christie exhibition marks 50 years since death - Herald Series",
+    "summary": "New Agatha Christie exhibition marks 50 years since death Herald Series",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDJWNUdHMDlvanB0aEltNHdDZjB6MElGVktRLXYwMWgzbmxqVHNVY1diOGFsTjV3N1d0QmxFMUdTNkRSWjM0Sy0xQ1lUSGF5YlljLVIwNS1xSjUyTjBDU1pibzR5NFdUU2hRMlVsZ1NJNXhEeDVSaVhBVmVsTE1XTDhtdVNZRlF1aXlkSUhtVm5yUmhZam5fVQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:40",
+    "headline": "Is Doug Christie's job as Sacramento Kings head coach safe? - Sactown Sports 1140 AM",
+    "summary": "Is Doug Christie's job as Sacramento Kings head coach safe? Sactown Sports 1140 AM",
+    "entities": [
+      "Christie's"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GMTBuTmJ2OHBnMndvZE9zUjNXVFVyWmhyZmk4VnFCakxscnc1LWh2Ym5uRUlvQ1JaN21rektuUzhCRi1nVXBGX2lXVGgxZ2g2M2xwd0FtZjg5d3h5eW1VVzR4cUJTZGhuWDlhZVdNTENtdw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 21:40",
+    "headline": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records - Artnet News",
+    "summary": "Christie’s First Art Auction in Abu Dhabi Notches $8.9M and 10 Artist Records Artnet News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX3FDcmx0VWJZWEh4VEdLZHE4NHdJaHZBNk9EQVoydkRKSElLbkxWWWg2am9fc3V0SDA5cDViZzhpR2tZSDV6Qkw2S1VWQ1BjcWVvdVRnNlRfckJGRVo1dnJhUjFsOGpGTkpQZVFwWDIwYVEwZUVkWU1lZURJWHFhYk11TUVVRldsOHfSAZIBQVVfeXFMT2U1WEZmX3ZiWXlja2g0di1lamwyNl9wTFE3bC1kR3puczdrTzVjVG5acUZRbWw0QXFrSWdQMEJaRXFKZ01OenlJYmx0ZGVfdk1sSzREcmNUa19yb2tMdmh2eE83bVdRWnVMRUNXeHJsMnJKYlBLbERORHp2MHdheFFXMTMwVzNOMmVHanNrWVA3MXc?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 22:06",
+    "headline": "Movers & Shakers: Premier Sotheby’s International Realty and KAST Construction name next CEOs - The Real Deal",
+    "summary": "Movers & Shakers: Premier Sotheby’s International Realty and KAST Construction name next CEOs The Real Deal",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOGoyc0JzT01rdDdhNmRRYUdqMFZYblN3QjVyMEdhOXp3NlBsblJXOWI1NDRSYXBFZFNJb01CODl4NE9yRDZPcHktNFVEcWdoeVc2Q1ZkNjR6LXZwcWNidzAwaHJ1VnZKZlRDbXZIT0dYT1o2WVhOeXZzNzVOajg5NW16QktHb2ptVFJVNnR4NzFSYTZxdE40aHJMVQ?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 22:15",
+    "headline": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting $92.8 Million Auction in Partnership with Concours at Wynn Las Vegas - Taiwan News",
+    "summary": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting $92.8 Million Auction in Partnership with Concours at Wynn Las Vegas Taiwan News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tY3lGVzQzZXk1TzV1aTVKeC1zUjBTY3BsRHdlU3MwRUhEMWwtazJPU3A3eF8wNnc3djFJUjF1Nmc2YVFUYTh6TFBFTmRGQ3V1Q2hrUXRqdkk?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 22:15",
+    "headline": "Ferrari Supercars take top honors at Broad Arrow’s Las Vegas auction - Old Cars Weekly",
+    "summary": "Ferrari Supercars take top honors at Broad Arrow’s Las Vegas auction Old Cars Weekly",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbnVncWp1c0Z1dFU0WFAwN0NxMDZJc3Via2Y1ZW5CVmY1NlNtVFY2RzBZcFBQQnJQdHN4Q2ZSdUFPRlVzTkNkZHc3a1ZmbnF4SDROdTBuSFR0bnB0cDdsckxxLXhiZWRzNjRkaTVtMWdySTM0M2wxdlVVb2NtaWdxOWdXM1h3QzdZa0VLMHo4T3dvNjNXM1E?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 22:35",
+    "headline": "Christie’s Expands in the Caribbean With a New St. Lucia Brokerage - Caribbean Journal",
+    "summary": "Christie’s Expands in the Caribbean With a New St. Lucia Brokerage Caribbean Journal",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LQWJySXg0M3J2NGJmNHYtbVY2TUdENldtVlZyUTUxOFdTRXNtZkVzY3V6X1NvMklOaFB2YjNFWlhnOEN5dHc2d09XazVfcW94VXdaRXU0NnNvU0QtWWxwS2NSbDZKVkN1LVpMQ0ZDYw?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 22:36",
+    "headline": "Cosmic Leonora Carrington Painting Reemerges at Auction After 70 Years",
+    "summary": "“By choosing this title, Leonora Carrington shifts focus away from the obvious. Carrington died in Mexico City in 2011, at the age of 94. © 2026 Art Media, LLC.",
+    "entities": [],
+    "link": "https://www.artnews.com/art-news/news/leonora-carrington-painting-reemerges-auction-1234804420/"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-02 23:13",
+    "headline": "Piece of Wichita Falls history goes on the auction block - Times Record News",
+    "summary": "Piece of Wichita Falls history goes on the auction block Times Record News",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd1hFQzZJMGtnUGJGcW55WXlfdTRhZ1hseWEzcTZzMFA2SEMwWFNjaUpqdENnNXo2MTdoRnlDcm1Dc1FHeVFheGFoSVl0Y3FvMng3NXJHR2FKU1J2NjNQMnFrQ3Z6VUJVcmczVzBVdzg5QkMzQlBnX0xmR0VYYlhWVDYyZUlvbDVSSHpqb3BWX1FKOGZhenEtX0RiTGw4TkM1RkFzZHg1NWk5UlBBeUpFTC1DMEFXYXpiUzNtdVdTNGxIZWRIakxvRVBn?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-03 00:08",
+    "headline": "Most Expensive Uncapped Players in IPL History: Top 8 - The Sports Legends",
+    "summary": "Most Expensive Uncapped Players in IPL History: Top 8 The Sports Legends",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGlrZWYzTjI1YnMwX0RIRGtGbFFfOFMxck8zSmlOMEtfbGxsUEMzR0RSaTVXbVF5MkJmNjFzeWlOUlQ0eU0tNGJ5TmFEODJFOUZaQnhnT2YzcDVzcXhMcDFVTl8xMjViUGNxNWJYNkR3UnNXSGM0ODAxaFZkNjVvaW1YbGtIQ3c2VlVZUA?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-03 01:11",
+    "headline": "The First Patek Philippe Ref. 3970 Lists For $5 Million - Boss Hunting",
+    "summary": "The First Patek Philippe Ref. 3970 Lists For $5 Million Boss Hunting",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEJDSHl5Y0owTWlmdzl1ZG9EcWRWSnhzSmM0cDBnQVZJNmNZYmNHQWlkc2lOSXROeDZ6MHhRWWtnVmFuUXR3eWh4c2lQM3hqR1pCN3NDa2FHTk9IZ3lLR01vTDVyZ09xdzNCSWQ4WXpPN0ZPZGk2WEhiMzVpUzNYazdkclBzSUVfVjJJZjZ3?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-03 02:10",
+    "headline": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting $92.8 Million Auction in Partnership with Concours at Wynn Las Vegas - Carroll County Mirror-Democrat",
+    "summary": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting $92.8 Million Auction in Partnership with Concours at Wynn Las Vegas Carroll County Mirror-Democrat",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbkowUVpWZk1Va2ZjWnpRcHFvUE8xVWhlZVlUbXkwVUdKS3ZPZ29KX1lkcVlYZDN1U1BheWtHdVdoVXRVd1Q5V01VaDlReXB4d1QzOWx0VGFWeHFwMVNCdVVodXo4alREUUpSbTdydlFadjZPNU5OX1g3S0NzUkswX1ZMZ3MtXzBHTmJ3VmkxZU9VZmlJa0dfRUoyb2hZUE9GeHpQaUthek1vWUJDT0o2ZjE4M1NQdHM?oc=5"
+  },
+  {
     "cat": "Galleries & Institutions",
     "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "11-02 11:35",
@@ -1436,420 +1851,5 @@
     "summary": "Machac, Bellucci and Hijikata first qualifiers for the Rolex Paris Masters Tennis Majors",
     "entities": [],
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSmRIS2E2RTJVdV9qMnRjdEZDUWdLQ2pGazFGUWN1OXE5TWhtZVhkNjVzU3E3U2JyVzFISjNKZXZPUlFId0JuRHZOUEVISjdxY0Y5c3BQRHZKakk3MldCNzh6ejdZdVZDQmJONzg2OVNVOVV3SWdQSTFwdEZNSWdSbXhYRjZ2Um9MNzFrV1VtdzEtVXBwcFhHNVZBeGhKdVJtV0lqRkw3SEU0NG1BckJsUV83eTFfaW1WLVFMcXhXVEFMbWJyTlhNWko5MW1aSzc4T2ZTUlNUNTU2eUJtejFOcw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 15:15",
-    "headline": "Luca Van Assche vs Mariano Navone - Match ATP - Rolex Paris Masters 2026 - Second round - tennismajors.com",
-    "summary": "Luca Van Assche vs Mariano Navone - Match ATP - Rolex Paris Masters 2026 - Second round tennismajors.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2pQdl9mdHRLd01VV2t6bkpFYk5rYXhnSXhNejlaSGVQTi00UHZneGlvcnNoVmZtb3pnSmFSaHVnTFo1YVdTcU1zSzBFdXRyZ1RzRU13M0M2UzRvbTdpR0Y3SG9KWVpOMEprZWprZjM4aVBueS1MNDlnT2lwQmU5MjlrSURKSVJKMVdjcGRUeVduUDRFeUV6U05R?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 15:15",
-    "headline": "Why the Rolex From Geneva Costs More at Home - Luxury Travel Magazine",
-    "summary": "Why the Rolex From Geneva Costs More at Home Luxury Travel Magazine",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWVWNUZuQ1VkWEpwTjhma2U5T3ZpcnVsRDNJVWpKQ0dWTVdrbWUtbXF5X2V5bG5zRGNqc1ZUN2FtSFZWUXNid1B5ZF9GVVhPYUlCS1dsRDZWcGxfQ09lWk14NXdrXzZadTM5VGpFYW9iRHluYTktYUFqSDM0eFhNMXo1MTFGM0xwMC1uUUw2azFzWHJ3cU0xTTFXVlBtSHpyQXBJMjBn?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 15:15",
-    "headline": "Bonzi Secures Main Draw Spot at Rolex Paris Masters - TennisTemple",
-    "summary": "Bonzi Secures Main Draw Spot at Rolex Paris Masters TennisTemple",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUZhN1hvU0lnTFB5emtXUUNsLXExcU1xYWlMVjZnR0ZEMFV6enRibWNfTjhtbGpwWVlBa2R0UnBJOEduRExHNHd2c1dnWGNmNXhvZ05kSHZsaTRoQlQ3RXB5WmUxc21KdFVrV0tGWVFkWG1TdzVhM0FZbWluVTNXWTUzYll5X29v?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 15:43",
-    "headline": "Gucci’s parent is risking the patience of shoppers and investors - FashionNetwork - The World's Fashion Business News",
-    "summary": "Gucci’s parent is risking the patience of shoppers and investors FashionNetwork - The World's Fashion Business News",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN1lOdENWcFVwamtMb1Iwd2d4c3p4TmgtSWZBT3c1Y1FyUFVMZTF4RmM4UEsxWDFMZTdpWFJkcUJyYm85cWkzNXA1cmdDN0d4UDlyX0VNUHJOTWwyRXM2bUxvVHFNeFhrYlpTaTg3eEZiUjRYWWREN09UeXpkRDJsUDZzWVNwZ0JEZUpDZGx4Z2Rrd2RCR3pSYmFfM1plYnNiOGozTnJFbEw2a0h0cVJxVHNB?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 16:14",
-    "headline": "EFG Hermes Launches Younit, Egypt’s First Retail Algorithmic Trading API Platform - almotawwer.com",
-    "summary": "EFG Hermes Launches Younit, Egypt’s First Retail Algorithmic Trading API Platform almotawwer.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVczBCY0NfeFo3MjNqWFVJR2pjWjdqczI1dkhfSVdDUVdnX3NTbHhoT0NTeUhLZWVGU2pVcDM4cUJXRzM1dXpnc0FPQm1KdGs?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 17:30",
-    "headline": "The Best Dressed Stars of the Week Brought Fun Back to Fashion",
-    "summary": "Greta Lee, meanwhile, wore a color-blocked Lii gown—the designer who recently won the 2026 CFDA/ Vogue Fashion Fund. Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-greta-lee-charlize-theron-elle-fanning"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 17:30",
-    "headline": "Compagnie Financiere Richemont SA (RIT1.SG) Seasonal returns chart - Yahoo Finance UK",
-    "summary": "Compagnie Financiere Richemont SA (RIT1.SG) Seasonal returns chart Yahoo Finance UK",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tbldNbUxRM1hpc09DbWo4dDNQQVVxS1dhaDAtd3FPTkltT0oyQkVWM0x2SU4xdVpEanJXQ0JEWkxJcE1wdlNXYVZrSmhxSllCS0xNeV9LRVBvTUplemVsVndyLUZUQQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 18:16",
-    "headline": "Rolex Paris Masters: Jodar, Musetti, Humbert... Monday's schedule revealed - TennisTemple",
-    "summary": "Rolex Paris Masters: Jodar, Musetti, Humbert... Monday's schedule revealed TennisTemple",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnRuLUNUOVVSNTA3cTU1YldyNXZtOHptVE96dVI4X2FuMGNPWWZ4dlhSSDNuQlhSQmQ5TTgyQzNUd3g2TkRjcmhnSldyaFJPN0oyaDQ1dkZTVVJacTdQanBTZ29mQlMxeHlHc3FnTWdtWUd1RUppRTJGSXdSUkdjVjRkbTBRLTBZaExTdFlrb1g?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 18:16",
-    "headline": "What is the Paris tennis schedule? - ATP Tour",
-    "summary": "What is the Paris tennis schedule?",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNXk5b1RqdGZ1RzZYalR5NTduVEt5XzVfRWw4dUJJYXhfb1J3ekVWUXN5bV9nLU9nMERURG5nTFFDV1hTWWZoaXZYcnVwUG5Lbk1lWUJUYlh0X3VnZks1dg?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 18:20",
-    "headline": "Earnings call transcript: Federated Hermes tops Q3 2026 profit view By Investing.com - Investing.com Canada",
-    "summary": "Earnings call transcript: Federated Hermes tops Q3 2026 profit view By Investing.com Investing.com Canada",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTC1ZcXdZQVFFNF9yRF84djc5MEVOWFp1dmk5d0xMSHJlYXNyQVFoWGhwR2pjUG51XzQ4SDJDTlNicFJKSmE3SmpYTVhQbjZxZ3FtZ3JGdnpvRFI1OTRrbWtvb19JalRqTE9SNDFabENmZzNqTXN1cm5nUVp5QjF6WWM1QWRTbTB2ZmVXQ3AyejdYRG5FUG1qRnBSZndCU2pTTmxGNmM1dklEbU5TNHd4ZXEybTRDT25TVlkzcmZGMFAyWENtTlE?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 14:02",
-    "headline": "How Cézanne's Arlequin Set the Stage for Modernism | Sotheby's",
-    "summary": "Still haven't subscribed to Sotheby's on YouTube? ►► https://www.youtube.com/sothebys/ Want more information about the sale? ►► https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/paul-cezanne-arlequin #cezanne  #ModernArt #Impressionism",
-    "entities": [
-      "Sotheby's"
-    ],
-    "link": "https://www.youtube.com/shorts/tncp_HM8Hn8"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 14:09",
-    "headline": "Secret auction tactics revealed on The Block 2026 - Real Estate",
-    "summary": "Secret auction tactics revealed on The Block 2026 Real Estate",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGtzWGpOV2VDU0VNSHN1aVpTNU1iNkJDaFQ2a0plR3lzS1lSdEI2eTNzUHdGdXAzTS12N0loZ0I0YlJYaHgyRk4xNWpNTFNocFVoOENZTkltYlRYS3F5Y0lPWW9XOUgtSExRVG1wUDdqLUlLcDVIQjVhSFRhV2RvQ3dBNDhiTUNHbFdZVmln?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 14:10",
-    "headline": "Images by Nadar and Man Ray Feature in Auction Celebrating 200 Years of Photography - PetaPixel",
-    "summary": "Images by Nadar and Man Ray Feature in Auction Celebrating 200 Years of Photography PetaPixel",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0dRTzdQRmdMOGtYYTQ3bG5Gd1cyR3FzTEkyakUzd2pHaWlNbU9mWHFRbERkVVhEQnFEWTgzVlpqWVVTc0NEWlJ0dF9TeG5nTFZGMkNOVU9kY3MwZ2JWeFpoQXJwOGNOR09MMlBGZEZ2Nm5RVkdsZ09zVnhrZU5GbldSMWxJZElveGtvWER2ajN5NTNXWDVHUjJqTGU0c3dlbDNERWs4Zk96UjZRamFnY0p2dkFWRFdH?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 15:03",
-    "headline": "A New Star Wars Trading Card Auction Could Be a Gamble Worth Millions, but You Will Never Know Unless You Win It - ComicBook.com",
-    "summary": "A New Star Wars Trading Card Auction Could Be a Gamble Worth Millions, but You Will Never Know Unless You Win It ComicBook.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYzZ1aFg3TW41alZIMEUyT1VPNFRGM2VsaVlJdVl5Tl9XV19meHJNaEg1T1hCeVphT0E1WXd4VklvZEZ0RkVvNGRPTVRDYl9uU3d5MWRqYzB4QURNVmtmb1NWNVduQnc5X1lEbmZQUFZnUzM4RDZIcnRwTE0ybGdabjhDek5faldmLVVXY0NTZFAtbEhrN3lmR0R1TjZmNFBPNGQxRHB5VmMtcDVLR3V2OEVOV2VBd1Fxb2otcnhaSmFuUWI4U3E2SHZJeFlVUXFuRVJVUXBGOEJrMERKSkx1cHJSejRXY3c?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 15:03",
-    "headline": "NBCC Achieves Record ₹5,191 Crore Sale in Single Residential E-Auction at Delhi’s Avenue Towers - Indian Masterminds",
-    "summary": "NBCC Achieves Record ₹5,191 Crore Sale in Single Residential E-Auction at Delhi’s Avenue Towers Indian Masterminds",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOE5lMUdoTTYzZWdkVEpQU25EMWhaZjFDZnZGYWROQ2kxSWlYbUx3MHR4VmQ1NVlQRWxFOW5TTEhELVVHNVoySEU3TkpFaDZOUEUwdUxzLWFNb0JlUDZCbGY5dGswcG5YcHBBZElwcDJrWldaSE5YRHZiaG1LeG9NUi01Y1FZZEM1NXdsS2U5bG01VXlPeFIwQnEtdWNfZEVvZ1ZOSkQ5dmJOXzQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 15:03",
-    "headline": "The Block 2026 auction results: Who won big and who missed out? - New Idea",
-    "summary": "The Block 2026 auction results: Who won big and who missed out?",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91cHZ6bHpmTGxIZFFWTnlaekRybzB0N2dya2plVEdaWE1SOWY4Wmg0ck0yVUxiVDlBOW1rYzhWRnBrbXhlRDk2WGl4MHVDQmhIWGlRUmpVYlNHcjlxcXVQdUdoZk45VHMzbHc?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 15:28",
-    "headline": "Russian crown jewel from Romanov dynasty could fetch £1.5m at auction - Oxford Mail",
-    "summary": "Russian crown jewel from Romanov dynasty could fetch £1.5m at auction Oxford Mail",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXhaelRTek92UzN0S0YtV2FGNHhIS0xYUFI0R21pVHYzck51ZUxGbG50VEJzdmhFSHA1UHNoR0h3eUcyLTAweUd6N3hNdktwU1B6NWx0NkMyYm56dDNIbmtLYUhKd3JsTkhqTWN6MUhEQnRzaW1CckxtemZCTThacm5NbVN6VUlYQUtvY3RtSm1DNnBkeWtJS0F6ZXhlNnlDams5bjVWc2c4WnAzV1Mw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 16:26",
-    "headline": "26ct. Sapphire to Headline Sotheby’s Geneva Auction - Rapaport",
-    "summary": "Sapphire to Headline Sotheby’s Geneva Auction Rapaport",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXc3Rk83MkZ0YUFuY0t0d0tXSk1jSzdwUmthX3otSlY2VzdGZHd1UFY4WGtqUGxNT2hUTklRLVI3WVdLR3R0VEU5NlFwcWxIY09uZ1dWWjBjNlloOW1QQ1dFNmlkMk5zeDY2eEhfOU9mVEtOT05tM1A1bWdsM2Rrb1p3?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 17:16",
-    "headline": "Lakshya Sen wins Hylo Open 2026 final, beats Jonatan Christie in straight games - Sportstar",
-    "summary": "Lakshya Sen wins Hylo Open 2026 final, beats Jonatan Christie in straight games Sportstar",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMTBfc2VKSkdOeWx3YlZHMFg1b3kzM0UyX0V5c1ZxcGU5aC1XbjJtSW5mT0psdnJvLXgzT1JuY09XZmc5YkVOWFM0UWNNQXBabTU1X0s3dHgzN2t5SzZlSUpKS19ZS0ZvZUNxU3VtNHBUMHhMOFdEZGZSUm5TSjc4LTlkZS1jcnNJdlZjS1VwRTBvOEtmam4tMmNnZ3NVcmtiX08zaEl0QkZEQzhXdTJLcHdERkRkSjhfVFowQ3hyTDY0NnZnME9NNjZNdkt0V0YwODl4STZzTDd2Sm4zNHZjTWZ1QUrSAesBQVVfeXFMTVRnNFUxUVluYUtJMWNCRFJNV04xNWhMTmtGUGxwNlhCdFFDVnFKTnRpMWd1OUxvQndqTXM5QWJ4VXF3MjgtYmQxaDB3dV9nWkttMmdhemp0M0E0Slg3ejFtd0U4UGlZLUs0dWdvWjdXM1dwWEdiSHFiWGtZWEluQVZsUUo4X1NCb1dXRmFobEhSUXRyaU53WWRhMGd6dFNIdzVJVEpEa1ZZLUN2cHR1SFIxbkhLcVNmUzNvWUFVMTBjOV9XelI1cXlKTXItZ0NyMEVQT25LQkc3eXRnUWlGdTdDZVJ2LVJtN2hITQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 17:16",
-    "headline": "Christie’s Offers 350 French Photographs, From Nadar to Man Ray, Across Three Paris Sales - freeyork",
-    "summary": "Christie’s Offers 350 French Photographs, From Nadar to Man Ray, Across Three Paris Sales freeyork",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDBiN0pCTTlQZUJGdVZka21YMmdkYi1fWXYyWlNZbjFJcjhYRzVuTzlnR3lhR3VjSkRWZU50R1pRc0FmcWExelN6cFBwX0t2QnhqOWhRX2JQVkxxWmFxMFpkVlR6MnFzeVd1YWZPaUNUN3FfY0RwR011eFZyUE9USkN5UHBXWHl0TXNpZQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 17:20",
-    "headline": "She’ll Bring a Pokémon Collection Into a Nursing-Home Medicaid Application. Cards She Never Sells Could Still Count Against a $2,000 Asset Limit",
-    "summary": "For an older adult seeking nursing-home Medicaid, the collection can matter because eligibility includes a resource test. A collection held mainly for investment value may not. Graded cards come with arguments.",
-    "entities": [],
-    "link": "https://247wallst.com/personal-finance/2026/11/01/shell-bring-a-pokemon-collection-into-a-nursing-home-medicaid-application-cards-she-never-sells-could-still-count-against-a-2000-asset-limit/"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 18:19",
-    "headline": "Lakshya Sen beats Jonatan Christie to win second Hylo Open title - The News Mill",
-    "summary": "Lakshya Sen beats Jonatan Christie to win second Hylo Open title The News Mill",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWlxSU5rUlBwaUNWbU5JMTQ0Y2llYmNnX05yQ09XZkdJdG9XNTQ5YnhZREtyT2NFTzJsVFBhLU0zYkp3MHVLX2ZuRmstX0ZVSXhmR2gtbU1rQUVtOG1CQ3pDLXVkMDFRTU1ndXh5cXZ5UGdTdFc0a1g3TFRDVWc0alhMclloWGIyQnI1ZTBCRE9sWW1WbUxTYkdHcDZadw?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 18:19",
-    "headline": "Christie's Holds Abu Dhabi's First Dedicated Fine Art Auction, Realising More than USD$8.9 Million - Christie's Press",
-    "summary": "Christie's Holds Abu Dhabi's First Dedicated Fine Art Auction, Realising More than USD$8.9 Million Christie's Press",
-    "entities": [
-      "Christie's"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTTZjaVBEUDJqakEzTXlveUNpcHQwSkNhbU5pZ2JhQkhNWFAzNTV2Q3dnaUJqVkl6Q0ZNbml2b3YyVzZ2UkdxSlJSQlY3VjlEZWxGR2xVVXo0MG81NE1XNy14TVNqb0xSeWxLLUl6MS1oY1NydzRMRk9idzFLZmtEcy1hQ09kSTQ4UGhyODBlRTNSZV9fN2tZWjFFMVN1bFV2UmZYaFJpSUx3Z1VXYVdzUm5jcFBxTmZtS3pr?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 18:19",
-    "headline": "Christie’s debut Abu Dhabi sale totals $8.94 million, setting nine auction records - The National",
-    "summary": "Christie’s debut Abu Dhabi sale totals $8.94 million, setting nine auction records The National",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOejQ4LUR0NVkyZVN2ODMtWVZvZWxfb0VyZXZNUmt2N2xqTlVvLUFSUTlzOFVZZE1uOWFfWFdwOWlnUVJPQnNualcyNE4zRERYcWNwOHZtb2V1em8xVEhIa05zUE1kWFdyNklWXzNEaTVIQ1V1Ym5EbDJYTmxJUzMwRVpqVjREYjRqWEpLRi1RMFc1djlhOFNVdkMtMGxwVy1kTklqZm8wOVJUcTJvalMxRFdnM19YNjlRUy05LUNTd2xST3k2Tk5tNVk1eHpQWHpwYkNwejAybDhfZ042UWtB?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 18:19",
-    "headline": "Christie’s auction in Abu Dhabi raises $8.94 million — The National - UA.NEWS",
-    "summary": "Christie’s auction in Abu Dhabi raises $8.94 million — The National UA.NEWS",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWZXQnV4RzNJSnJMSEFRWGV2MkFlRFVWRGgtU3JTUGo1VG5Qc2dtSHplb0lTbFdXUUdWUVMtOWZOQ0NTTktCT09pdGpEUVowMnZ6XzZRLVdDb3o2ZzdPVTZfeXFBNUxMWHRkMFd4eDZhc0RiY1c3c2Z1ZVFTNHZha1VHTVkya1drWk1ZNU1ILXFyT3RUVjlMSg?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-01 18:53",
-    "headline": "Kobe Bryant Card Makes History Setting New Record at Auction, Full Price Details Revealed - Bleacher Report",
-    "summary": "Kobe Bryant Card Makes History Setting New Record at Auction, Full Price Details Revealed Bleacher Report",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1YxellGdzBLa1gwZXdBWUFvcjUtcGhxd1IyOHRmTEVjTHFOTjdEUVNndk5BMkdqM2w3UWxabVdGQW56UG0xTnFWUVZXT3pzdzU4bFlVaFdxNUgxR2hxWFFYZ0pSeEp0SkhPZEEwNXBuMFczQXFjczcyMFpVNklTZU1iZ3YtZmM5Y0thUF9iSXJaa3JWWWVVNk5ERV9wN2tuMERrTFFTc01QbEhsUDhrMkp0VHNMWXJNOTNTa3JPMjdYT0Rmd3YyYzN3?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-01 10:15",
-    "headline": "Martha Jungwirth: Minna's Bedroom | Thaddaeus Ropac | Galleries - Frieze",
-    "summary": "Martha Jungwirth: Minna's Bedroom | Thaddaeus Ropac | Galleries Frieze",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WMXNQZlJRdVZ2ZEZtUkJpdWNkaTlINUdVamlHaXNtN0lwV1c1WVRZSTQ1MWJUUGJsYkN5TEREb3F3RU5qb0M3RnVManNfbmNFbFhCTG5JX0lraDZpNFNLM0NPMGx2VG15WXVBMA?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-01 10:15",
-    "headline": "An American Beauty: Grateful Dead 1965–1995 - Frieze",
-    "summary": "An American Beauty: Grateful Dead 1965–1995 Frieze",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wTzZFWkpvVHE1Ui1OeHRrRGFNUGpEVHFkRF9EM01sZ0NWOXg5VF9UTXBxZ1ZRVUxfWXNya3NuMWJkU2xJMFk0V2czSmJ2LUY1Yi1SdU5qWkpZYlVvelJfVXVHbTRpbmVMS09nVmFrUXNpNzFfTGln?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-01 10:15",
-    "headline": "Isaji Yugo, Ryota Kikuchi, Patrik Söderlund (IC-98) “Everyday With a Delay” - Frieze",
-    "summary": "Isaji Yugo, Ryota Kikuchi, Patrik Söderlund (IC-98) “Everyday With a Delay” Frieze",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTmt6SzNUeWo0S2N3aVR5algzaEhqb0xJRHhPU3NfVHNHUktBeVlON2pOZWhzM0tSMHZrZzdzU1d4MHRJQ3dlVmFmbXdvRHNsVGVyMG1ON0dQWDdCblN1d1o5Z0Z1UEo4SFJPOXBrbkVJcWpzNF9YbUNTcDFVdGk4UW9qSnN0U2dCUkgyTkxHLUMtMWUtNFE?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-01 13:09",
-    "headline": "Art Basel Paris closes early amid planned protests - AMA",
-    "summary": "Art Basel Paris closes early amid planned protests AMA",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwRjV2Um1YaFMyOUYtWVhWVVV3RVVpcFpSRHZLelU5dHRwS0RxWlpfSXhEd1FDODFFeHhlRmxsVlNpQ3o3UGpRYXhDRUxNcF9yTU1LWUcxcVk2b0hWUVQ4bVhiS0FhLWhiOTVIN2J3QQ?oc=5"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-01 13:09",
-    "headline": "Art Basel Paris closes early: positive results for the major players, uncertainty for the mid-market segment - Il Sole 24 ORE",
-    "summary": "Art Basel Paris closes early: positive results for the major players, uncertainty for the mid-market segment Il Sole 24 ORE",
-    "entities": [
-      "Art Basel"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUS00d25xUWYwTzhka0xkQlR3U3lNdmJlSTE1WFRvVHd0QXJyU2JHUXBxQ29RakpBS1FyX0FtZTJnOEhwMEt0TkQ4U0tRVXg4RTc1MFVKVjdocFlkMk1YQzRZMEluZFF1UjVDNWtud0NfRHB4WmhJM3IzdlZrM0xocEtxbDVYSGV0WUluQW9IelEyMV85U0wxdC1lNERZV1NTTEFQaEtpaXlrYW5FUEkyRElhZjlNZmhZeUgwT2xJYlc3V1kzdVBORkVlODZFR3VPNmdaRldFX1k1bDBwU3pTdHJkei1UY3h1LUJvRWFNREI3T2VmOGl3TnpuSXlwZXo0REE?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 06:08",
-    "headline": "Rublev vs. Etcheverry Prediction at the Rolex Paris Masters – Monday, November 2 - Bleacher Nation",
-    "summary": "Etcheverry Prediction at the Rolex Paris Masters – Monday, November 2 Bleacher Nation",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQblNFNW5zSEFqMUpRS0YwSEZTZmUwdFo1TDV2MnR4NkJ1WDBaMWdhWXRUVTd4bFBGWHdvRzNnaFlUOHZ4Ym00Skp0VDNBeDg3QjJ1WjBnc0h3bWxWOEllbVZuTUtoZWlmcV9EbHdKZE5yRzI5RzJMWlMwNjFRQm1ZTHJmTEVxa0U3UlJ6WTFYaldQZmpuaXVlXzhYb3NIeXhlQlozYUVNN1dzSkdCaWVzODJna1dXQW5ZdVM0ZmVqbi1vMXM?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 06:08",
-    "headline": "Merida Aguilar vs. Blockx Prediction at the Rolex Paris Masters – Monday, November 2 - Bleacher Nation",
-    "summary": "Blockx Prediction at the Rolex Paris Masters – Monday, November 2 Bleacher Nation",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWpnVGhRbVVOOEllODk5a0VwVk5NaVVwUG04d3NBMm1rUXBCQnJobUwtYXl1V2twcUhlVWxKQV96LVdlU1BnalRHZ1o2VldEUVNuai0tdlM5aUUzTFUzc1RaMGNIZWd3QzBTbWtHbWp6RmFJWTNlVXRPMEpFWm5PanprSlJkZUhFVHkxZ0dieXpwbm4tSnNlQnM3NWdpb2RxeXlKamtGSEJHdTJmbG41T3VjZ0ZMVXdoZU92VjlTbjlVcUloVnFaOA?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 06:08",
-    "headline": "Humbert vs. Van de Zandschulp Prediction at the Rolex Paris Masters - Monday, November 2 - Bleacher Nation",
-    "summary": "Van de Zandschulp Prediction at the Rolex Paris Masters - Monday, November 2 Bleacher Nation",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjgyVFdwaGVKN2tWanVremFvQUVncEIwa0s0Y2FobURhMW91TXM1Wkllcms0TS1kOHNLRWNjVzNaNFRnY3NuY1JIVlBVaHoxQy16dFNNWTBXcHpvMkI3Ul9fZXRtVkpQaTB5SVdVMEIzS2lPdXFjUFh0MTNURTlxUTRsVEUyVDJoejNjbTEydGN5Um9mbERod0szazJCSk5kYWdNY3ZWVWNxeE9jU2ZlamlueXVCWTI4a0toWWtIbzh4ZDFkMkZjMWtkMTJUdw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 06:08",
-    "headline": "Sunday Morning Showdown: Rolex Datejust 36 \"Ombré\" Vs. Grand Seiko SLGB015 \"Lake Suwa\" - Fratello Watches",
-    "summary": "Sunday Morning Showdown: Rolex Datejust 36 \"Ombré\" Vs. Grand Seiko SLGB015 \"Lake Suwa\" Fratello Watches",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTE1UmF0X3N6WWFXLVlxd2J2S2JDcG0zZFBZMGVKQ0lYcWRpYzBFNzQ4RFQxTHZ1Q0dkYW9STkFTX0s2aXdqRllxMWJqNUZEdE1OQnpTS21PcTU1MDdoYi1YNDFJWmtGblF6eFF1Z3dGMWhBZEhMODRJNEFQZmFDRDI1OFNHbGFKY19fQl85YlRlQ2taMHJpcnNPYjZKMkxzQ2R1UC1rR2NxQTUzQmkyeGk1WQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 06:10",
-    "headline": "Yamal’s Timeless Loyalty to Richard Mille Amidst Ballon d’Or Aspirations - SSBCrack",
-    "summary": "Yamal’s Timeless Loyalty to Richard Mille Amidst Ballon d’Or Aspirations SSBCrack",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFZScGtKZENKSXc2d0txMjQ0ZHl4aE1DRzFPS2pEWVNOZXpVcGxTY29IbDdZeFBmTVZqZ3A3cTViWnBXcF9QVnRjVUlZU0RhYkRnVG5FRjJadE11cy1QUDFTQnc3LXA5NXYtd294elNTZHVBTGZfUjVoNks1WmtpdVVBZWVvYXVyV3pLZVI0QVpsaVZKc0t6TjkycE9pQQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 07:26",
-    "headline": "3 Stocks for Investors Seeking Steady Income as Bond Yields Stay High - Simply Wall St",
-    "summary": "3 Stocks for Investors Seeking Steady Income as Bond Yields Stay High Simply Wall St",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWV83UUptYkZMMXlxczZHd2ZKaVQzbjdYREhkYmdXZno1ZzhwNzFha0p4LVBQcUNlTWxSZmFRa2ZlSGFZRzA4Y1pYa1hqY0FmN2o1ZWdRVXQ0eVNOcnBFM1NwZ0NqbUVGM21vV2hvOExCVkVUS3U0bkhNb2lFR1BWT1FBS1V3a1VzcDRGbF9UVXFpVUZ4Q1V2U01wZ2NTX3hfRGpmeS0tc2hJbzdHeTY4azdiRUJZLUxUSjNxQmdjSHU0eS11LWxyMzVnTTZLVHJhaVg0anFzM1BXS3BSTUHSAeMBQVVfeXFMT2tqbGItLXJWX1FOQXdMWnpMRGdnUW9jbEVLMkJobVg2ejEyZWlRci1DV0ZYZUI1dHNRM2lTVmxpY2FuM2xBRnFkTWtpMXpOTHRJZ0tNTVdiZ3pUY2UwVUdST3hwV0NDbHFSNG52U0U5UV9VTk9aT1VUcFNtS3JSa0JHOThVT0pyenJld1NmQXQzNWdtblFKZG04QlVXMlNjZDJkZmRSb3pBaUNaSmFxWmtPM1hnNUR3akJYM2hvbGlzc0tieTRacXByQXFCZHBTWS1kaFhqNWtRcWFQbHJ5VzR2ZEk?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 07:47",
-    "headline": "Can Luca de Meo turn around Kering? - MoneyWeek",
-    "summary": "Can Luca de Meo turn around Kering?",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IU1VicmhGR3RGV08xUXFrdy05b3d3N1k1UVU2RFJ4V0ZTVXNoUmVDQkFpbVY3ZUNvQmhfMUx1Z0NqNGg2RUhhS2xqWExZTlFaYmtxREpUakhXZk1nWHAwMUtUdjJaM29nNEZBX2trbUI?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 08:18",
-    "headline": "Race to Turin, daily: De Minaur takes ninth place by one point, and the Vienna title would make it a 171-point lead - Tennis Majors",
-    "summary": "Race to Turin, daily: De Minaur takes ninth place by one point, and the Vienna title would make it a 171-point lead Tennis Majors",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXhkLWdpakJES191NlhiX3dCenJwWUpkU09KcmZhQzBHcHVhLWpnTEl4cEctZkEyUW5iQTJDWHVQRThmZVNMSlIwa1czbzZSclBvYnA4U3RjSkhLX2lBb1ZNT2FTNmkwT1RRdkY1N25wNW96OWtITVd3amo4MmFHX0xyMzU2RmhUekUxZU5aa3hMaHBQa1pqcTRfVlJpXzI0MDM1VmJDdHo3Z1dCNl9sb29NRkFkTUFKOGxPbFdSWG8xdl9m?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 08:34",
-    "headline": "Compagnie Financiere Richemont Earnings Date and Estimates - MarketBeat",
-    "summary": "Compagnie Financiere Richemont Earnings Date and Estimates MarketBeat",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2RiU01TeDJKSlg3UGE0Z2hJOGpDdjB0T0RrdEhsSnR0NWlrQ1lYREFHeFdERmxBYTBWVVlkbjZxY2NzQ0VwNFJ4UTF5R3lscFhuZVpIUmE1RWVLUFF4OEFCY1dPZG5uREd0aG5PVlhFeVhqN1RZU3cwLXhPNDNNb0NyQy1KZEp3NUVSRk85b2lWX2R0R29zaGtR?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 09:14",
-    "headline": "Rolex Paris Masters 2026: tickets, transport and tips for the Plenitude Arena (ex-Paris La Défense Arena) - Tennis Majors",
-    "summary": "Rolex Paris Masters 2026: tickets, transport and tips for the Plenitude Arena (ex-Paris La Défense Arena) Tennis Majors",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSW1McXdkdkYzWkVrSUN4TkdOMkI4S0hBWk9zWEsxeURjOTNsazM1NzAtZDMzbkd4NEVodFFNZ2ZKN2xpSkFMV1Fialo4SUtXLUFQRjNKaDdYRklHZXM2SzdjeXBzcVlrdWZocGRpX0I0NXlqOXBPNGxKYTEwYmZZeUVWckpZdTMwQ1daY0t4c0RqS2FiQkhHNFFieFo1RE5ubWVlMEhmd09IQ3NIMEh6d3JDeWJtVVNvN2hjSWE0YW9aNmQtSlBGdkZBdGY5aXljMENEbjhCbGUxempJVV9SNnhlMA?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 09:36",
-    "headline": "Compagnie Financiere Richemont SA (RIT1.SG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-    "summary": "Compagnie Financiere Richemont SA (RIT1.SG) Seasonal Returns Chart - Yahoo Finance Yahoo!",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OXzR1WjI4WklVR2dMNWhzaV9CTXBQUlNWTEtRRktKYUYyY2xsT0xaMEdyTVpwWTVjTDVYNDBjOG44d01zZjRRT01mci1VWENkYWpqbnRJMXFJZ0h1SjVUTzFQaThPdw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 10:17",
-    "headline": "EFG Hermes Advises ADD Properties on a Landmark USD 265 Million Syndicated Financing Package - شبكة تواصل الإخبارية",
-    "summary": "EFG Hermes Advises ADD Properties on a Landmark USD 265 Million Syndicated Financing Package شبكة تواصل الإخبارية",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kT21iZ2tVUW5BYk5tN2hmdndEMUF5a1gwbE5WYXpqQk1hZ0xQOUpkeEpmWkJkY19jM2dsTW9COGtTTXBISTZ2dnVKWGtyQ3MtNWZZ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 11:19",
-    "headline": "EFG Hermes leads $265M syndicated financing package for ADD Properties - آراب فاينانس",
-    "summary": "EFG Hermes leads $265M syndicated financing package for ADD Properties آراب فاينانس",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGlUTE1POG9aZlJ1bTlWNWFhbXlZYVJHZHRyUXJ5OXl6aHNjbDloVUlCWTZTaUFqQkpINXhNUy04ZG0xcUUtX1JxRzZsU2EwUGNzZHBLTERZV2R1cV9aUGZPeU5YaGJfNjN4X2FEWEhtT05KMWNhd0Z4dHM4eEs0WXlyLWNsaGhNaFVXajRrdGJ0SHZIV1BLRWVxY1dLcUpJNkdScnJxTnh1UFQyVFpJRQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-01 11:19",
-    "headline": "EFG Hermes Advises ADD Properties on a Landmark USD 265 Million Syndicated Financing Package - التعمير",
-    "summary": "EFG Hermes Advises ADD Properties on a Landmark USD 265 Million Syndicated Financing Package التعمير",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBteVNZQXlMQVIxSEVVUlN0WnF6Y1owNVozazBxWlBxZHlPanFfSGcxZ0M0RndJWUJiUmtzMGRPVzVHa2dnZkl4aFZ3Sm5BZw?oc=5"
   }
 ]
