@@ -2,6 +2,255 @@
   {
     "cat": "Art News",
     "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-09 01:51",
+    "headline": "Natalie Portman and Jenna Ortega Stage an Accidental Art Basel Masterpiece in 'The Gallerist' - Hypebeast",
+    "summary": "Natalie Portman and Jenna Ortega Stage an Accidental Art Basel Masterpiece in 'The Gallerist' Hypebeast",
+    "entities": [
+      "Art Basel"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa25YWmJMaFZWbTl1SG9fRXhua0FHWVQ5RHk1VVpJMmNReGdRdldvX2pIU1pEYWVNZUdvU3B0UURrQnJKTWdhUVZiR0lFMGZoM0c3X3V0cTJxRXhYRHB4MmpnWVZzZ1RlcWZtWTR5VkhWakhYNHE4VnQzLXZ0QWFwenNkTFdPbnhUckRQWGJNdVBlQVhDam1Qeld6QkhGSldOT2QtVGVyT2dDQmZsQUVETnpxVDM4a3RvcEtLNg?oc=5"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-09 05:32",
+    "headline": "It’s time to tell the truth about Roy Lichtenstein",
+    "summary": "The Whitney’s retrospective ‘Like New’ focuses heavily on the triumphs of the early 1960s — and with good reason",
+    "entities": [],
+    "link": "https://www.ft.com/content/f1fba5a5-8468-4d8e-8376-7726db27be88"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Fine Art News via friedmansammi on Inoreader",
+    "time": "11-09 06:31",
+    "headline": "23 Artists to Discover at the First-Ever Frieze Abu Dhabi Fair - AD Middle East",
+    "summary": "23 Artists to Discover at the First-Ever Frieze Abu Dhabi Fair AD Middle East",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQjJKd1NsQi1NazVQR2Q1cFBDUjRCQTR6LU5UdTZkV2tDXzJxaGlncGw2OXFRUEtmMlVkWmxVck16X3c2UjBwTHp1c016Vmk0cDlybW1oX3pIb0t5ZEFyaWlRMU5idlBoNUxnZnZHc0N1NWlGUE4wQzZYSVZhNzZuNVFFeXJjbERGUjV1LW1Bci1kd1E?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 02:58",
+    "headline": "26 unique pieces revealed for December’s TimeForWatch charity auction",
+    "summary": "New York-based Swiss Institute will be hoping to raise millions of dollars to support contemporary artists when 26 watches from independent and institutional makers, many producing unique pieces in collaboration with modern artists, go to auction as part of the Phillips New York Watch Auction: XV on December 5th. The watches will cross the block […] The post 26 unique pieces revealed for December’s TimeForWatch charity auction appeared first on WATCHPRO .",
+    "entities": [
+      "Phillips"
+    ],
+    "link": "https://www.watchpro.com/unique-pieces-revealed-for-timeforwatch-sale/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 02:58",
+    "headline": "Snoopy rides his Sopwith Camel kennel on Ball Watch’s Flying Ace collection",
+    "summary": "Ball Watch Company has reunited with Peanuts for a second series of Snoopy Flying Ace watches. The Engineer III Snoopy Flying Ace collection includes stainless steel models in 36mm, 40mm and 43mm sizes alongside a 43mm bronze edition. The watches revive Snoopy’s alter […] The post Snoopy rides his Sopwith Camel kennel on Ball Watch’s Flying Ace collection appeared first on WATCHPRO .",
+    "entities": [],
+    "link": "https://www.watchpro.com/snoopy-appears-on-ball-watchs-flying-ace-watches/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 02:58",
+    "headline": "Rolex cooks-up plan for cakes and cafés",
+    "summary": "Last month it was widely reported that Rolex had filed a trademark application for “Rolex Café” in the United States. Meanwhile, in London, Rolex cakes have punters licking their lips. Images of […] The post Rolex cooks-up plan for cakes and cafés appeared first on WATCHPRO .",
+    "entities": [],
+    "link": "https://www.watchpro.com/rolex-cooks-up-plan-for-cakes-and-cafes/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 02:58",
+    "headline": "Berry’s Jewellers shows world-leading preparedness for AI-assisted shoppers",
+    "summary": "Leeds-based Berry’s has topped a table of jewellers on both sides of the Atlantic based on its readiness for shoppers looking to discover where to shop by asking their AI chatbots. According to a YouGov report on upcoming Black Friday behaviour, planned AI use among shoppers has almost doubled in a year from 19% in […] The post Berry’s Jewellers shows world-leading preparedness for AI-assisted shoppers appeared first on WATCHPRO .",
+    "entities": [],
+    "link": "https://www.watchpro.com/jewellers-get-ready-for-ai-led-shoppers/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 04:07",
+    "headline": "Balenciaga taps British designer Martine Rose as creative lead - Philstar.com",
+    "summary": "Balenciaga taps British designer Martine Rose as creative lead Philstar.com",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORk1DdGFRUTNBb3BkbGpOU0NFWDhvZnlIb2hyZF94Wmg1THE5M0JHZmVfYW9mUkEzWnJQM25Hb3dyRjRpclZ0cG9iOGplVVp2OGtsVFlzZnBrZzZveDJDX29FZHZmZ201SVBHM2JaSWZORVNWQWpXYWptcnd1UTBaS29tQmxoTUoxMXdkbEZTRmZNY05VaS0waGlnQXlaLXhxZG8taXVQdFFqVWFpc3VhSXFDUVBoMHFZQWlnZmhHVUpjdVlxd2R2Rl80QU3SAdMBQVVfeXFMTlFBd0FTY2xkTTdkNWdidEpIZUhLd2t4ZTVkUVVOd0xYVnRnd2pSbUltY3Ixb1B6a2hCaTVNajlXb2c1ME1QWjNwaENlWW1VSHYwR243TGFySE5velpMU3lDTFVMQ0U2dm4zekptTWUxRUdWQW12RUIwc2pBWTVROVFya2hnWDRCeVhYLWlrOFJieTNTeTk4eG9Obi1TTmJzMGpReWJ1TWFkejF5RTJYN0Q3UFRZOThuM1dzLW9jaEhwaUJHQTdxdHh2bWNtdEdtZ1BBVQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 04:07",
+    "headline": "Pierpaolo Piccioli Exits Balenciaga - L'Officiel Philippines",
+    "summary": "Pierpaolo Piccioli Exits Balenciaga L'Officiel Philippines",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZlc1bnVYaG5lcWNCeS12SFRDWUJ4bk11bmdoUEJpVXE4b0pDUnRXY0o5alFqclNrVDk3TjRHSklRbnJsUktoVy1yQ0twdkNCS0hqWV9UaUdpRmtiVTM0aXhuRGZXR0NaR1JPUVQ2RFB1dU1HYlZVVzItOHVlS0VfWmlqLXdfWWltVTRFU2psNFhSQjRmM3hPMWF4aXNIR2h6YTRwRmVLTWdiVkdZN3hNSkdwTG1RaThURzRESGNHcG1PdWxJMGZtYzJyWQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 04:07",
+    "headline": "Martine Rose Is Balenciaga's New Creative Director - L'Officiel Philippines",
+    "summary": "Martine Rose Is Balenciaga's New Creative Director L'Officiel Philippines",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX1Y1TC1LdHdfdHc4OURRYWRMeV9ua1hoUGxkZlp3RmRtaExmR0RzMVN6bGtiTnpoRHB5M2YzT2VFUi00U0N1T202TGxaOUgwenZNU3hBQU8wc3Z0a0NiN3FUblpQY3RtMGNzY0hsZkJjalhxaWxYQnNUWFVnUVdrZ0pMWW82TElqU3oxQWNROTBHWkVvdXAydzU2UXlQQQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 04:18",
+    "headline": "2 transgender woman, 30 & 24, allegedly steal S$765,000 Patek Philippe watch from Chinese tourist in Pattaya - Mothership",
+    "summary": "2 transgender woman, 30 & 24, allegedly steal S$765,000 Patek Philippe watch from Chinese tourist in Pattaya Mothership",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ob3RTUGJWcTBJdHFMbExWSTdCb2dKMC1Sd0pSQ3N0TXdPQmtpdEN1YXZwajFZTmZFdnF4Nm43a0VNR2FIYkZ3bGxkbk5hMU9nTUxRUk5BOTV5N1VSd0ZLTjRLdEUzM1FySVp1YktB?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 05:29",
+    "headline": "Announcing Amer Sports on BoF Careers",
+    "summary": "Check out this week’s new partner and openings on BoF Careers, the global marketplace for fashion and beauty talent.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/workplace-talent/amer-sports-hiring-bof-careers/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 05:46",
+    "headline": "2026 Record Award Winner: Royal De Versailles & Rolex Boutique by Partisans - Architectural Record",
+    "summary": "2026 Record Award Winner: Royal De Versailles & Rolex Boutique by Partisans Architectural Record",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWpTYXlMRzFBWU5YVlRTbTJoQk9rWXh5YWl2U183ZGVyaVJab2JoZWVjcm5kSC14d3J4OHdlTWctazFDY3N6NkljcXBDUWFPQXY3WlAxMVZ1QU51RGZLVVIzckJzZXJoZTVqWEtzeEY0OXNkR08tZnNxNzZHaXQzUVdwaEVsdFpBMFZ0OWNfTE00V1preFpiTjRybXp5dHZKYTBkY1lCS3BubTYxZlRSeUlwc3pZcXFFTEdmMVl2SUhEOW55eUE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:00",
+    "headline": "Do Female Designers Hold the Key to Kering’s Creative Revival? - WWD",
+    "summary": "Do Female Designers Hold the Key to Kering’s Creative Revival?",
+    "entities": [
+      "Kering"
+    ],
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanlKYkFLekY3TVpGUnd1NEJURktaQkQ2M2tzajNIVzVhcnVLWUh3ZS1jX1VIV3ZqalpPQ2RzWEhsY2JQS05SOHM5YzNJNFlqYkRnVlBHZE9hRFN6MU9jQ2NpOXhScXJSTlNaWUJfRFBpQkZ4V0NsMDk2c0h2RjVEMGpsdnVFS2dNQlJDakN2dFFTaTNjMHF6Qk5mWG5qdkloLXowa2JlalBPRjQ2ZjdqZWgzZFE?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:10",
+    "headline": "Two transgender women arrested by Pattaya police for night theft of 20 million baht Patek Philippe watch - Thai Examiner",
+    "summary": "Two transgender women arrested by Pattaya police for night theft of 20 million baht Patek Philippe watch Thai Examiner",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSjBjeFU1SEVqMF8zY25kWG4wdFMtZDBxa2d6M2hGMjNGcGg1bG9rajlwM2Nyd0gweTV0VHZsdUx1N2ZLaGtwaGRTTXF0WExyOFF4M2RzekNtcmJGQVJCX3dOdXdqWWhqdmlXQ3N5WGlNV2VBemZETDVhMnlwV3pGdW14c3g3LUUtckZiT0tCMlRxNVdtMHhPX1NpdGlOUzJoUUdpdGN4X21va1BqWnYweVlqMldOM3VSYnRVZ1ZBNllYNGdYaHdGcWcyNGhwdkw2VGlqUnE4UkppNkkzT3M2SnpjTS01dm5ZTjVfZl8yT3hIbjlhdTZaRWx3?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:24",
+    "headline": "As Podcasters Become Cultural Juggernauts, Brands Should Probably Tune In",
+    "summary": "Roughly 81% of weekly podcast listeners now tune into video , either on streaming platforms or YouTube. “The podcast audience is not just passively scrolling on TikTok. Mary Beth Barone regularly attends the Tory Burch show at NYFW.",
+    "entities": [],
+    "link": "https://www.vogue.com/article/as-podcasters-become-cultural-juggernauts-brands-should-probably-tune-in"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:32",
+    "headline": "Inside Zara’s Brand Makeover",
+    "summary": "How did fashion’s original disruptor defend itself from disruption as lower-priced, ultra-fast rivals gained ground? Drawing on a dozen interviews at the famously opaque Spanish giant, this report breaks down the strategy, from dressing Bad Bunny at the Super Bowl to multi-million-dollar store upgrades, that has made Zara worth the premium.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/case-studies/retail/inside-zaras-brand-makeover/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:32",
+    "headline": "What’s at Stake for Fashion at COP31?",
+    "summary": "As climate extremes threaten fashion’s global supply chains, this year’s annual UN climate change conference will test whether governments can get some momentum back into environmental action.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/articles/sustainability/whats-at-stake-for-fashion-at-cop31-turkey/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:32",
+    "headline": "BoF Professional Masterclass | Inside Zara’s Brand Makeover",
+    "summary": "Join us for our next BoF Professional Masterclass on November 18th, at 17:00 BST / 12:00 EST as BoF’s Marc Bain and Sheena Butler-Young unpack key lessons from Zara’s brand elevation push.",
+    "entities": [],
+    "link": "https://www.businessoffashion.com/events/retail/bof-professional-masterclass-inside-zaras-brand-makeover/"
+  },
+  {
+    "cat": "Galleries & Institutions",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:38",
+    "headline": "Coexistences",
+    "summary": "Curators Costa Reis and Manuel d’Olivares explored gold’s role in jewelry, social stratification, and material hierarchies, placing contemporary pieces alongside thematically related artworks belonging to the convent. Some blind parishioners were invited to experience the pieces through touch. Another memorable exhibition was Stuck .",
+    "entities": [],
+    "link": "https://artjewelryforum.org/articles/coexistences/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:38",
+    "headline": "In Conversation with Juror Jorge Manilla",
+    "summary": "For contemporary jewelry artists, a solo exhibition can be especially significant because it creates space to move beyond conventional definitions of jewelry and engage with broader artistic discussions. © 2026 Art Jewelry Forum. TaxID 94-3363896 Copyright © 2026 Art Jewelry Forum.",
+    "entities": [],
+    "link": "https://artjewelryforum.org/interviews/in-conversation-with-juror-jorge-manilla/"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:44",
+    "headline": "Zendaya buys vintage gold Rolex watch at Oakland market - San Francisco Chronicle",
+    "summary": "Zendaya buys vintage gold Rolex watch at Oakland market San Francisco Chronicle",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmVna1NNMGcxV1dndTNGcmxlOW9yYlVfaC1nNXZkem9WR1JwTFltOVhfaGg5YlpWSkpSRmpaUDZfZ3RudU1nZHY2dnFnMHNPTlkwc0tPM0IwM3ZLNzZNYkhMN2xqRkMtTkU3SmZMR1NHaG5VSndDS3J2cTFyUFJuU1FGUFVzUmJPZ1FVVzI0RGJrN3o1djN0V1VULW5tY21jVzRuLQ?oc=5"
+  },
+  {
+    "cat": "Luxury Brands",
+    "src": "Luxury via friedmansammi on Inoreader",
+    "time": "11-09 06:58",
+    "headline": "[COLUMN] The French luxury industry has everything to gain by embracing circularity - Luxus Plus",
+    "summary": "[COLUMN] The French luxury industry has everything to gain by embracing circularity Luxus Plus",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWVI5YXZWQWdYMHdRZzZzTE5udnZCSmxUWXRBa2lZV3hUaHRfd1FkYWdobHFzZGVBREVRcklaOG5CS0UybnVLRGQxR3d5d0xUUS1QTTNJSGNWUUtuTXB3bHlFTC1jeXRLdUtscUlJM0hKZGFIVTMxX3lSdkpocHZDT21QdmVNZlU0emRDYVNrR1JPbXM1WGxtcXFKd0NzTXhqd281NEFoNjItY3oz?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-09 03:31",
+    "headline": "Tickets For Agatha Christie’s Classic Mystery On Sale Now - Whats The Show",
+    "summary": "Tickets For Agatha Christie’s Classic Mystery On Sale Now Whats The Show",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUFBNzFPSDF0Zm9CMVdtZ2tfdGZWUmFvLVlrd2YwQWFUblhQdmRlbVhIMk1BZ1NQUGQxYXdhX19zRUVhVFEzbGd3QnVkbFl4d2JLQy1jcUhQd0F2TnVra0lmeWVGYmdJUE9wS0hVSmJpdnpQcUgzaWFlRnRxdm1uNGYzenl3RFZXOFNmaWRn?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-09 03:34",
+    "headline": "East Gippsland farm sells for district record $44,000-plus per hectare - The Weekly Times",
+    "summary": "East Gippsland farm sells for district record $44,000-plus per hectare The Weekly Times",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNi1CM25TbkUxSzFzWjJkSUVYUXZwUm9Ic0wxRFFvbnpFOXN6amtiajhuVFA0TXdZQVFFbENrbnRiNlR4SVhPYzlHX05xaU5PZThXWndYazNlSjZqWjREXzh6c2pOMi1oQ2FDUWtrRVM1NUQ0RXN4RGp0SktQQWgybHIzZGZVUUprSksycXo3c29VTEt6QjBlX2FyZkRyenV0c1lCMDllTllwb2lNeXJOZnN2TmZHcTZhV0d3Y1pzWm5CYjVpaVY0YkdRd0dQal84cWNuQ3UtNE1qVkNnTUtiejFPOWhNQjR1VUE?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-09 06:42",
+    "headline": "Tickets for Agatha Christie’s Classic Mystery on Sale Now - Theatre Matters",
+    "summary": "Tickets for Agatha Christie’s Classic Mystery on Sale Now Theatre Matters",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0VFcHV1eGJPaW9yV1hPSFM5UUhkR3RrZUtzdlZId2V5N2FjRHQwVmV3cDFYMjcycVVxME5obFJ3V0F0cUQ5eFprdFVyNktuOHJ1SElpclYzWHpZc2RuVFVELU03Y1lHNVcyQ2c3anYyTzM1SGxFSVk2bmpDYWpvVnNBbHFlRTFVR2ZTRFZvNXh1RENubHdB?oc=5"
+  },
+  {
+    "cat": "Auction Results",
+    "src": "Auction Houses via friedmansammi on Inoreader",
+    "time": "11-09 07:49",
+    "headline": "Croatian collector brings rare pieces of the country’s history to auction - Croatia Week",
+    "summary": "Croatian collector brings rare pieces of the country’s history to auction Croatia Week",
+    "entities": [],
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTAyS244SUV1Q0pYSzR5Z2Q1Qi1IdkZjWTdpMUlsSmtnWWVuakJtZVZfNlJDVWRUUFFva0tWQ1h0ci0tSkVWWHZzVXM5TC00Q2dQQ1FmWGdtMktWYnpWajVLMVV3UTJsNUtsV2hWMDlQeUJfTGN0UkItTllQTTdsV3ZEVVlmT0JUbDhWNnVrT1daNjBrd3BRMWcwQnJSSV9TRGRR?oc=5"
+  },
+  {
+    "cat": "Art News",
+    "src": "Fine Art News via friedmansammi on Inoreader",
     "time": "11-09 00:44",
     "headline": "Headed to Art Basel Miami Beach? This Chic Packing List Balances Statement Style and All-Day Comfort - Yahoo",
     "summary": "Headed to Art Basel Miami Beach? This Chic Packing List Balances Statement Style and All-Day Comfort Yahoo",
@@ -1607,252 +1856,5 @@
     "summary": "Select reference data provided by FactSet. Copyright © 2026 FactSet Research Systems Inc. CUSIP Database provided by FactSet Research Systems Inc.",
     "entities": [],
     "link": "https://www.tradingview.com/chart/US10Y/Jw9Awdk3-Who-Actually-Absorbs-the-Cost-of-US-Deficits/"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-07 17:24",
-    "headline": "Agatha Christie Meets Hallmark In Netflix's New Detective Series Trending At The Perfect Time - ScreenRant",
-    "summary": "Agatha Christie Meets Hallmark In Netflix's New Detective Series Trending At The Perfect Time ScreenRant",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV2pQMGdqLW15NVROaDNyZUtNNWJtMEtJa19KRENDTjJkNmxlblU3bEt3QjRySUw3VHIwZnZQQUhhU1RiSWI5MVlNT05IVkVLRExkZXJlamZuNHJRLUY2UE80YnpwN0Z2R0tta1VMd3ZjU3h6UllVYmF3UlNqV2h5ZnpEVnJkWk9TdFByMFBsUkVWcGQ1QWdLc0lTUUZjQQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-07 18:20",
-    "headline": "French court orders return of Nazi-looted Pissarro painting to Jewish collector’s heirs - The Times of Israel",
-    "summary": "French court orders return of Nazi-looted Pissarro painting to Jewish collector’s heirs The Times of Israel",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWFhWUlQtSkpCZkVWTFB0YlFla1E3OXptUHg5RDB1ckRVVjVteU9taFBOUzROSEpNeGhDbnVxems4TVZNV3Jra3BkR19IT0k3Zk01M29ERE1yOFJJVVZvc1hTeUFtU1FqaDY0MjZHWFNUcEhIbVMwTjFIaDQxTzlGbGc4VC13SGdrbzlQLTZGZDVydUtKcnV3U1JMWU4zU2tSeml0VnNWcWdrR3liTktYb19XWEhMbXlp0gG-AUFVX3lxTE0tNkJxOFNCMDlGYk1rUGNjT29VQ1JuM2M0QVhzeWVxbkF3OUx2UERWNWpCVDlpaU5VNVJPUzhuMkVSNXVWUHRaV2UzMDFhUUJPTTlXaWxoVTF2VjFUZXF2WXJMY3dPdGZMcWlIUlQyVTNFbzhWZV96LXBvb2F5SFNHS1hXbU9QYXRrUUxJMllDazJNU3R0OS1kQ2M4V0FGM2xjeV9CLTJ1aXRwVjctdnBTZTdLYkxuSGpLYWpWaXc?oc=5"
-  },
-  {
-    "cat": "Galleries & Institutions",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-07 10:26",
-    "headline": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
-    "summary": "Related Articles Sophie Calle, Doris Salcedo Among Winners of $105,000 Praemium Imperiale Award Doris Salcedo Deserves Better Than Her Current Fondation Beyeler Survey Before her vision started to change, Salcedo made all her sculptures alone. Like Fragmentos , Salcedo’s studios boast high ceilings. SALCEDO LEARNED TO WORK WITH human hair from earlier pieces: “Unland” (1995–98) comprises tables severed and then rearranged such that they depend on dissimilar tables for structural support.",
-    "entities": [],
-    "link": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/"
-  },
-  {
-    "cat": "Art News",
-    "src": "Fine Art News via friedmansammi on Inoreader",
-    "time": "11-07 10:38",
-    "headline": "Major Sales and New Discoveries at Frieze London and Frieze Masters 2026 - Frieze",
-    "summary": "Major Sales and New Discoveries at Frieze London and Frieze Masters 2026 Frieze",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0RGbzkyMUV5b3hKaUQ1ejNoUEJEdXhYZHV1OEFlUkRxMHdka2NGanRDRkxac3RjS2lXQlpIRXU1cGZXWEExbHJ1TTRrSkVkeHc4eF9TMThSZEF5X1ByaVc4bjhUWEg2bUV4aFV4NHNudWNBVmNTdnhJZmtqaUxIb09WZzgyLWFVemNVbw?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 10:56",
-    "headline": "Arthur Rinderknech vs Miomir Kecmanovic - Match ATP - BNP Paribas Nordic Open 2026 - Third round - tennismajors.com",
-    "summary": "Arthur Rinderknech vs Miomir Kecmanovic - Match ATP - BNP Paribas Nordic Open 2026 - Third round tennismajors.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2dBZ200LXVUVERYYjgycVNqblBjUnY5ZnphUXNQZ1NEYzc1enJUUXhoSEhCTllMN01FQVBLNGxTdDNZNndhdGphSklrMDItSmplZ19sY1M4a191UmdyRlRFVVM1MEw3WmZCV3paTW1MNUVVNkVERnF1dFFud1Q5MkYzNlZWOVR2NS1CMk8yX0phQmpRdDRINVFQNXc2UQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 10:56",
-    "headline": "Alex Michelsen vs Yannick Hanfmann - Match ATP - BNP Paribas Nordic Open 2026 - Third round - tennismajors.com",
-    "summary": "Alex Michelsen vs Yannick Hanfmann - Match ATP - BNP Paribas Nordic Open 2026 - Third round tennismajors.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2Jmd1ZNMGlLb0h6bTE5S0dPOXc2WTh0NDlxaWVCekp2T2gxZFlkSHc4amNIZ1Ezdm1iTWwzYVJrSnMxUFN0WkMwTjFUVUxjWHk2eHV0X0JsWVhITTQ0bmIwNXhPd1F2ak5xZHJKMmdBYkplQ0czY3lOMDdXQlkyV3Y1QXU0Wk93ejFwd182a2RlRFJqNGtF?oc=5"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:23",
-    "headline": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
-    "summary": "Sometimes, the smallest styling decisions make the biggest impact. Never underestimate the styling power of a delicate white floral brooch. One reliable measure of an accessory's desirability?",
-    "entities": [],
-    "link": "https://www.vogue.com/article/fall-2026-most-wanted-accessories"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:23",
-    "headline": "Colormania Outside the Spring 2027 Shows",
-    "summary": "Julian Klausner and Zane Li are among a new cohort of kings of color painting the runways in brights that kept us talking about color all summer long . An ideal transitional color from summer to fall. As Vogue wrote this summer, red is fashion’s new neutral .",
-    "entities": [],
-    "link": "https://www.vogue.com/article/color-mania-outside-the-spring-2027-shows"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:31",
-    "headline": "Balenciaga appoints Martine Rose as creative director - Retail Bulletin",
-    "summary": "Balenciaga appoints Martine Rose as creative director Retail Bulletin",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUFqeDd1SktXYjJtcVBEeWJuZno1Zl9EVFhHNk5hNGNSS3k1MGNYaWZPUUNnblB1QlZBSWtmdnU2RmIyT3RqdmhxT1BWZGk3cG1pTmdVTjV0eG9wd2xPNklDZGlQMWRaRU55eEQ4allRUkY4dGVjVzZBRm5pSnpLMTl2VGtHYVhuc0ZUUnFvRnFtamtwTEhhZVQ4MjI1U2oweUZDYVV0QWlPSGM?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:31",
-    "headline": "Kering stock gets Balenciaga reset as Martine Rose starts November 16 - ad-hoc-news.de",
-    "summary": "Kering stock gets Balenciaga reset as Martine Rose starts November 16 ad-hoc-news.de",
-    "entities": [
-      "Kering"
-    ],
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTm50T1FXM0FqazcyaDBWMkgtMEUwX2lPMk90dU9wU05QcFB0Z1VkdWNDbGc4TXNRMDdFSTVUNl9NWDRoRXhhM0ctSllsM0ZhZnJlRzdKWmNUSUdCOEpSYXF4c0dQdVBxTUNJR2ZoOC1wbGtqOVBJZi1GaDJKUVhaOGxjVl9DUVh2WXZ6TjRPMzFReWZnV3huaUhneE9LUlBqMmZCcXNEemtqM29OZWpZYWJaT0RiaTNZMnEyUDRFemstWnlHbVFMOHVaR28?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:58",
-    "headline": "Richemont stock draws focus as De Beers talks advance - ad-hoc-news.de",
-    "summary": "Richemont stock draws focus as De Beers talks advance ad-hoc-news.de",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEdBM3U4RjJEdG5HYmg3eEdoYXpZblJ2ZktrbjBUSE9uZm5nemtQSzFPQkJ1OTlYSzMtd0R6NzdBRXd1dGMxMUNEMFhRRmIwWEFENUk0bVJkMjBiWGFDbUdJc2JlSVNqWlU5NWVMN2FCRGhub2JydE5mYWFtTkFiNzJmY1BheldwYWdSSi12NTVYaFpEQU1MUFZOZG0yaVZraktLODI3R2ZTYzFaR3R3TDdVck5nQVE?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:59",
-    "headline": "Sports News, Transfers, Scores | Watch Live Sport - Sky Sports",
-    "summary": "Sports News, Transfers, Scores | Watch Live Sport Sky Sports",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWt5REV2cUg3TVp6bl80QmNOd2RLRjR2NWZTTmlWamladGNUd05kT28wc2xKZUdhQWJzdjBaMDBEd0hCQjF0UVNlcTBaZlJ4QVBvWXZxNUl3RHZzZno3cW1Xd0ZLSHRFWGF1UDI0MWM5LWk1a25aS2h1aXZrWFMyUFJ2QVM0d0thZWRVN19TUTFxdGhHajAzV3c0cDk?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:59",
-    "headline": "Tomas Martin Etcheverry vs Max Dahlin - Match ATP - BNP Paribas Nordic Open 2026 - Third round - tennismajors.com",
-    "summary": "Tomas Martin Etcheverry vs Max Dahlin - Match ATP - BNP Paribas Nordic Open 2026 - Third round tennismajors.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR21BVVBrRUxNUExKQmZ5T1c5V1dVNGt3YWpoR25wWFNwZUtld1drRkVXLTJHdWtjUFdVeExGMDczUzNSSlFPMXZvMERCZXBmb1pvS1RvcWtNcFRUbnV1MHIwQ2hmbXFRNkFGMlpfcnVpNFFNOEdIVlg2Rl9FREVnNGFzYTk5ZmFQV3ByOXBqSXY0TDlmOWhHaQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 11:59",
-    "headline": "Albanian burglar shows off Rolex watches while fighting deportation - The Telegraph",
-    "summary": "Albanian burglar shows off Rolex watches while fighting deportation The Telegraph",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmRUYjNNRjZpbF9SS0Z0M2puUzZORVN0R3dKdDM5NlhETTM1UVItMnpqN041a2F0ZzA0QUllejV5aGJxc1FyM2NEemhlM1BfWE1kcktGdXBrT0JIV3Y2NFBNOUY5ZXIwaEdDbDVheGlISTFidlpNMV9LNDk2TERRSmlGUmdMb0hYM1luR3FCR3VGV1dRRkNSXzNDRmhhLTd0S1E?oc=5"
-  },
-  {
-    "cat": "Market Trends",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:10",
-    "headline": "Black Nails: The Little Black Manicure Is Having a Major Moment",
-    "summary": "Hailey Bieber signature. Hailey Bieber’s glam goth manicure at the 2026 Academy Museum Gala. Email Margaux at beauty@vogue.com .",
-    "entities": [],
-    "link": "https://www.vogue.com/article/black-nails-trend"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:10",
-    "headline": "Get Moving: The 2026 Vogue .Gif Guide",
-    "summary": "Gifts that would swing, dangle, bounce, roll, rock, and more. Their, well, charms, remain ever enticing. Shop 60+ It Items That Are Defining Fashion Right Now © 2026 Condé Nast.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/gift-guide-gif"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:10",
-    "headline": "Dakota Johnson Dons Diamonds and a Hoodie for Date Night With Machine Gun Kelly",
-    "summary": "At Vogue World: Milano, Kelly walked the runway in a bright orange Byblos jumpsuit while Johnson watched from the front row in plunging black Valentino . Update to the latest version to see all Vogue content, as well as new features like our Runway Genius quiz, Group Chats, and posts from Vogue contributors. Become a Vogue Business Member!",
-    "entities": [],
-    "link": "https://www.vogue.com/article/dakota-johnson-diamonds-and-a-hoodie-date-night-machine-gun-kelly-11-07-2026"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:12",
-    "headline": "Mexico And Several Other Countries Expand All-Inclusive Travel As Luxury Demand Tests Hyatt’s Model",
-    "summary": "Mexico is strengthening its position in the international luxury holiday market as all-inclusive resorts attract travellers seeking convenient, premium accommodation and comprehensive holiday experiences. Hyatt has increasingly positioned itself within this segment through its Inclusive Collection, which includes several established resort brands. Secrets Mirabel Cancún Resort & Spa represents the type of premium holiday experience that has helped all-inclusive accommodation gain international…",
-    "entities": [],
-    "link": "https://www.travelandtourworld.com/news/article/9swcy28b22ou/"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:22",
-    "headline": "LXY Philly unveils its 2026 holiday collection of Rolex, Cartier, Hermes and Chanel watches, handbags and jewelry - openPR.com",
-    "summary": "LXY Philly unveils its 2026 holiday collection of Rolex, Cartier, Hermes and Chanel watches, handbags and jewelry openPR.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3BiZ01zUFB1a1Y5Mko3Ny04Q2lhTWRZcjhKSDhlWUtrc1VYTUlETG5VTkNJSHF2UUZlZkU3QlFSZlkzZWpOczR3MGdXLVB0N092SzM4UTdaSHlRLWhqRUpVRUF6NmVURzk1MDdjbV9HUjdubzh0OWdmamlWTHZiMUVVejdzYjBHM29YSmRPbXJRVGQ0NFE?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:33",
-    "headline": "ElegantSwiss stocks Rolex, Patek Philippe, Audemars Piguet and more luxury watches for holiday 2026 - openPR.com",
-    "summary": "ElegantSwiss stocks Rolex, Patek Philippe, Audemars Piguet and more luxury watches for holiday 2026 openPR.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1RjemtuellWY20xaE9Rb1J4Z2RHM3hrakZNRy0yRExoRzc0R2NwMnh6cmVVR09QTVYzejNFTFoxalo2RE9uOWhhek9ib04wNHBERkoyZW1jZ2VmUHlsRmtMZDJVYmNzbDk2S2RJNENKTHY1Sm4zMWtxY2ZjVDJ2T3pZV1ZsVnpEelZOUTRfUnFfR09vRDNr?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:33",
-    "headline": "The 7 Best Watches of the Week, Including Jonah Hill’s and Future’s Pateks - Robb Report",
-    "summary": "The 7 Best Watches of the Week, Including Jonah Hill’s and Future’s Pateks Robb Report",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUU5VeTJkNnZTNDVScWY0ckdoTEp6UExLTDFGQ2dybTFQNXJwTURuTml2cFlvb05zbVN4RXdrc2hrbXdOdWE3NXRueHJyUFd5R0ZiYUdVZElQMThjeHVDRzYyQjlVZUx5N002UWpCX0Z1V1lXMm81Q2pTQXV1a3JHc1Vocng2SS1l?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 12:57",
-    "headline": "Rolex Yacht-Master 42 RLX Titanium vs Land-Dweller | VIDEO - Time+Tide Watches",
-    "summary": "Rolex Yacht-Master 42 RLX Titanium vs Land-Dweller | VIDEO Time+Tide Watches",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQblduU000Uk5UaU45c1JQVVc3WW1qbHF3UHdsTzlPMmlWZG5kdTVYMVE3X2xQTHJ5emx1UURXLU9pbGpUdVdXWUNKOFJIQUs3RUthelp2bk1fX3BWMDQycVZPRG5zYU5DcXc3UWFuVllHSXptcnhXR2loRUNNelRrbkhiYnpKaERZd2VSU2F4d3F3UQ?oc=5"
-  },
-  {
-    "cat": "Luxury Brands",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 13:03",
-    "headline": "China tax crackdown pushes wealthy to gold as safe haven, lifting Hong Kong jewellery sales - The Business Times",
-    "summary": "China tax crackdown pushes wealthy to gold as safe haven, lifting Hong Kong jewellery sales The Business Times",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTFA2SXp4elU2dG1tT25RWjNTZU9ranQ1Y041X19vdVNBbUxIaGpkbEMweG9WQ0lsV3Q4dHNoXzRRSGY0MThHYUE3cERWRC1WeDFCa25penJIbVNCZl80eno3R0RhT3hGN2xhcEZIU3V0Z3ItZ0lIMy1xVEFqbnFMVjByZ2FCWlptNGhNMEM4V1RVRTZ6YzFlUlVtR2FaYzNLVy1ya1E0T2RlVE1oSnN5ZHprMUJ3MF9EV0RYSlhGMDQ4N0ZRTjUyRGFVOE0xTXNJemR0OVB4cS1CNHZkVWRYaUNJNE16WEhNdWc?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Luxury via friedmansammi on Inoreader",
-    "time": "11-07 13:16",
-    "headline": "Dry Brushing: Why I Do It Every Day And All The Benefits",
-    "summary": "So what is dry brushing? Because of the exfoliating nature of dry brushing, there could be a lot of skin-shedding debris that builds up in the brush that can make dry brushing ineffective or irritate your skin further. Garshick says that dry brushing can be done one to two times a week if you have sensitive skin, as frequent brushing might cause irritation.",
-    "entities": [],
-    "link": "https://www.vogue.com/article/dry-brushing-how-to"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-07 07:07",
-    "headline": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting $92.8 Million Auction in Partnership with Concours at Wynn Las Vegas - The Manila Times",
-    "summary": "Ferrari Supercars Dominate Broad Arrow’s Record-Setting $92.8 Million Auction in Partnership with Concours at Wynn Las Vegas The Manila Times",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQb3hCTVhwbWY5ZEQ0SVMyQnlkenVtanYyVzhqQ2NkRHprQUNJTlA5aFdPUmtfV0FyNFpfcjdpX29mWGJVdm9EbkhFS2V2bVNQNGl0Ukd2Y0Fuc1dRb1VZdUd4ZmtDSjR4S0R1b2JEV2ZrMURqb1laTTZxem40OWd3UFIydHNsLTdkZ2NBaVhFOEk1TkZZVlBKeXFWWDhKWnNRS1paaG5uem9WYWt1YlJLQ2lTQnhYVzRCZzRpNkdIblMwNThYNTRnRGxidWJrMFpKbld2WkFxNWM2TGxBdXBEU1NmNlY5Vk1tQ240bWloVEFKMWhsc2NEU0lXb3d1ZWVVTDVKY3Q4NnNvd041NExRNUdneGo0TXBZTGpMTjhoZmbSAaYCQVVfeXFMT1ctR3RhdTFKdkRqT01SNElnNUVhZENnRy1xZDM1XzFwYjJfMVkyZXpvZkpSYkRjSm5wcU95c1dDdmZFVjVnbTRaY19jaHFvdnIyQ1RuMEJXdmR5dWJjT01oZUZJSEpYTmZJWU5rd1pWNTRZNVBTSTZPMmRxOFY1MVFVVU5BN21VVHJ3b3hPNDNqMGRWZFBYR2c5b2hKQU40RXl3WmoySWgwbWNMVHJ2b3c4ZG9GNHZPSUhTejRLNW9JeG1hS2FJekFaTUliOFdycWxCbDRhZ1FKd19IV0FaVDExYnljYUVtaG8zZFI1OEZGYnpmWE5HcVMyR2FWQVpIdzNlZHpIMzlJMVUzMnNCQ2wzaDdxcV9keDB6QzdtcGZycWhnWXRB?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-07 07:22",
-    "headline": "Ayrton Senna's Legendary Honda NSX Just Set An Auction Record: $1.17 Million - Motor1.com",
-    "summary": "Ayrton Senna's Legendary Honda NSX Just Set An Auction Record: $1.17 Million Motor1.com",
-    "entities": [],
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iWWRKU2xSdTN2anJSUTlGb1hfTWdJalltQWoxbDZJdXFlclVBblExaVpMOGxaNkdjaUk1eGxlLXV4d0RNY1dRVnk5RGdyMGlseGdOOGhJalZSdFU2RVhWbmQyb3JOOWlKSG1MVUZIWUgyQQ?oc=5"
-  },
-  {
-    "cat": "Auction Results",
-    "src": "Auction Houses via friedmansammi on Inoreader",
-    "time": "11-07 08:11",
-    "headline": "Are You in This René Magritte Painting? | Sotheby’s",
-    "summary": "Still haven't subscribed to Sotheby's on YouTube? ►► https://www.youtube.com/sothebys/ Want more information about the painting? ►► https://www.sothebys.com/en/buy/auction/2026/modern-evening-auction-4/lami-de-lordre #surrealism #magritte #modernart",
-    "entities": [
-      "Sotheby's"
-    ],
-    "link": "https://www.youtube.com/watch?v=GqGbZE8b4xI"
   }
 ]
