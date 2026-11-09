@@ -1,10 +1,4 @@
 {
-  "2026-11-01": {
-    "Art Basel": 6,
-    "Sotheby's": 2,
-    "Kering": 1,
-    "Christie's": 1
-  },
   "2026-11-02": {
     "Christie's": 4,
     "Gagosian": 2,
@@ -61,5 +55,10 @@
     "Phillips": 1,
     "Art Basel": 4,
     "Kering": 2
+  },
+  "2026-11-09": {
+    "Kering": 1,
+    "Gagosian": 1,
+    "Art Basel": 1
   }
 }
