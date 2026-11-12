@@ -60,11 +60,13 @@
     "David Zwirner": 1
   },
   "2026-11-12": {
-    "Sotheby's": 2,
-    "Christie's": 3,
-    "Art Basel": 6,
-    "David Zwirner": 1,
+    "Sotheby's": 5,
+    "Christie's": 9,
+    "Art Basel": 15,
+    "David Zwirner": 3,
     "Kering": 3,
-    "LVMH": 1
+    "LVMH": 1,
+    "Phillips": 2,
+    "Gagosian": 3
   }
 }
