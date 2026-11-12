@@ -1,12 +1,4 @@
 {
-  "2026-11-04": {
-    "Christie's": 6,
-    "Sotheby's": 4,
-    "Phillips": 1,
-    "LVMH": 1,
-    "Kering": 1,
-    "Art Basel": 4
-  },
   "2026-11-05": {
     "David Zwirner": 6,
     "Christie's": 6,
@@ -65,6 +57,12 @@
     "Kering": 4,
     "LVMH": 1,
     "Art Basel": 6,
+    "David Zwirner": 1
+  },
+  "2026-11-12": {
+    "Sotheby's": 2,
+    "Christie's": 2,
+    "Art Basel": 4,
     "David Zwirner": 1
   }
 }
