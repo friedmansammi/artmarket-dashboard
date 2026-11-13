@@ -18,7 +18,7 @@
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "+0.0%",
+    "delta": "+20.0%",
     "dir": "up",
     "spark": [
       5,
@@ -28,7 +28,7 @@
       18,
       8,
       9,
-      5
+      6
     ]
   },
   {
@@ -114,7 +114,7 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-84.6%",
+    "delta": "-76.9%",
     "dir": "down",
     "spark": [
       13,
@@ -124,7 +124,7 @@
       5,
       6,
       15,
-      2
+      3
     ]
   }
 ]
