@@ -2,49 +2,49 @@
   {
     "name": "Sotheby's",
     "meta": "Auction House",
-    "delta": "+120.0%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      5,
       7,
       7,
       2,
       3,
       12,
       3,
-      11
+      11,
+      0
     ]
   },
   {
     "name": "Christie's",
     "meta": "Auction House",
-    "delta": "-22.2%",
+    "delta": "-71.4%",
     "dir": "down",
     "spark": [
-      9,
       7,
       4,
       4,
       6,
       7,
       9,
-      7
+      7,
+      2
     ]
   },
   {
     "name": "Phillips",
     "meta": "Auction House",
-    "delta": "+100.0%",
-    "dir": "up",
+    "delta": "-83.3%",
+    "dir": "down",
     "spark": [
-      2,
       6,
       0,
       0,
       0,
       4,
       4,
-      4
+      4,
+      1
     ]
   },
   {
@@ -54,11 +54,11 @@
     "dir": "down",
     "spark": [
       1,
-      1,
       0,
       0,
       1,
       3,
+      0,
       0,
       0
     ]
@@ -66,45 +66,45 @@
   {
     "name": "Kering",
     "meta": "Conglomerate",
-    "delta": "+33.3%",
-    "dir": "up",
+    "delta": "-100.0%",
+    "dir": "down",
     "spark": [
-      3,
       1,
       4,
       0,
       2,
       7,
       5,
-      4
+      4,
+      0
     ]
   },
   {
     "name": "Gagosian",
     "meta": "Gallery / Dealer",
-    "delta": "-66.7%",
-    "dir": "down",
+    "delta": "+100.0%",
+    "dir": "up",
     "spark": [
-      3,
       0,
       0,
       0,
       0,
       2,
       3,
+      1,
       1
     ]
   },
   {
     "name": "David Zwirner",
     "meta": "Dealer / Gallery",
-    "delta": "-100.0%",
-    "dir": "down",
+    "delta": "+0.0%",
+    "dir": "up",
     "spark": [
-      3,
       0,
       0,
       1,
+      0,
       0,
       0,
       0,
@@ -114,16 +114,16 @@
   {
     "name": "Art Basel",
     "meta": "Fair",
-    "delta": "-26.7%",
-    "dir": "down",
+    "delta": "+175.0%",
+    "dir": "up",
     "spark": [
-      15,
       4,
       0,
       2,
       3,
       6,
       6,
+      11,
       11
     ]
   }
